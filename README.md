@@ -107,6 +107,15 @@ Installation
 2. Unpack the .zip file
 3. Put the contents into your bottle or anywhere you would like
 4. Go into Crossover
+5. Click on your bottle
+6. Select "Wine Configuration"
+7. Select "Libraries"
+8. Input "dinput8.dll" in the "New override for library"
+9. Then click on add
+
+   This will make sure it loads Scripthook for the OpenAsi plugin so a corrupt error message doesn't come up and it loads properly.
+   Don't trust me? Put your finger up your ass.
+   
 
 Need to know info:
 - 
