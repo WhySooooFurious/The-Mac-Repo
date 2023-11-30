@@ -1,4 +1,4 @@
-#Stuff for Mac:
+Stuff for Mac:
 -
 
 My Mac
