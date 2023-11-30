@@ -23,7 +23,7 @@
 ### Call of Duty (Any game)
 - **Stability:** Not Stable
 - **FPS:** Bad
-- **Settings:** Maxed
+- **Settings:** Low
 - **Method:** Crossover (DXVK & D3DMetal), Mac App Store
 - **Notes:** Very bad. Don't even try it. Would work better in parallels but I haven't tried lmao.
 
@@ -74,7 +74,7 @@
 - **FPS:** Excellent
 - **Settings:** Low
 - **Method:** Crossover (DXVK & D3DMetal), Cracked
-- **Notes:** FPS can shoot up to 120 in some areas while it can go down to 80-90 in city areas. The higher 2560x1600 resolution has small stutters which is still playable at around 45fps. The lite version of GTA-V has a very big impact on stutter which is negligble now and helps boost the fps by a considerable amount.
+- **Notes:** FPS can shoot up to 120 in some areas while it can go down to 80-90 in city areas. The higher 2560x1600 resolution has small stutters which is still playable at around 45fps. The lite version of GTA-V has a very big impact on stutter which is negligble now and helps boost the fps by a considerable amount. By upping some settings you can still gain 60fps with some drops.
 
 ## GTA-V + Resized + Lite
 
