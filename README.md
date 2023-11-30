@@ -1,5 +1,5 @@
-Stuff for Mac:
--
+#Stuff for Mac:
+
 My Mac
 -
 M1 Macbook Air
