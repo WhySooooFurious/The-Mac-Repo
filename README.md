@@ -2,7 +2,7 @@
 
 ## Overview
 - **Device:** M1 MacBook Air
-- **Specs:** 8 Core CPU, 7 Core GPU
+- **Specs:** Base Model, 7 Core GPU
 
 ## Game Settings
 - **V-Sync:** On
