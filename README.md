@@ -26,6 +26,7 @@ Testing
 I've tested many games for MacOS using various methods
 
 Call of Duty (Any game):
+-
 
 │Not Stable│FPS:Bad│Settings:Maxed│Crossover:DXVK & D3DMetal│Mac App Store│
 
