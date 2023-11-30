@@ -14,13 +14,57 @@ Settings: As low as they can be
 
 Crossover 23.7 currently
 Windows 7 64bit Bottle
-DXVK/GPTK (Will be specified)
+DXVK/GPTK
 M-SYNC: ON
 E-SYNC: ON
+
+Things you should know:
+Thermal Throttling will be a thing.
 
 Testing
 -
 I've tested many games for MacOS using various methods
+
+Call of Duty (Any game):
+
+│Not Stable│FPS:Bad│Settings:Maxed│Rosetta: x64│Mac App Store│
+
+Notes: Perfect FPS. Depends on the plane as well
+
+Simple Planes:
+
+│Very Stable│FPS:Excellent│Settings:Maxed│Rosetta: x64│Mac App Store│
+
+Notes: Perfect FPS. Depends on the plane as well
+
+
+Resident Evil: Village:
+
+│Stable│FPS:Good│Settings:Maxed│Native: ARM64│Steam│
+
+Notes:
+Perfectly optimised. Perfect example of a good game made by good devs. Maxed out settings at 30fps stable. Low settings 60fps+
+
+Minecraft: Java Edition:
+
+│Very Stable│FPS:Excellent│Settings:Maxed│Native:ARM64│Prism Launcher│
+
+Notes:
+Perfect fps with Fabulously Optimised modpack. Nothing more to say.
+
+Sleeping Dogs: Definitive Edition:
+
+│Relatively Stable│FPS:Ok│Settings:Low│Crossover: DXVK│Steam│
+
+Notes:
+Looks ok with low settings. Reaches 60 fps and sometimes dips with occasional small stutters.
+
+No Man's Sky:
+
+│Stable│FPS:Ok│Settings:Low│Native: ARM64│Steam│
+
+Notes:
+Ok. I would expect more from a native game like this. Enable FSR or MetalFX for higher fps. Doesn't look magnificent. Can reach 60fps with tweaking settings until thermal throttling kicks in.
 
 Dying Light 1:
 
@@ -31,7 +75,7 @@ FPS sometimes goes down to around 53-ish but gameplay is good. Not many stutters
 
 Grand Theft Auto V:
 
-│Very Stable│FPS:Very Good│Settings:Low│Resolution:1680x1050│Crossover:DXVK & D3DMetal│Cracked│
+│Very Stable│FPS:Excellent│Settings:Low│Crossover:DXVK & D3DMetal│Cracked│
 
 Notes: FPS can shoot up to 120 in some areas while it can go down to 80-90 in city areas. The higher 2560x1600 resolution has small stutters which is still playable at around 45fps. The lite version of GTA-V has a very big impact on stutter which is negligble now and helps boost the fps by a considerable amount.
 
