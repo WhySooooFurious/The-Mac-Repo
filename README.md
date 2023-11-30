@@ -6,9 +6,28 @@ M1 Macbook Air
 8 Core CPU
 7 Core GPU
 
+Game settings:
+If settings are changed it will be specified
+V-Sync: On
+Resolution: Usually 1680x1050 or 2560x1600
+Settings: As low as they can be
+
+Crossover 23.7 currently
+DXVK/GPTK (Will be specified)
+M-SYNC: ON
+E-SYNC: ON
+
 Testing
 -
-I've tested many games for MacOS all using Crossover 23.7
+I've tested many games for MacOS using various methods
+
+Dying Light 1: 
+│Relatively Stable│FPS:60│Settings:Low│Crossover│Cracked│
+
+Notes: 
+
+Grand Theft Auto V:
+│Very Stable│FPS:60│Settings:Low│Crossover│Cracked│
 
 GTA-V + Resized + Lite
 -
