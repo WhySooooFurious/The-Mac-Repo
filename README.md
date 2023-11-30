@@ -27,9 +27,9 @@ I've tested many games for MacOS using various methods
 
 Call of Duty (Any game):
 
-│Not Stable│FPS:Bad│Settings:Maxed│Rosetta: x64│Mac App Store│
+│Not Stable│FPS:Bad│Settings:Maxed│Crossover:DXVK & D3DMetal│Mac App Store│
 
-Notes: Perfect FPS. Depends on the plane as well
+Notes: Very bad. Don't even try it. Would work better in parallels but I haven't tried lmao.
 
 Simple Planes:
 
@@ -54,7 +54,7 @@ Perfect fps with Fabulously Optimised modpack. Nothing more to say.
 
 Sleeping Dogs: Definitive Edition:
 
-│Relatively Stable│FPS:Ok│Settings:Low│Crossover: DXVK│Steam│
+│Relatively Stable│FPS:Ok│Settings:Low│Crossover: DXVK & D3DMetal│Steam│
 
 Notes:
 Looks ok with low settings. Reaches 60 fps and sometimes dips with occasional small stutters.
