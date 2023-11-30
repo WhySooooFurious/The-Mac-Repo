@@ -16,7 +16,7 @@
 - **E-SYNC:** On
 
 ## Important Notes
-- **Thermal Throttling:** Expect it to occur.
+- **Thermal Throttling:** It will happen.
 
 ## Testing
 
