@@ -1,7 +1,3 @@
-
-ChatGPT
-markdown
-Copy code
 # My Mac Setup
 
 ## Overview
