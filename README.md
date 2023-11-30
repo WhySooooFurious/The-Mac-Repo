@@ -1,6 +1,5 @@
-# My-Mac-Repo
-
-Stuff for Mac!
+Stuff for Mac:
+-
 
 GTA-V + Resized + Lite
 
