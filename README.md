@@ -7,7 +7,7 @@
 ## Game Settings
 - **V-Sync:** On
 - **Resolution:** Usually 1680x1050 or 2560x1600
-- **Graphics Settings:** As low as they can be or depending on the game and fps I can test with more
+- **Graphics Settings:** As low as they can be or depending on the game and fps I can test with better settings
 
 ## Crossover 23.7 Settings
 - **Windows:** Windows 7 64bit
