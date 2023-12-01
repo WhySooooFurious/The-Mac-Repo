@@ -13,7 +13,6 @@
 - **Windows:** Windows 7 64bit
 - **Bottle:** DXVK/GPTK
 - **M-SYNC:** On
-- **E-SYNC:** On
 
 ## Important Notes
 - **Thermal Throttling:** It will happen.
