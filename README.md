@@ -4,19 +4,26 @@
 - **Device:** M1 MacBook Air
 - **Specs:** Base Model, 7 Core GPU
 
-## Game Settings
+## Game Settings/Notes
 - **V-Sync:** On
 - **Resolution:** Usually 800x600 (V Low res), 1680x1050 (Mid res) or 2560x1600 (High res)
 - **Graphics Settings:** As low as they can be or depending on the game and fps I can test with better settings
 - **FPS:** Bad: 10-20, Good: 30-40, Excellent: 50-60
+- **Stability:** Not Stable: Stuttery mess, Stable: Some stutters, Very Stable: Buttery
 
-## Crossover 23.7 Settings
+## Crossover Settings
 - **Windows:** Windows 7 64bit
 - **Bottle:** DXVK/GPTK
 - **M-SYNC:** On
 
+- ## Parallels Settings
+- **Windows:** Windows 11 Pro
+- **CPU:** 2/4 Cores, Depends
+- **RAM:** 2/4 GB, Depends
+
+
 ## Important Notes
-- **Thermal Throttling:** It will happen, so keep that in mind
+- **Thermal Throttling:** It will happen on my mac, so keep that in mind, these are mostly all burst tests
 
 ## Testing
 
