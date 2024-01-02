@@ -15,7 +15,7 @@
 - **M-SYNC:** On
 
 ## Important Notes
-- **Thermal Throttling:** It will happen.
+- **Thermal Throttling:** It will happen, so keep that in mind
 
 ## Testing
 
