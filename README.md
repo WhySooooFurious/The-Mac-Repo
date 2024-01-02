@@ -27,6 +27,27 @@
 
 ## Testing
 
+### Dirt Rally
+- **Stability:** Stable
+- **FPS:** Excellent
+- **Settings:** High
+- **Method:** Native (x64) Steam
+- **Notes:** This is perfectly optimised. Only on low res though. Or in order words, the same as Dirt 4
+
+### Dirt 4
+- **Stability:** Stable
+- **FPS:** Excellent
+- **Settings:** High
+- **Method:** Native (x64) Steam
+- **Notes:** This is perfectly optimised. Only on low res though
+
+### Cities Skylines
+- **Stability:** Stable
+- **FPS:** Good
+- **Settings:** Low
+- **Method:** Native (x64) Cracked
+- **Notes:** Badly optimised, but playable
+
 ### Borderlands 2
 - **Stability:** Stable
 - **FPS:** Excellent
@@ -85,7 +106,7 @@
 
 ### Sleeping Dogs: Definitive Edition
 - **Stability:** Relatively Stable
-- **FPS:** Ok
+- **FPS:** 
 - **Settings:** Low
 - **Method:** Crossover (DXVK & D3DMetal), Steam & Native (x64)
 - **Notes:** Looks ok with low settings. Reaches 60 fps and sometimes dips with occasional small stutters. Crossover works better than native because of native using outdated OpenGl. Mid res
