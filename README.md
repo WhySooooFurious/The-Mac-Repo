@@ -32,6 +32,34 @@
 
 ## Testing
 
+### GTA San Andreas Definitive Edition
+- **Stability:** Very Stable
+- **FPS:** Good
+- **Settings:** Maxed
+- **Method:** Native (ARM64), Playcover
+- **Notes:** Runs perfectly, capped to 30fps currently 
+
+### GTA III Definitive Edition
+- **Stability:** Very Stable
+- **FPS:** Good
+- **Settings:** Maxed
+- **Method:** Native (ARM64), Playcover
+- **Notes:** Runs perfectly, capped to 30fps currently 
+
+### GTA Vice City Definitive Edition
+- **Stability:** Very Stable
+- **FPS:** Good
+- **Settings:** Maxed
+- **Method:** Native (ARM64), Playcover
+- **Notes:** Runs perfectly, capped to 30fps currently 
+
+### Cyberpunk 2077
+- **Stability:** Not Stable
+- **FPS:** Bad
+- **Settings:** Low
+- **Method:** Crossover (x64), Steam
+- **Notes:** Surprised this ran, Settings are as low as I could get and get like 10-15fps
+
 ### X-Plane 12
 - **Stability:** Not Stable
 - **FPS:** Bad
