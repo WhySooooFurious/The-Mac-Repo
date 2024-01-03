@@ -9,7 +9,9 @@
 - **Resolution:** Usually 800x600 (V Low res), 1680x1050 (Mid res) or 2560x1600 (High res)
 - **Graphics Settings:** As low as they can be or depending on the game and fps I can test with better settings
 - **FPS:** Bad: 10-20, Good: 30-40, Excellent: 50-60
-- **Stability:** Not Stable: Stuttery mess, Stable: Some stutters, Very Stable: Buttery
+- **Stability:** Not Stable: Stuttery mess, Relatively Stable: Some stutters, Very Stable: Buttery smooth
+- I either use cracked games because they don't run properly with it's launcher OR I don't like the game enough to buy it
+- You can request for games to be tested by messaging me on reddit (u/WhySooooFurious) or creating an issue lol
 
 ## Crossover Settings
 - **Windows:** Windows 7 64bit
@@ -23,47 +25,96 @@
 
 
 ## Important Notes
-- **Thermal Throttling:** It will happen on my mac, so keep that in mind, these are mostly all burst tests
+- **Thermal Throttling:** It will happen on some macs, such as mine. Keep that in mind, these are mostly all burst tests so expect some drop in frame rates over a longer period of time
 
 ## Testing
 
-### Dirt Rally
+### Mad Max
+- **Stability:** Very Stable
+- **FPS:**High
+- **Settings:**High
+- **Method:** Crossover (DXVK & D3DMetal), Cracked
+- **Notes:** Great performance. Steam version didn't launch
+
+### Kerbal Space Program [In Progress]
 - **Stability:** Stable
+- **FPS:** Medium
+- **Settings:** Maxed
+- **Method:** Native (x64) Cracked
+- **Notes:** In terms of performance it isn't great at all. I haven't tried low settings yet,
+
+### GTA Vice City
+- **Stability:** Very Stable
+- **FPS:** Excellent
+- **Settings:** Maxed
+- **Method:** Native (x64) Cracked
+- **Notes:** Runs perfectly
+
+### GTA III
+- **Stability:** Very Stable
+- **FPS:** Excellent
+- **Settings:** Maxed
+- **Method:** Native (x64) Cracked
+- **Notes:** Runs perfectly
+
+### GRID Autosport
+- **Stability:** Very Stable
+- **FPS:** Good
+- **Settings:** Medium
+- **Method:** Native (x64) Cracked
+- **Notes:** Nice racing game. High settings result in lower frame rates like F1 2017
+
+### F1 2017
+- **Stability:** Very Stable
+- **FPS:** Good
+- **Settings:** Medium
+- **Method:** Native (x64) Cracked
+- **Notes:** Nice racing game. High settings result in lower frame rates
+
+### Euro Truck Simulator
+- **Stability:** Very Stable
+- **FPS:** Excellent
+- **Settings:** Medium
+- **Method:** Native (x64) Cracked
+- **Notes:** MXAA 2x and 4x cause an extreme drop in frames, everything else on high
+
+### Dirt Rally
+- **Stability:** Very Stable
 - **FPS:** Excellent
 - **Settings:** High
 - **Method:** Native (x64) Steam
 - **Notes:** This is perfectly optimised. Only on low res though. Or in order words, the same as Dirt 4
 
 ### Dirt 4
-- **Stability:** Stable
+- **Stability:** Very Stable
 - **FPS:** Excellent
 - **Settings:** High
 - **Method:** Native (x64) Steam
 - **Notes:** This is perfectly optimised. Only on low res though
 
 ### Cities Skylines
-- **Stability:** Stable
+- **Stability:** Relatively Stable
 - **FPS:** Good
 - **Settings:** Low
 - **Method:** Native (x64) Cracked
 - **Notes:** Badly optimised, but playable
 
 ### Borderlands 2
-- **Stability:** Stable
+- **Stability:** Relatively Stable
 - **FPS:** Excellent
 - **Settings:** Medium
 - **Method:** Native (x64) Steam
 - **Notes:** Good game, works well
 
 ### Art of Rally
-- **Stability:** Stable
+- **Stability:** Relatively Stable
 - **FPS:** Excellent
 - **Settings:** Medium
 - **Method:** Native (x64) Steam
 - **Notes:** Ok, not bad, but the games not really fun at all
 
 ### Absolute Drift 
-- **Stability:** Stable
+- **Stability:** RelativelyStable
 - **FPS:** Excellent
 - **Settings:** Maxed
 - **Method:** Native (x64) Steam
@@ -80,8 +131,8 @@
 - **Stability:** Not Stable
 - **FPS:** Bad
 - **Settings:** Low
-- **Method:** Crossover (DXVK & D3DMetal), Mac App Store
-- **Notes:** Very bad. Don't even try it. Would work better in parallels but it would still be bad, trust me
+- **Method:** Crossover (DXVK & D3DMetal)
+- **Notes:** Very bad. Don't even try it. Would work better in parallels with games like Modern Warfare
 
 ### Simple Planes
 - **Stability:** Very Stable
