@@ -13,6 +13,9 @@
 - I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it
 - You can request games to be tested by messaging me on Reddit (u/WhySooooFurious) or creating an issue lol
 
+## PlayCover Settings
+- Nothing really to put here except I use decrypt.day and armconverter.com for ipas
+
 ## Crossover Settings
 - **Windows:** Windows 7 64bit
 - **Bottle:** DXVK/GPTK
