@@ -25,8 +25,8 @@
 ## Notes
 - I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it OR I don't have enough money to buy it ;)
 - You can request games to be tested by messaging the contributors on reddit or by creating a pull request
-- You can help by telling me how a game runs using the format below and messaging the contributors on reddit or creating a pull request
-- Whisky is basically the same as Crossover but free and sometimes better
+- You can help by telling me how a game runs using the format below and messaging the contributors on reddit or by creating a pull request
+- Whisky is basically the same as Crossover but free and better
 
 ## Important Notes
 - **Thermal Throttling:**
@@ -47,9 +47,12 @@
   ## Game Settings
 
 - **Stability:**
-  - Not Stable: Stuttery mess
-  - Relatively Stable: Some stutters
-  - Very Stable: Buttery smooth
+  - Not Stable:
+    - Stuttery mess
+  - Relatively Stable:
+     - Some stutters
+  - Very Stable:
+    - Buttery smooth
 
 - **Frame Rate:**
   - Bad: 0-20,
