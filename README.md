@@ -73,6 +73,8 @@
  
 ## To be Tested
 - **The Witcher: Assassins of Kings Enhanced Edition**
+- **The Sims 2**
+- **Euro Truck Simulator 2**
 
 ## Testing Notes
 
