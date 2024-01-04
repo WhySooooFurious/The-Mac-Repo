@@ -103,13 +103,20 @@
 
 ## Testing Notes
  
+### STRAY - u/ParthGupta79
+- **Stability:** Stable
+- **Frame Rate:** Good
+- **Resolution:** 1920x1200 with MetalFX
+- **Settings:** Medium
+- **Method & Source:** Native (ARM), Cracked
+
 ### Lies of P - u/ParthGupta79
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1920x1200 with MetalFX
 - **Settings:** Medium-High
 - **Method & Source:** Native (ARM), Cracked
-- **Notes:** Can turn the settings all the way up but textures use a lot of ram so it becomes stuttery (FPS at max settings hovers around 30-30)
+- **Notes:** Can turn the settings all the way up but textures use a lot of ram so it becomes stuttery (FPS at max settings hovers around 30-40)
 
 ### Sekiro: Shadows Die Twice  - u/ParthGupta79
 - **Stability:** Very Stable
