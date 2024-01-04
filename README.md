@@ -3,11 +3,11 @@
 ## Contributors and their Macs
 - **User:** u/WhySooooFurious
  - Device: M1 MacBook Airn
- - Specifications: Base Model, 7 Core CPU, 7 Core GPU, 8GB RAM
+ - Specifications: Base Model, 8 Core CPU, 7 Core GPU, 8GB RAM
 
 - **User:** u/ParthGupta79
   - Device: M2 Macbook Air
-  - Specifications: Base Model, 7 Core CPU, 8 Core GPU, 8GB RAM
+  - Specifications: Base Model, 8 Core CPU, 8 Core GPU, 8GB RAM
   - 
 ## PlayCover Settings
 - Nothing really to put here except I use decrypt.day and armconverter.com for ipas
