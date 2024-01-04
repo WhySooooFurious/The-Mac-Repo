@@ -1,15 +1,30 @@
 # *Read these sections first!*
 
-## My Mac
+## Contributors and their Macs
+- **User:** u/WhySooooFurious
 - **Device:** M1 MacBook Air
-- **Specs:** Base Model, 7 Core GPU
-- 
+- **Specs:** Base Model, 7 Core GPU, 8GB Ram
+
+- **User:** u/ParthGupta79
+- **Device:** M2 Macbook Air
+- **Specs:** Base Model, 8 Core GPU, 8GB Ram
 ## Game Settings
-- **V-Sync:** On
-- **Resolution:** Specified
-- **Graphics Settings:** As low as they can be or depending on the game and frame rate
-- **Frame Rate:** Bad: 0-20, Good: 30-40, Excellent: 50-60, 
-- **Stability:** Not Stable: Stuttery mess, Relatively Stable: Some stutters, Very Stable: Buttery smooth
+- **Stability:**
+- Not Stable: Stuttery mess
+- Relatively Stable: Some stutters
+- Very Stable: Buttery smooth
+- - **Frame Rate:**
+- Bad: 0-20,
+- Good: 30-40
+- Perfect: 50-60
+  Frame rates in between are rounded to their respective categories
+- **Resolution:** Specify the resolution at which the game is being played at
+- **Settings:**
+- Low: Low as I can get them
+- Medium: Medium everything, except for most effects and things like motion blur
+- High: High everything, turn on effects
+- Maxed: If present it means game settings are as high as they possibly can go. Or in other words: High<
+  All of this doesn't relate to resolution at all
 
 ## PlayCover Settings
 - Nothing really to put here except I use decrypt.day and armconverter.com for ipas
@@ -28,11 +43,30 @@
 - I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it OR I don't have enough money to buy it ;)
 - You can request games to be tested by messaging me on Reddit (u/WhySooooFurious)
 - You can help by telling me how a game runs using the format below and messaging me on Reddit (u/WhySooooFurious)
+
+Format:
+
+### Game Name
+- **Stability:** Refer to # Game Settings
+- **Frame Rate:** Refer to # Game Settings
+- **Resolution:** Specify the resolution at which the game is being played at
+- **Settings:** Refer to # Game Settings
+- **Method:** Refer to # Game Settings
+- **Notes:** Anything that may be of interest
+
 ## Important Notes
 - **Thermal Throttling:** It will happen on some Macs, such as mine. Keep that in mind; these are mostly all burst tests, so expect some drop in frame rates over a longer period of time
 
 
 ## Testing Notes
+
+### God of War - u/ParthGupta79
+- **Stability:** Stable
+- **Frame Rate:** Good
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method:** Crossover (x64), Steam
+- **Notes:** Mild stutters going from good to bad fps at times
 
 ### Assassin's Creed: :Rogue
 - **Stability:** Stable
@@ -92,7 +126,7 @@
 
 ### X-Plane 11
 - **Stability:** Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method:** Native (x64), Mac App Store
@@ -108,7 +142,7 @@
 
 ### The Witcher: Enhanced Edition
 - **Stability:** Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Low/Medium
 - **Method:** Native (ARM64), Mac App Store
@@ -124,7 +158,7 @@
 
 ### Stardew Valley
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Native (x64), Steam
@@ -140,7 +174,7 @@
 
 ### Tomb Raider
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** High
 - **Method:** Native (x64), Mac App Store
@@ -156,7 +190,7 @@
 
 ### Mad Max
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method:** Crossover (DXVK & D3DMetal), Cracked
@@ -172,7 +206,7 @@
 
 ### GTA: Vice City
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Native (x64) Cracked
@@ -180,7 +214,7 @@
 
 ### GTA: III
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Native (x64) Cracked
@@ -220,7 +254,7 @@
 
 ### Euro Truck Simulator
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method:** Native (x64) Steam
@@ -228,7 +262,7 @@
 
 ### Dirt Rally
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method:** Native (x64) Steam
@@ -236,7 +270,7 @@
 
 ### Dirt 4
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method:** Native (x64) Steam
@@ -252,7 +286,7 @@
 
 ### Borderlands 2
 - **Stability:** Relatively Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method:** Native (x64) Steam
@@ -260,7 +294,7 @@
 
 ### Art of Rally
 - **Stability:** Relatively Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Medium
 - **Method:** Native (x64) Steam
@@ -268,7 +302,7 @@
 
 ### Absolute Drift 
 - **Stability:** Relatively Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Native (x64) Steam
@@ -276,7 +310,7 @@
 
 ### Combat Master
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Low
 - **Method:** Native (ARM64) Steam
@@ -284,7 +318,7 @@
 
 ### Simple Planes
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Rosetta (x64), Mac App Store
@@ -300,7 +334,7 @@
 
 ### Minecraft: Java Edition
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Native (ARM64), Prism Launcher
@@ -308,7 +342,7 @@
 
 ### Sleeping Dogs: Definitive Edition
 - **Stability:** Relatively Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method:** Crossover (DXVK & D3DMetal), Steam & Native (x64)
@@ -324,7 +358,7 @@
 
 ### Dying Light
 - **Stability:** Relatively Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method:** Crossover (D3DMetal), Cracked
@@ -332,7 +366,7 @@
 
 ### Grand Theft Auto V
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 
 - **Settings:** Low
 - **Method:** Crossover (DXVK & D3DMetal), Cracked & Epic Games
