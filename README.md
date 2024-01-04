@@ -47,11 +47,11 @@
   ## Game Settings
 
 - **Stability:**
-  - Not Stable:
+  - **Not Stable:**
     - Stuttery mess
-  - Relatively Stable:
+  - **Relatively Stable:**
      - Some stutters
-  - Very Stable:
+  - ***Very Stable:**
     - Buttery smooth
 
 - **Frame Rate:**
