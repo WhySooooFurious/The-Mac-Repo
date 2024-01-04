@@ -75,7 +75,9 @@
   - **High:**
     - High everything, turn on effects
   - **Maxed:**
-    - If present it means game settings are as high as they possibly can go. Or in other words: High< (All of this doesn't relate to resolution at all)
+    - If present it means game settings are as high as they possibly can go. Or in other words: High<
+
+      (All of this doesn't relate to resolution at all)
  
 - **Method & Source & Source:**
   - **Crossover:**
