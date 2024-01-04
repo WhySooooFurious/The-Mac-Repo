@@ -13,7 +13,7 @@
 - Not Stable: Stuttery mess
 - Relatively Stable: Some stutters
 - Very Stable: Buttery smooth
-- - **Frame Rate:**
+- **Frame Rate:**
 - Bad: 0-20,
 - Good: 30-40
 - Perfect: 50-60
