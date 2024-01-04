@@ -15,6 +15,13 @@
 - **Specifications:**
    - Base Model, 8 Core CPU, 8 Core GPU, 8GB RAM
 
+- **User:**
+ - u/Orange-Fish1980
+ - **Device:**
+   - M1 Macbook Pro
+- **Specifications:**
+  - 8 Core CPU, 8 Core GPU, 8GB RAM
+
 ## Notes
 - I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it OR I don't have enough money to buy it ;)
 - You can request games to be tested by messaging the contributors on reddit or by creating a pull request
