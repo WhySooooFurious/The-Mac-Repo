@@ -105,8 +105,8 @@
 ### God of War - u/ParthGupta79
 - **Stability:** Stable
 - **Frame Rate:** Good
-- **Resolution:** 1680x1050
-- **Settings:** Low (fsr on ultra performance
+- **Resolution:** 1680x1050 with FSR
+- **Settings:** Low 
 - **Method & Source:** Crossover 23.6 (x64), Cracked
 - **Notes:** Mild stutters going from good to bad fps at times
 
@@ -377,7 +377,7 @@
 ### No Man's Sky - u/WhySooooFurious
 - **Stability:** Stable
 - **Frame Rate:** Ok
-- **Resolution:** 2560x1600 with FSR or MetalFX
+- **Resolution:** 2560x1600 with FSR
 - **Settings:** Low
 - **Method & Source:** Native (ARM64), Steam
 - **Notes:** Ok. I would expect more from a native game like this. High res and make sure to Enable FSR or MetalFX for higher fps. Doesn't look magnificent. Can reach 60fps with tweaking settings until thermal throttling comes over for dinner.
