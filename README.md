@@ -55,26 +55,37 @@
     - Buttery smooth
 
 - **Frame Rate:**
-  - Bad: 0-20,
-  - Good: 30-40
-  - Perfect: 50-60
+  - **Bad:**
+    - 0-20,
+  - **Good:**
+    - 30-40
+  - **Perfect:**
+    - 50-60
   - Frame rates in between are rounded to their respective categories
 
 - **Resolution:**
   - Specify the resolution at which the game is being played at
-  - Also mention if you're using something like FSR or MetalFX
+  - Also mention if you're using something like FSR or MetalFX e.g 1680x1050 and FSR
 
 - **Settings:**
-  - Low: Low as I can get them
-  - Medium: Medium everything, except for most effects and things like motion blur
-  - High: High everything, turn on effects
-  - Maxed: If present it means game settings are as high as they possibly can go. Or in other words: High< (All of this doesn't relate to resolution at all)
+  - **Low:**
+    - Low as I can get them
+  - **Medium:**
+    - Medium everything, except for most effects and things like motion blur
+  - **High:**
+    - High everything, turn on effects
+  - **Maxed:**
+    - If present it means game settings are as high as they possibly can go. Or in other words: High< (All of this doesn't relate to resolution at all)
  
 - **Method & Source & Source:**
-  - Crossover: Make sure to put the version name and game architecture e.g: Crossover 23.7 (x64) or alternatively something like this: Crossover 22 (x32). Depending what you have got
-  - Parallels: Make sure to put the version name and game architecture e.g: Parallels 19 (x32) or alternatively something like this: Parallels 18 (x64). Depending what you have got
-  - Native: Make sure you put the game architecture e.g Native (ARM64) or alternatively something like this: Native (x64). Depending what you have got
-  - Source: Where you got the game from e,g Cracked or or alternatively something like this: Mac App Store
+  - **Crossover:**
+    - Make sure to put the version name and game architecture e.g: Crossover 23.7 (x64) or alternatively something like this: Crossover 22 (x32). Depending what you have got
+  - **Parallels:**
+    - Make sure to put the version name and game architecture e.g: Parallels 19 (x32) or alternatively something like this: Parallels 18 (x64). Depending what you have got
+  - **Native:**
+    - Make sure you put the game architecture e.g Native (ARM64) or alternatively something like this: Native (x64). Depending what you have got
+  - **Source:**
+    - Where you got the game from e,g Cracked or or alternatively something like this: Mac App Store
  
 ## To be Tested
 - **The Witcher: Assassins of Kings Enhanced Edition**
