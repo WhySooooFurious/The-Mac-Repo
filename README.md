@@ -1,6 +1,6 @@
 # *Read these sections first!*
 
-## Contributors and their Macs
+## Contributors and their Macs/Contact
 - **User:**
    - u/WhySooooFurious
  - **Device:**
