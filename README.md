@@ -32,7 +32,7 @@
 - **Thermal Throttling:** It will happen on some Macs, such as mine. Keep that in mind; these are mostly all burst tests, so expect some drop in frame rates over a longer period of time
 
 
-## Testing
+## -Testing Notes
 
 ### GTA San Andreas Definitive Edition
 - **Stability:** Very Stable
