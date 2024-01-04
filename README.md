@@ -106,6 +106,7 @@
 - **The Witcher: Assassins of Kings Enhanced Edition**
 - **The Sims 2**
 - **Euro Truck Simulator 2**
+-  **Spider-Man Remastered**
 
 ## Testing Notes
 
