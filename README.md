@@ -26,7 +26,7 @@
 - I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it OR I don't have enough money to buy it :)
 - Cracked games have the same performance than non cracked games(some games have drm protection like denuvo which worsens the performance,cracked games hence perfrom better in these cases)
 - You can request games to be tested by messaging the contributors on reddit or by creating a pull request
-- You can help by telling me how a game runs using the format below and messaging the contributors on reddit or by creating a pull request
+- You can help by telling me how a game runs using the format below and messaging the contributors on reddit or by creating a pull request and using the Format below
 - Whisky is basically the same as Crossover but free and better
 
 ## Important Notes
@@ -48,6 +48,11 @@
 - **Windows:** Windows 11 Pro
 - **CPU:** 2/4 Cores, Depends
 - **RAM:** 2/4 GB, Depends
+
+#lol
+##lol
+###lol
+####lol
 
 ### Game Name
 - **Stability:** Refer to # Game Settings
