@@ -37,7 +37,7 @@
 ### GTA San Andreas Definitive Edition
 - **Stability:** Very Stable
 - **FPS:** Good
-- **Resolution:** 
+- **Resolution:** lol
 - **Settings:** Maxed
 - **Method:** Native (ARM64), Playcover
 - **Notes:** Runs perfectly, capped to 30fps currently 
