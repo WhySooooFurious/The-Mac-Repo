@@ -6,8 +6,8 @@
  - Specs: Base Model, 7 Core GPU, 8GB Ram
 
 - **User:** u/ParthGupta79
- - Device: M2 Macbook Air
- - Specs: Base Model, 8 Core GPU, 8GB Ram
+  - Not Stable: Stuttery mess
+  - Relatively Stable: Some stutters
 ## Game Settings
 
 - **Stability:**
