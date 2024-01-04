@@ -148,7 +148,7 @@
 - **Settings:** Medium
 - **Method & Source:** Native (ARM64), Cracked
 
-- ### Stray - u/WhySooooFurious
+### Stray - u/WhySooooFurious
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050 with MetalFX
