@@ -1,4 +1,4 @@
-# *Read these sections first!*
+### *Read these sections first!*
 
 ## Contributors and their Macs
 - **User:**
@@ -49,7 +49,7 @@
 - **CPU:** 4 Cores
 - **RAM:** 4 GB
 
-### Format
+## Format
 ```
 - **Game Name:** Input the game's name
 - **Stability:** Refer to # Game Settings
@@ -61,7 +61,7 @@
 ```
 - Please copy this and replace the info. Don't remove all the asterisks as they are useful in formatting to us
 
-  ## Game Settings
+## Game Settings
 
 - **Stability:**
   - **Not Stable:**
