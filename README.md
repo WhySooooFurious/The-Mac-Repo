@@ -1,4 +1,4 @@
-# *Read these sections first first!*
+# *Read these sections first!*
 
 ## Overview
 - **Device:** M1 MacBook Air
