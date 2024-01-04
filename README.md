@@ -103,6 +103,22 @@
 
 ## Testing Notes
 
+### Grand theft Auto 4 - u/ParthGupta79
+- **Stability:** very Stable
+- **Frame Rate:** Excellent
+- **Resolution:** 1920x1200
+- **Settings:** Medium-High
+- **Method & Source:** Crossover 23.6 (x64), Cracked
+- **Notes:** Experiment with D3Dmetal and DXVk (used DXVK in my case)
+  
+### Dark Souls 3 - u/ParthGupta79
+- **Stability:** Stable
+- **Frame Rate:** Good
+- **Resolution:** 1680x1050
+- **Settings:** Low 
+- **Method & Source:** Crossover 23.6 (x64), Cracked
+- **Notes:** Mild stutters but nothing serious
+
 ### God of War - u/ParthGupta79
 - **Stability:** Stable
 - **Frame Rate:** Good
