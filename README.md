@@ -1,13 +1,15 @@
 # *Read these sections first!*
 
 ## Contributors and their Macs
-- **User:** u/WhySooooFurious
+- **User:**
+   - u/WhySooooFurious
  - **Device:**
     - M1 MacBook Air
  - **Specifications:**
    - Base Model, 8 Core CPU, 7 Core GPU, 8GB RAM
 
-- **User:** u/ParthGupta79
+- **User:**
+   - u/ParthGupta79
   - **Device:**
     - M2 Macbook Air
   - **Specifications:**
