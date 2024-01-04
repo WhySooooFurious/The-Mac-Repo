@@ -108,7 +108,7 @@
 - **Frame Rate:** Excellent
 - **Resolution:** 1920x1200
 - **Settings:** Medium-High
-- **Method & Source:** Crossover 23.6 (x64), Cracked
+- **Method & Source:** Crossover 23.6 (x32), Cracked
 - **Notes:** Experiment with D3Dmetal and DXVk (used DXVK in my case)
   
 ### Dark Souls 3 - u/ParthGupta79
