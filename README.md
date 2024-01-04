@@ -49,7 +49,7 @@
 - **CPU:** 4 Cores
 - **RAM:** 4 GB
 
-```markdown
+```
 ### Format
 - **Game Name:** Input the game's name
 - **Stability:** Refer to # Game Settings
@@ -58,6 +58,7 @@
 - **Settings:** Refer to # Game Settings
 - **Method & Source:** Refer to # Game Settings
 - **Notes:** Anything that may be of interest or important
+```
 
   ## Game Settings
 
