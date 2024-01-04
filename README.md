@@ -1,4 +1,4 @@
-# My Mac Setup - Read the Game Settings first!
+# *Read these sections first first!*
 
 ## Overview
 - **Device:** M1 MacBook Air
@@ -316,11 +316,11 @@
 
 ### Dying Light 1
 - **Stability:** Relatively Stable
-- **FPS:** Good
+- **FPS:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method:** Crossover (D3DMetal), Cracked
-- **Notes:** FPS sometimes goes down to around 55-ish but gameplay is good. Not many stutters. For me it only Launches with D3DMetal option checked.
+- **Notes:** Sometimes the fps gets stuck at 53 for no reason. Gameplay is good. Not many stutters. For me it only Launches with D3DMetal option checked.
 
 ### Grand Theft Auto V
 - **Stability:** Very Stable
@@ -328,5 +328,5 @@
 - **Resolution:** 
 - **Settings:** Low
 - **Method:** Crossover (DXVK & D3DMetal), Cracked & Epic Games
-- **Notes:** FPS can shoot up to 120 in some areas while it can go down to 60-80 in city areas. You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability, keep in mind you can't go online if you do this. Online is ok since M-Sync was added which was a life saver. Online is around 40-50 fps which can go down depending where you're at. When you're near other players fps drops as well.
+- **Notes:** FPS can shoot up to 120 in some areas while it can go down to 60-80 in city areas. You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability, keep in mind you can't go online if you do this. Online is ok since M-Sync was added which was a life saver. Online is around 40-50 fps which can go down depending where you're at. When you're near other players fps drops as well. With D3DMetal, V-Sync doesn't work whether turned on or off in game settings. Cracked works a bit better imo.
 ```
