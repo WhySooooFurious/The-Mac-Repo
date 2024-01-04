@@ -9,14 +9,14 @@
    - Base Model, 8 Core CPU, 7 Core GPU, 8GB RAM
 
 - **User:**
- - u/ParthGupta79
+  - u/ParthGupta79
  - **Device:**
    - M2 Macbook Air
 - **Specifications:**
    - Base Model, 8 Core CPU, 8 Core GPU, 8GB RAM
 
 - **User:**
- - u/Orange-Fish1980
+  - u/Orange-Fish1980
  - **Device:**
    - M1 Macbook Pro
 - **Specifications:**
