@@ -103,6 +103,13 @@
 
 ## Testing Notes
  
+### Rocket League - u/ParthGupta79
+- **Stability:** Very Stable
+- **Frame Rate:** Excedllent
+- **Resolution:** 2560x1664
+- **Settings:** High
+- **Method & Source:** Crossover 23.6 (x64), Epic games(Heroic launcher)
+
 ### STRAY - u/ParthGupta79
 - **Stability:** Stable
 - **Frame Rate:** Good
