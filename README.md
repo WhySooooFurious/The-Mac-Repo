@@ -49,8 +49,8 @@
 - **CPU:** 4 Cores
 - **RAM:** 4 GB
 
-```
 ### Format
+```
 - **Game Name:** Input the game's name
 - **Stability:** Refer to # Game Settings
 - **Frame Rate:** Refer to # Game Settings
