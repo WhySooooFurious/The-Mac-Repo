@@ -1,6 +1,3 @@
-Certainly! Here's the revised version of the entire text with the suggested changes:
-
-```markdown
 # *Read these sections first!*
 
 ## My Mac
