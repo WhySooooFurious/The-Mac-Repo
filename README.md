@@ -3,11 +3,11 @@
 ## Contributors and their Macs
 - **User:** u/WhySooooFurious
  - Device: M1 MacBook Air
- - Specs: Base Model, 7 Core GPU, 8GB Ram
+ - Specifications: Base Model, 7 Core CPU, 7 Core GPU, 8GB RAM
 
 - **User:** u/ParthGupta79
-  - Not Stable: Stuttery mess
-  - Relatively Stable: Some stutters
+  - Device: M2 Macbook Air
+  - Specifications: Base Model, 7 Core CPU, 8 Core GPU, 8GB RAM
 ## Game Settings
 
 - **Stability:**
