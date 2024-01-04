@@ -2,12 +2,12 @@
 
 ## Contributors and their Macs
 - **User:** u/WhySooooFurious
- - **Device:** M1 MacBook Air
- - **Specs:** Base Model, 7 Core GPU, 8GB Ram
+ - Device: M1 MacBook Air
+ - Specs: Base Model, 7 Core GPU, 8GB Ram
 
 - **User:** u/ParthGupta79
- - **Device:** M2 Macbook Air
- - **Specs:** Base Model, 8 Core GPU, 8GB Ram
+ - Device: M2 Macbook Air
+ - Specs: Base Model, 8 Core GPU, 8GB Ram
 ## Game Settings
 
 - **Stability:**
