@@ -123,7 +123,7 @@
 - **Resolution:** 2560x1664
 - **Settings:** High
 - **Method & Source:** Crossover 23.6 (x64), Epic games (Heroic launcher)
-- **Notes:** Name tags invisible
+- **Notes:** Name tags invisible (while using dxvk). Name tags are visible using D3DMetal.
 
 ### Stray - u/ParthGupta79
 - **Stability:** Stable
