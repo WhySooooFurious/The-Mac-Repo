@@ -102,6 +102,22 @@
 - **Euro Truck Simulator 2**
 
 ## Testing Notes
+ 
+### Lies of P - u/ParthGupta79
+- **Stability:** Very Stable
+- **Frame Rate:** Excellent
+- **Resolution:** 1920x1200 with MetalFX
+- **Settings:** Medium-High
+- **Method & Source:** Native (ARM), Cracked
+- **Notes:** Can turn the settings all the way up but textures use a lot of ram so it becomes stuttery (FPS at max settings hovers around 30-30)
+
+### Sekiro: Shadows Die Twice  - u/ParthGupta79
+- **Stability:** Very Stable
+- **Frame Rate:** Excellent
+- **Resolution:** 1920x1200
+- **Settings:** Low 
+- **Method & Source:** Crossover 23.6 (x64), Cracked
+- **Notes:** Vsync was turned on so FPS could've been greater than 60
 
 ### Grand theft Auto 4 - u/ParthGupta79
 - **Stability:** Very Stable
