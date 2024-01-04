@@ -48,7 +48,7 @@
 - **Frame Rate:** Refer to # Game Settings
 - **Resolution:** Refer to # Game Settings
 - **Settings:** Refer to # Game Settings
-- **Method & Source & Source:** Refer to # Game Settings
+- **Method & Source:** Refer to # Game Settings
 - **Notes:** Anything that may be of interest or important
 
   ## Game Settings
