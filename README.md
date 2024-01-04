@@ -9,22 +9,27 @@
 - **Device:** M2 Macbook Air
 - **Specs:** Base Model, 8 Core GPU, 8GB Ram
 ## Game Settings
+
 - **Stability:**
-- Not Stable: Stuttery mess
-- Relatively Stable: Some stutters
-- Very Stable: Buttery smooth
+  - Not Stable: Stuttery mess
+  - Relatively Stable: Some stutters
+  - Very Stable: Buttery smooth
+
 - **Frame Rate:**
-- Bad: 0-20,
-- Good: 30-40
-- Perfect: 50-60
-  Frame rates in between are rounded to their respective categories
-- **Resolution:** Specify the resolution at which the game is being played at
+  - Bad: 0-20,
+  - Good: 30-40
+  - Perfect: 50-60
+    - Frame rates in between are rounded to their respective categories
+
+- **Resolution:**
+  - Specify the resolution at which the game is being played at
+
 - **Settings:**
-- Low: Low as I can get them
-- Medium: Medium everything, except for most effects and things like motion blur
-- High: High everything, turn on effects
-- Maxed: If present it means game settings are as high as they possibly can go. Or in other words: High<
-  All of this doesn't relate to resolution at all
+  - Low: Low as I can get them
+  - Medium: Medium everything, except for most effects and things like motion blur
+  - High: High everything, turn on effects
+  - Maxed: If present it means game settings are as high as they possibly can go. Or in other words: High< (All of this doesn't relate to resolution at all)
+
 
 ## PlayCover Settings
 - Nothing really to put here except I use decrypt.day and armconverter.com for ipas
