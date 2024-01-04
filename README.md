@@ -19,7 +19,7 @@
   - Bad: 0-20,
   - Good: 30-40
   - Perfect: 50-60
-    - Frame rates in between are rounded to their respective categories
+  - Frame rates in between are rounded to their respective categories
 
 - **Resolution:**
   - Specify the resolution at which the game is being played at
