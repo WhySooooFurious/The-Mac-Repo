@@ -41,8 +41,6 @@
 - **CPU:** 2/4 Cores, Depends
 - **RAM:** 2/4 GB, Depends
 
-- **Format:**
-
 ### Game Name
 - **Stability:** Refer to # Game Settings
 - **Frame Rate:** Refer to # Game Settings
