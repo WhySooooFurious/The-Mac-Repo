@@ -26,7 +26,13 @@
 - I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it OR I don't have enough money to buy it ;)
 - You can request games to be tested by messaging the contributors on reddit or by creating a pull request
 - You can help by telling me how a game runs using the format below and messaging the contributors on reddit or creating a pull request
-- Whisky is basically t
+- Whisky is basically the same as Crossover but free and sometimes better
+
+## Important Notes
+- **Thermal Throttling:**
+  - It will happen on some Macs, such as mine. Keep that in mind; these are mostly all burst tests, so expect some drop in frame rates over a longer period of time
+- **Different Macs:** 
+  - Contributors have different macs so make sure you've looked at their specs. The person who has tested the game will have their reddit username next to the title of the game
 
 - **Format:**
 
@@ -37,10 +43,6 @@
 - **Settings:** Refer to # Game Settings
 - **Method & Source & Source:** Refer to # Game Settings
 - **Notes:** Anything that may be of interest or important
-
-## Important Notes
-- **Thermal Throttling:** It will happen on some Macs, such as mine. Keep that in mind; these are mostly all burst tests, so expect some drop in frame rates over a longer period of time
-- **Different Macs:** Contributors have different macs so make sure you've looked at their specs. The person who has tested the game will have their reddit username next to the title of the game
 
   ## Game Settings
 
