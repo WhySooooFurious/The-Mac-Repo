@@ -2,7 +2,7 @@
 
 ## Contributors and their Macs
 - **User:** u/WhySooooFurious
- - Device: M1 MacBook Airn
+ - Device: M1 MacBook Air
  - Specifications: Base Model, 8 Core CPU, 7 Core GPU, 8GB RAM
 
 - **User:** u/ParthGupta79
