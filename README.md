@@ -24,8 +24,9 @@
 
 ## Notes
 - I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it OR I don't have enough money to buy it ;)
-- You can request games to be tested by messaging the contributors on reddit
-- You can help by telling me how a game runs using the format below and messaging the contributors on reddit
+- You can request games to be tested by messaging the contributors on reddit or by creating a pull request
+- You can help by telling me how a game runs using the format below and messaging the contributors on reddit or creating a pull request
+- Whisky is basically t
 
 - **Format:**
 
@@ -69,6 +70,9 @@
   - Parallels: Make sure to put the version name and game architecture e.g: Parallels 19 (x32) or alternatively something like this: Parallels 18 (x64). Depending what you have got
   - Native: Make sure you put the game architecture e.g Native (ARM64) or alternatively something like this: Native (x64). Depending what you have got
   - Source: Where you got the game from e,g Cracked or or alternatively something like this: Mac App Store
+ 
+## To be Tested
+- **The Witcher: Assassins of Kings Enhanced Edition**
 
 ## Testing Notes
 
@@ -152,14 +156,6 @@
 - **Method & Source:** Native (x64), Mac App Store
 - **Notes:** Works well, not the best frame rate with high settings
 
-### The Witcher: Assassins of Kings Enhanced Edition [More Testing Needed] - u/WhySooooFurious
-- **Stability:** Not Stable
-- **Frame Rate:** Good
-- **Resolution:** 1680x1050
-- **Settings:** Medium
-- **Method & Source:** Native (ARM64), Mac App Store
-- **Notes:** Stutters present but frame rate is good? More testing needed
-
 ### The Witcher: Enhanced Edition - u/WhySooooFurious
 - **Stability:** Stable
 - **Frame Rate:** Perfect
@@ -183,14 +179,6 @@
 - **Settings:** Maxed
 - **Method & Source:** Native (x64), Steam
 - **Notes:** Perfect.
-
-### Sims 2 [Testing Needed] - u/WhySooooFurious
-- **Stability:** 
-- **Frame Rate:** 
-- **Resolution:** 
-- **Settings:** 
-- **Method & Source:** Native (x64), Cracked
-- **Notes:** 
 
 ### Tomb Raider - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -263,14 +251,6 @@
 - **Settings:** Medium
 - **Method & Source:** Native (x64), G2A
 - **Notes:** Nice racing game. Higher settings result in lower frame rates
-
-### Euro Truck Simulator 2 [Testing Needed] - u/WhySooooFurious
-- **Stability:** 
-- **Frame Rate:** 
-- **Resolution:** 
-- **Settings:** 
-- **Method & Source:** 
-- **Notes:** 
 
 ### Euro Truck Simulator - u/WhySooooFurious
 - **Stability:** Very Stable
