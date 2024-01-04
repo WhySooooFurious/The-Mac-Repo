@@ -11,7 +11,7 @@
 ## Game Settings
 - **V-Sync:** On
 - **Resolution:** Specified
-- **Graphics Settings:** As low as they can be or depending on the game and frame rate I can test with better settings
+- **Graphics Settings:** As low as they can be or depending on the game and frame rate
 - **Frame Rate:** Bad: 0-20, Good: 30-40, Excellent: 50-60, 
 - **Stability:** Not Stable: Stuttery mess, Relatively Stable: Some stutters, Very Stable: Buttery smooth
 
