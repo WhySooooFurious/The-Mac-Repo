@@ -23,12 +23,16 @@
 
 - **Resolution:**
   - Specify the resolution at which the game is being played at
+  - Also mention if you're using something like FSR or MetalFX
 
 - **Settings:**
   - Low: Low as I can get them
   - Medium: Medium everything, except for most effects and things like motion blur
   - High: High everything, turn on effects
   - Maxed: If present it means game settings are as high as they possibly can go. Or in other words: High< (All of this doesn't relate to resolution at all)
+ 
+- **Method:**
+  - Crossover, make sure to put the version name and game architecture e.g: Crossover 23.7 (x64)
 
 
 ## PlayCover Settings
@@ -49,12 +53,12 @@
 - You can request games to be tested by messaging the contributors on reddit
 - You can help by telling me how a game runs using the format below and messaging the contributors on reddit
 
-Format:
+- **Format:**
 
 ### Game Name
 - **Stability:** Refer to # Game Settings
 - **Frame Rate:** Refer to # Game Settings
-- **Resolution:** Specify the resolution at which the game is being played at
+- **Resolution:** Refer to # Game Settings
 - **Settings:** Refer to # Game Settings
 - **Method:** Refer to # Game Settings
 - **Notes:** Anything that may be of interest or important
@@ -206,7 +210,7 @@ Format:
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** High
-- **Method:** Crossover 23.6 (DXVK & D3DMetal), Cracked
+- **Method:** Crossover 23.6 (x64), Cracked
 - **Notes:** Great performance. Steam version didn't launch. Crossover works better than native because of native using outdated OpenGL translation layer.
 
 ### Kerbal Space Program [In Progress] - u/WhySooooFurious
@@ -358,13 +362,13 @@ Format:
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Low
-- **Method:** Crossover 23.6 (DXVK & D3DMetal), Steam & Native (x64)
+- **Method:** Crossover 23.6 (x64), Steam
 - **Notes:** Looks ok with low settings. Reaches 60 fps and sometimes dips with occasional small stutters. Crossover works better than native because of native using outdated OpenGL translation layer.
 
 ### No Man's Sky - u/WhySooooFurious
 - **Stability:** Stable
 - **Frame Rate:** Ok
-- **Resolution:** 2560x1600 with MetalFX
+- **Resolution:** 2560x1600 with FSR or MetalFX
 - **Settings:** Low
 - **Method:** Native (ARM64), Steam
 - **Notes:** Ok. I would expect more from a native game like this. High res and make sure to Enable FSR or MetalFX for higher fps. Doesn't look magnificent. Can reach 60fps with tweaking settings until thermal throttling comes over for dinner.
@@ -374,7 +378,7 @@ Format:
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Low
-- **Method:** Crossover 23.6 (D3DMetal), Cracked
+- **Method:** Crossover 23.6 (x64), Cracked
 - **Notes:** Sometimes the frame rate gets stuck at 53 for no reason. Gameplay is good. Not many stutters. For me, it only launches with D3DMetal option checked.
 
 ### Grand Theft Auto V - u/WhySooooFurious
@@ -382,7 +386,7 @@ Format:
 - **Frame Rate:** Perfect
 - **Resolution:** 
 - **Settings:** Low
-- **Method:** Crossover 23.6(DXVK & D3DMetal), Cracked & Epic Games
+- **Method:** Crossover 23.6 (x64), Cracked & Epic Games
 - **Notes:** FPS can shoot up to 120 in some areas while it can go down to 60-80 in city areas. You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability, keep in mind you can't go online if you do this. Online is ok since M-Sync was added, which was a lifesaver. Online is around 40-50 fps, which can go down depending on where you're at. When you're near other players, fps drops as well. With D3DMetal, V-Sync doesn't work whether turned on or off in-game settings. Cracked works a bit better, in my opinion. Crossover 23.7 breaks the game.
 
 ## Games That Do Not Work
@@ -392,7 +396,7 @@ Format:
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A
-- **Method:** Crossover 23.6 (DXVK & D3DMetal), Cracked
+- **Method:** Crossover 23.6 (N/A), Cracked
 - **Notes:** Crashes upon launch.
 
 ### WWE 2K15 - u/WhySooooFurious
@@ -400,7 +404,7 @@ Format:
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A
-- **Method:** Crossover 23.6 (DXVK & D3DMetal), Cracked
+- **Method:** Crossover 23.6 (N/A), Cracked
 - **Notes:** Crashes upon launch.
 
 ### Call of Duty (Any game) - u/WhySooooFurious
@@ -408,5 +412,5 @@ Format:
 - **Frame Rate:** Bad
 - **Resolution:** 800x600
 - **Settings:** Low
-- **Method:** Crossover 23.6 (DXVK & D3DMetal)
+- **Method:** Crossover 23.6 (x32)
 - **Notes:** Very bad fps with stutters. Will work better in parallels with games like Modern Warfare. No black ops games are known to work as of now except Black ops 3 Native (X64)
