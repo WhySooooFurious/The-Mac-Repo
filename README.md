@@ -46,11 +46,12 @@
 
 ## Parallels Settings
 - **Windows:** Windows 11 Pro
-- **CPU:** 2/4 Cores, Depends
-- **RAM:** 2/4 GB, Depends
+- **CPU:** 4 Cores
+- **RAM:** 4 GB
 
+```markdown
 ### Format
-## Game Name
+- **Game Name:** Input the game's name
 - **Stability:** Refer to # Game Settings
 - **Frame Rate:** Refer to # Game Settings
 - **Resolution:** Refer to # Game Settings
