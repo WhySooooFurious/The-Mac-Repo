@@ -147,6 +147,7 @@
 - **Resolution:** 1920x1200 with MetalFX
 - **Settings:** Medium
 - **Method & Source:** Native (ARM64), Cracked
+- **Notes:** 
 
 ### Stray - u/WhySooooFurious
 - **Stability:** Stable
