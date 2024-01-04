@@ -104,7 +104,7 @@
 ## Testing Notes
 
 ### Grand theft Auto 4 - u/ParthGupta79
-- **Stability:** very Stable
+- **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1920x1200
 - **Settings:** Medium-High
