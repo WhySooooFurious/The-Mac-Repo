@@ -40,7 +40,7 @@
 
 ## Crossover/Whisky Settings
 - **Windows:** Windows 7 64bit
-- **Bottle:** DXVK/GPTK
+- **Bottle:** DXVK/GPTK(D3DMetal)
 - **M-SYNC:** On
 
 ## Parallels Settings
