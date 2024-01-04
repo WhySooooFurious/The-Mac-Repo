@@ -494,3 +494,11 @@
 - **Settings:** N/A
 - **Method & Source:** Crossover 23.6 (x64), Cracked(Empress)
 - **Notes:** Issue is in the crack because the steam version runs fine. Disabling an os check in the crack might fix the issue.
+
+### Fifa 23 - u/ParthGupta79
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Crossover 23.6 (x64), Cracked
+- **Notes:** Doesnt launch
