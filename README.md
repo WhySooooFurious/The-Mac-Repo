@@ -34,7 +34,23 @@
 
 ## Testing Notes
 
-### GTA San Andreas Definitive Edition
+### Assassin's Creed: :Rogue
+- **Stability:** Stable
+- **Frame Rate:** Good
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method:** Crossover (x64), Steam
+- **Notes:** Mild stutters going from good to bad fps at times
+
+### Assassin's Creed: :Brotherhood
+- **Stability:** Stable
+- **Frame Rate:** Good
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method:** Crossover (x64), Steam
+- **Notes:** Mild stutters going from good to bad fps at times
+
+### GTA San Andreas: Definitive Edition
 - **Stability:** Very Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -42,7 +58,7 @@
 - **Method:** Native (ARM64), Playcover
 - **Notes:** Runs perfectly, capped to 30fps currently 
 
-### GTA III Definitive Edition
+### GTA III: Definitive Edition
 - **Stability:** Very Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -50,7 +66,7 @@
 - **Method:** Native (ARM64), Playcover
 - **Notes:** Runs perfectly, capped to 30fps currently 
 
-### GTA Vice City Definitive Edition
+### GTA Vice City: Definitive Edition
 - **Stability:** Very Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -82,7 +98,7 @@
 - **Method:** Native (x64), Mac App Store
 - **Notes:** Works well, not the best frame rate with high settings
 
-### The Witcher - Assassins of Kings Enhanced Edition [More Testing Needed]
+### The Witcher: Assassins of Kings Enhanced Edition [More Testing Needed]
 - **Stability:** Not Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -90,7 +106,7 @@
 - **Method:** Native (ARM64), Mac App Store
 - **Notes:** Stutters present but frame rate is good? More testing needed
 
-### The Witcher - Enhanced Edition
+### The Witcher: Enhanced Edition
 - **Stability:** Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -154,7 +170,7 @@
 - **Method:** Native (x64) Cracked
 - **Notes:** Hate this game. In terms of performance, it isn't great at all. I haven't tried low settings yet
 
-### GTA Vice City
+### GTA: Vice City
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
@@ -162,7 +178,7 @@
 - **Method:** Native (x64) Cracked
 - **Notes:** Runs perfectly
 
-### GTA III
+### GTA: III
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
@@ -266,14 +282,6 @@
 - **Method:** Native (ARM64) Steam
 - **Notes:** Perfect, buttery.
 
-### Call of Duty (Any game)
-- **Stability:** Not Stable
-- **Frame Rate:** Bad
-- **Resolution:** 800x600
-- **Settings:** Low
-- **Method:** Crossover (DXVK & D3DMetal)
-- **Notes:** Very bad. Don't even try it. Would work better in parallels with games like Modern Warfare
-
 ### Simple Planes
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
@@ -314,7 +322,7 @@
 - **Method:** Native (ARM64), Steam
 - **Notes:** Ok. I would expect more from a native game like this. High res and make sure to Enable FSR or MetalFX for higher fps. Doesn't look magnificent. Can reach 60fps with tweaking settings until thermal throttling comes over for dinner.
 
-### Dying Light 1
+### Dying Light
 - **Stability:** Relatively Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -329,3 +337,29 @@
 - **Settings:** Low
 - **Method:** Crossover (DXVK & D3DMetal), Cracked & Epic Games
 - **Notes:** FPS can shoot up to 120 in some areas while it can go down to 60-80 in city areas. You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability, keep in mind you can't go online if you do this. Online is ok since M-Sync was added, which was a lifesaver. Online is around 40-50 fps, which can go down depending on where you're at. When you're near other players, fps drops as well. With D3DMetal, V-Sync doesn't work whether turned on or off in-game settings. Cracked works a bit better, in my opinion.
+
+## Games That Do Not Work
+
+### Fifa 15
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method:** Crossover (DXVK & D3DMetal), Cracked
+- **Notes:** Crashes upon launch.
+
+- ### WWE 2K15
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method:** Crossover (DXVK & D3DMetal), Cracked
+- **Notes:** Crashes upon launch.
+
+- ### Call of Duty (Any game)
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 800x600
+- **Settings:** Low
+- **Method:** Crossover (DXVK & D3DMetal)
+- **Notes:** Very bad fps with stutters. Will work better in parallels with games like Modern Warfare. No black ops games are known to work as of now except Black ops 3 Native (X64)
