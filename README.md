@@ -101,6 +101,14 @@
 
 ## Testing Notes
 
+### Dark Souls Remastered - u/ParthGupta79
+- **Stability:** Very Stable
+- **Frame Rate:** Excellent
+- **Resolution:** 1920x1200
+- **Settings:** High 
+- **Method & Source:** Crossover 23.6 (x64), Cracked
+- **Notes:** VSync was turned on so FPS might be higher than 60.
+
 ### Rocket League - u/WhySooooFurious
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
@@ -478,3 +486,11 @@
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x32)
 - **Notes:** Very bad fps with stutters. Will work better in parallels with games like Modern Warfare. No black ops games are known to work as of now except Black ops 3 Native (X64)
+
+### Hogwarts legacy - u/ParthGupta79
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Crossover 23.6 (x64), Cracked(Empress)
+- **Notes:** Issue is in the crack because the steam version runs fine. Disabling an os check in the crack might fix the issue.
