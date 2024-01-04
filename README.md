@@ -1,22 +1,24 @@
-# My Mac Setup
+# My Mac Setup - Read the Game Settings first!
 
 ## Overview
 - **Device:** M1 MacBook Air
 - **Specs:** Base Model, 7 Core GPU
 
-## Game Settings/Notes
-- **V-Sync:** On
-- **Resolution:** Usually 800x600 (V Low res), 1680x1050 (Mid res) or 2560x1600 (High res)
-- **Graphics Settings:** As low as they can be or depending on the game and fps I can test with better settings
-- **FPS:** Bad: 10-20, Good: 30-40, Excellent: 50-60
-- **Stability:** Not Stable: Stuttery mess, Relatively Stable: Some stutters, Very Stable: Buttery smooth
+  ## Notes
 - I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it
-- You can request games to be tested by messaging me on Reddit (u/WhySooooFurious) or creating an issue lol
+- You can request games to be tested by messaging me on Reddit (u/WhySooooFurious)
+
+## Game Settings
+- **V-Sync:** On
+- **Resolution:** Specified
+- **Graphics Settings:** As low as they can be or depending on the game and fps I can test with better settings
+- **FPS:** Bad: 0-20, Good: 30-40, Excellent: 50-60, 
+- **Stability:** Not Stable: Stuttery mess, Relatively Stable: Some stutters, Very Stable: Buttery smooth
 
 ## PlayCover Settings
 - Nothing really to put here except I use decrypt.day and armconverter.com for ipas
 
-## Crossover Settings
+## Crossover/Whisky Settings
 - **Windows:** Windows 7 64bit
 - **Bottle:** DXVK/GPTK
 - **M-SYNC:** On
@@ -35,6 +37,7 @@
 ### GTA San Andreas Definitive Edition
 - **Stability:** Very Stable
 - **FPS:** Good
+- **Resolution:** 
 - **Settings:** Maxed
 - **Method:** Native (ARM64), Playcover
 - **Notes:** Runs perfectly, capped to 30fps currently 
@@ -42,6 +45,7 @@
 ### GTA III Definitive Edition
 - **Stability:** Very Stable
 - **FPS:** Good
+- **Resolution:** 
 - **Settings:** Maxed
 - **Method:** Native (ARM64), Playcover
 - **Notes:** Runs perfectly, capped to 30fps currently 
@@ -49,6 +53,7 @@
 ### GTA Vice City Definitive Edition
 - **Stability:** Very Stable
 - **FPS:** Good
+- **Resolution:** 
 - **Settings:** Maxed
 - **Method:** Native (ARM64), Playcover
 - **Notes:** Runs perfectly, capped to 30fps currently 
@@ -56,6 +61,7 @@
 ### Cyberpunk 2077
 - **Stability:** Not Stable
 - **FPS:** Bad
+- **Resolution:** 
 - **Settings:** Low
 - **Method:** Crossover (x64), Steam
 - **Notes:** Surprised this ran, Settings are as low as I could get and get like 10-15fps
@@ -63,6 +69,7 @@
 ### X-Plane 12
 - **Stability:** Not Stable
 - **FPS:** Bad
+- **Resolution:** 
 - **Settings:** Low
 - **Method:** Native (ARM64), Mac App Store
 - **Notes:** Sucks with fps
@@ -70,6 +77,7 @@
 ### X-Plane 11
 - **Stability:** Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** Low
 - **Method:** Native (x64), Mac App Store
 - **Notes:** Works well, not the best fps with high settings
@@ -77,6 +85,7 @@
 ### The Witcher - Assassins of Kings Enchanced Edition [More Testing Needed]
 - **Stability:** Not Stable
 - **FPS:** Good
+- **Resolution:** 
 - **Settings:** Medium
 - **Method:** Native (ARM64), Mac App Store
 - **Notes:** Stutters present but fps is good? More testing needed
@@ -84,27 +93,31 @@
 ### The Witcher - Enchanced Edition
 - **Stability:** Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** Low/Medium
 - **Method:** Native (ARM64), Mac App Store
 - **Notes:** Neat game, Some stutters there and there
 
 ### Terraria
-- **Stability:** Very Stable
-- **FPS:** Excellent
+- **Stability:** Stable
+- **FPS:** Good
+- **Resolution:** 
 - **Settings:** Maxed
 - **Method:** Native (x64), Cracked
-- **Notes:** I hate 2D games, This works well though
+- **Notes:** I hate 2D games, This works well though. Reddit user u/Shadowx972 has pointed out that when choosing hardmode fps is significantly lowered, keep in mind settings weren't mentioned
 
 ### Stardew Valley
 - **Stability:** Very Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** Maxed
 - **Method:** Native (x64), Steam
 - **Notes:** Perfect.
 
-### Sims 2 [Testing Needed
+### Sims 2 [Testing Needed]
 - **Stability:** 
 - **FPS:** 
+- **Resolution:** 
 - **Settings:** 
 - **Method:** Native (x64), Cracked
 - **Notes:** 
@@ -112,6 +125,7 @@
 ### Tomb Raider
 - **Stability:** Very Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** High
 - **Method:** Native (x64), Mac App Store
 - **Notes:** Great game, Can even run on low power mode at 60fps
@@ -119,6 +133,7 @@
 ### Rise of the Tomb Raider
 - **Stability:** Very Stable
 - **FPS:** Good
+- **Resolution:** 
 - **Settings:** High
 - **Method:** Native (x64), Mac App Store
 - **Notes:** Love this game with perfect gameplay. High fps with low/medium settings. I like high settings with 30 fps capped.
@@ -126,6 +141,7 @@
 ### Mad Max
 - **Stability:** Very Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** High
 - **Method:** Crossover (DXVK & D3DMetal), Cracked
 - **Notes:** Great performance. Steam version didn't launch
@@ -133,6 +149,7 @@
 ### Kerbal Space Program [In Progress]
 - **Stability:** Stable
 - **FPS:** Good
+- **Resolution:** 
 - **Settings:** Medium
 - **Method:** Native (x64) Cracked
 - **Notes:** Hate this game. In terms of performance it isn't great at all. I haven't tried low settings yet,
@@ -140,6 +157,7 @@
 ### GTA Vice City
 - **Stability:** Very Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** Maxed
 - **Method:** Native (x64) Cracked
 - **Notes:** Runs perfectly
@@ -147,6 +165,7 @@
 ### GTA III
 - **Stability:** Very Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** Maxed
 - **Method:** Native (x64) Cracked
 - **Notes:** Runs perfectly
@@ -154,6 +173,7 @@
 ### GRID Autosport
 - **Stability:** Very Stable
 - **FPS:** Good
+- **Resolution:** 
 - **Settings:** Medium
 - **Method:** Native (x64) Cracked
 - **Notes:** Nice racing game. High settings result in lower frame rates like F1 2017
@@ -161,6 +181,7 @@
 ### F1 2017
 - **Stability:** Very Stable
 - **FPS:** Good
+- **Resolution:** 
 - **Settings:** Medium
 - **Method:** Native (x64), G2A
 - **Notes:** Nice racing game. High settings result in lower frame rates
@@ -168,6 +189,7 @@
 ### Euro Truck Simulator 2 [Testing Needed]
 - **Stability:** 
 - **FPS:** 
+- **Resolution:** 
 - **Settings:** 
 - **Method:** 
 - **Notes:** 
@@ -175,6 +197,7 @@
 ### Euro Truck Simulator
 - **Stability:** Very Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** Medium
 - **Method:** Native (x64) Steam
 - **Notes:** MXAA 2x and 4x cause an extreme drop in frames, everything else on high
@@ -182,6 +205,7 @@
 ### Dirt Rally
 - **Stability:** Very Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** High
 - **Method:** Native (x64) Steam
 - **Notes:** This is perfectly optimised. Only on low res though. Or in order words, the same as Dirt 4
@@ -189,6 +213,7 @@
 ### Dirt 4
 - **Stability:** Very Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** High
 - **Method:** Native (x64) Steam
 - **Notes:** This is perfectly optimised. Only on low res though
@@ -196,6 +221,7 @@
 ### Cities Skylines
 - **Stability:** Relatively Stable
 - **FPS:** Good
+- **Resolution:** 
 - **Settings:** Low
 - **Method:** Native (x64) Cracked
 - **Notes:** Badly optimised, but playable
@@ -203,6 +229,7 @@
 ### Borderlands 2
 - **Stability:** Relatively Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** Medium
 - **Method:** Native (x64) Steam
 - **Notes:** Good game, works well
@@ -210,9 +237,10 @@
 ### Art of Rally
 - **Stability:** Relatively Stable
 - **FPS:** Excellent
+- **Resolution:** 
 - **Settings:** Medium
 - **Method:** Native (x64) Steam
-- **Notes:** Ok, not bad, but the games not really fun at all
+- **Notes:** Ok, not bad, but the game really isn't fun at all
 
 ### Absolute Drift 
 - **Stability:** RelativelyStable
