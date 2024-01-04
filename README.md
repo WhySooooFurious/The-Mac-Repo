@@ -25,9 +25,9 @@
 - **RAM:** 2/4 GB, Depends
 
 ## Notes
-- I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it
+- I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it OR I don't have enough money to buy it ;)
 - You can request games to be tested by messaging me on Reddit (u/WhySooooFurious)
-
+- You can help by telling me how a game runs using the format below and messaging me on Reddit (u/WhySooooFurious)
 ## Important Notes
 - **Thermal Throttling:** It will happen on some Macs, such as mine. Keep that in mind; these are mostly all burst tests, so expect some drop in frame rates over a longer period of time
 
