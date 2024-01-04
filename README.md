@@ -1,4 +1,4 @@
-### *Read these sections first!*
+# *Read these sections first!*
 
 ## Contributors and their Macs
 - **User:**
