@@ -108,15 +108,15 @@
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
-- **Method & Source:** Parallels (x64), Epic games
-- **Notes:** Works very well
+- **Method & Source:** Parallels 19 (x64), Epic games
+- **Notes:** Works very well, almost native 
  
 ### Rocket League - u/ParthGupta79
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1664
 - **Settings:** High
-- **Method & Source:** Crossover 23.6 (x64), Epic games(Heroic launcher)
+- **Method & Source:** Crossover 23.6 (x64), Epic games (Heroic launcher)
 - **Notes:** Name tags invisible
 
 ### Stray - u/ParthGupta79
