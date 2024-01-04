@@ -6,14 +6,14 @@
  - **Device:**
     - M1 MacBook Air
  - **Specifications:**
-   - Base Model, 8 Core CPU, 7 Core GPU, 8GB RAM
+   - 8 Core CPU, 7 Core GPU, 8GB RAM
 
 - **User:**
   - u/ParthGupta79
  - **Device:**
    - M2 Macbook Air
 - **Specifications:**
-   - Base Model, 8 Core CPU, 8 Core GPU, 8GB RAM
+   - 8 Core CPU, 8 Core GPU, 8GB RAM
 
 - **User:**
   - u/Orange-Fish1980
@@ -62,7 +62,7 @@
 - **Stability:**
   - **Not Stable:**
     - Stuttery mess
-  - **Relatively Stable:**
+  - **Stable:**
      - Some stutters
   - ***Very Stable:**
     - Buttery smooth
@@ -88,7 +88,7 @@
   - **High:**
     - High everything, turn on effects
   - **Maxed:**
-    - If present it means game settings are as high as they possibly can go. Or in other words: High<
+    - If present it means game settings are as high as they possibly can go. Ultra Settings. Or in other words: High<
 
       (All of this doesn't relate to resolution at all)
  
@@ -106,13 +106,13 @@
 - **The Witcher: Assassins of Kings Enhanced Edition**
 - **The Sims 2**
 - **Euro Truck Simulator 2**
--  **Spider-Man Remastered**
+- **Spider-Man Remastered**
 
 ## Testing Notes
 
 ### Rtype Delta 2 - u/Orange-Fish1980
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1920x1080
 - **Settings:** Medium 
 - **Method & Source:** Whisky (x64), 
@@ -120,7 +120,7 @@
 
 ### Dark Souls Remastered - u/ParthGupta79
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1920x1200
 - **Settings:** High 
 - **Method & Source:** Crossover 23.6 (x64), Cracked
@@ -128,7 +128,7 @@
 
 ### Rocket League - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Parallels 19 (x64), Epic games
@@ -136,7 +136,7 @@
  
 ### Rocket League - u/ParthGupta79
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1664
 - **Settings:** High
 - **Method & Source:** Crossover 23.6 (x64), Epic games (Heroic launcher)
@@ -156,11 +156,11 @@
 - **Resolution:** 1680x1050 with MetalFX
 - **Settings:** Low
 - **Method & Source:** Native (ARM64), Cracked
-- **Notes:** Runs badly but playable
+- **Notes:** Runs badly but playable. Also looks pretty bad
 
 ### Lies of P - u/ParthGupta79
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1920x1200 with MetalFX
 - **Settings:** Medium-High
 - **Method & Source:** Native (ARM64), Cracked
@@ -168,7 +168,7 @@
 
 ### Sekiro: Shadows Die Twice  - u/ParthGupta79
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1920x1200
 - **Settings:** Low 
 - **Method & Source:** Crossover 23.6 (x64), Cracked
@@ -176,7 +176,7 @@
 
 ### Grand theft Auto 4 - u/ParthGupta79
 - **Stability:** Very Stable
-- **Frame Rate:** Excellent
+- **Frame Rate:** Perfect
 - **Resolution:** 1920x1200
 - **Settings:** Medium-High
 - **Method & Source:** Crossover 23.6 (x32), Cracked
@@ -383,7 +383,7 @@
 - **Notes:** This is perfectly optimized. Only on low res though
 
 ### Cities Skylines - u/WhySooooFurious
-- **Stability:** Relatively Stable
+- **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Low
@@ -391,7 +391,7 @@
 - **Notes:** Badly optimized, but playable
 
 ### Borderlands 2 - u/WhySooooFurious
-- **Stability:** Relatively Stable
+- **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Medium
@@ -399,7 +399,7 @@
 - **Notes:** Good game, works well
 
 ### Art of Rally - u/WhySooooFurious
-- **Stability:** Relatively Stable
+- **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Medium
@@ -407,7 +407,7 @@
 - **Notes:** Ok, not bad, but the game really isn't fun at all
 
 ### Absolute Drift - u/WhySooooFurious
-- **Stability:** Relatively Stable
+- **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
@@ -447,7 +447,7 @@
 - **Notes:** Perfect fps with Fabulously Optimized modpack.
 
 ### Sleeping Dogs: Definitive Edition - u/WhySooooFurious
-- **Stability:** Relatively Stable
+- **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Low
@@ -463,7 +463,7 @@
 - **Notes:** Ok. I would expect more from a native game like this. High res and make sure to Enable FSR or MetalFX for higher fps. Doesn't look magnificent. Can reach 60fps with tweaking settings until thermal throttling comes over for dinner.
 
 ### Dying Light - u/WhySooooFurious
-- **Stability:** Relatively Stable
+- **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Low
@@ -473,10 +473,10 @@
 ### Grand Theft Auto V - u/WhySooooFurious
 - **Stability:** Very Stable
 - **Frame Rate:** Perfect
-- **Resolution:** 
+- **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Cracked & Epic Games
-- **Notes:** FPS can shoot up to 120 in some areas while it can go down to 60-80 in city areas. You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability, keep in mind you can't go online if you do this. Online is ok since M-Sync was added, which was a lifesaver. Online is around 40-50 fps, which can go down depending on where you're at. When you're near other players, fps drops as well. With D3DMetal, V-Sync doesn't work whether turned on or off in-game settings. Cracked works a bit better, in my opinion. Crossover 23.7 breaks the game.
+- **Notes:** FPS can shoot up to 120 in some areas while it can go down to 60-80 in city areas. You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability, keep in mind you can't go online if you do this. Online is ok since M-Sync was added, which was a lifesaver. Online is around 40-50 fps, which can go down depending on where you're at. When you're near other players, fps drops as well. With D3DMetal, V-Sync doesn't work whether turned on or off in-game settings. Cracked works a bit better, in my opinion. Crossover 23.7 breaks the game. 2560X1600 works at around 45fps.
 
 ## Games That Do Not Work
 
@@ -509,7 +509,7 @@
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A
-- **Method & Source:** Crossover 23.6 (x64), Cracked(Empress)
+- **Method & Source:** Crossover 23.6 (x64), Cracked
 - **Notes:** Issue is in the crack because the steam version runs fine. Disabling an os check in the crack might fix the issue.
 
 ### Fifa 23 - u/ParthGupta79
