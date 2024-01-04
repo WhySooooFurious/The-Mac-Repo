@@ -1,6 +1,9 @@
+Certainly! Here's the revised version of the entire text with the suggested changes:
+
+```markdown
 # *Read these sections first!*
 
-## Overview
+## My Mac
 - **Device:** M1 MacBook Air
 - **Specs:** Base Model, 7 Core GPU
 
@@ -11,8 +14,8 @@
 ## Game Settings
 - **V-Sync:** On
 - **Resolution:** Specified
-- **Graphics Settings:** As low as they can be or depending on the game and fps I can test with better settings
-- **FPS:** Bad: 0-20, Good: 30-40, Excellent: 50-60, 
+- **Graphics Settings:** As low as they can be or depending on the game and frame rate I can test with better settings
+- **Frame Rate:** Bad: 0-20, Good: 30-40, Excellent: 50-60, 
 - **Stability:** Not Stable: Stuttery mess, Relatively Stable: Some stutters, Very Stable: Buttery smooth
 
 ## PlayCover Settings
@@ -36,7 +39,7 @@
 
 ### GTA San Andreas Definitive Edition
 - **Stability:** Very Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Maxed
 - **Method:** Native (ARM64), Playcover
@@ -44,7 +47,7 @@
 
 ### GTA III Definitive Edition
 - **Stability:** Very Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Maxed
 - **Method:** Native (ARM64), Playcover
@@ -52,7 +55,7 @@
 
 ### GTA Vice City Definitive Edition
 - **Stability:** Very Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Maxed
 - **Method:** Native (ARM64), Playcover
@@ -60,7 +63,7 @@
 
 ### Cyberpunk 2077
 - **Stability:** Not Stable
-- **FPS:** Bad
+- **Frame Rate:** Bad
 - **Resolution:** 800x600
 - **Settings:** Low
 - **Method:** Crossover (x64), Steam
@@ -68,31 +71,31 @@
 
 ### X-Plane 12
 - **Stability:** Not Stable
-- **FPS:** Bad
+- **Frame Rate:** Bad
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method:** Native (ARM64), Mac App Store
-- **Notes:** Sucks with fps, Haven't tried lower resolutions yets
+- **Notes:** Sucks with frame rate, Haven't tried lower resolutions yet
 
 ### X-Plane 11
 - **Stability:** Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method:** Native (x64), Mac App Store
-- **Notes:** Works well, not the best fps with high settings
+- **Notes:** Works well, not the best frame rate with high settings
 
-### The Witcher - Assassins of Kings Enchanced Edition [More Testing Needed]
+### The Witcher - Assassins of Kings Enhanced Edition [More Testing Needed]
 - **Stability:** Not Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method:** Native (ARM64), Mac App Store
-- **Notes:** Stutters present but fps is good? More testing needed
+- **Notes:** Stutters present but frame rate is good? More testing needed
 
-### The Witcher - Enchanced Edition
+### The Witcher - Enhanced Edition
 - **Stability:** Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Low/Medium
 - **Method:** Native (ARM64), Mac App Store
@@ -100,15 +103,15 @@
 
 ### Terraria
 - **Stability:** Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Native (x64), Cracked
-- **Notes:** I hate 2D games, This works well though. Reddit user u/Shadowx972 has pointed out that when choosing hardmode fps is significantly lowered, keep in mind settings weren't mentioned
+- **Notes:** I hate 2D games, This works well though. Reddit user u/Shadowx972 has pointed out that when choosing hardmode frame rate is significantly lowered, keep in mind settings weren't mentioned
 
 ### Stardew Valley
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Native (x64), Steam
@@ -116,7 +119,7 @@
 
 ### Sims 2 [Testing Needed]
 - **Stability:** 
-- **FPS:** 
+- **Frame Rate:** 
 - **Resolution:** 
 - **Settings:** 
 - **Method:** Native (x64), Cracked
@@ -124,7 +127,7 @@
 
 ### Tomb Raider
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** High
 - **Method:** Native (x64), Mac App Store
@@ -132,31 +135,31 @@
 
 ### Rise of the Tomb Raider
 - **Stability:** Very Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method:** Native (x64), Mac App Store
-- **Notes:** Love this game with perfect gameplay. High fps with low/medium settings. I like high settings with 30 fps capped.
+- **Notes:** Love this game with perfect gameplay. High frame rate with low/medium settings. I like high settings with 30 fps capped.
 
 ### Mad Max
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method:** Crossover (DXVK & D3DMetal), Cracked
-- **Notes:** Great performance. Steam version didn't launch. Crossover works better than native because of native using outdated OpenGl translation layer.
+- **Notes:** Great performance. Steam version didn't launch. Crossover works better than native because of native using outdated OpenGL translation layer.
 
 ### Kerbal Space Program [In Progress]
 - **Stability:** Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method:** Native (x64) Cracked
-- **Notes:** Hate this game. In terms of performance it isn't great at all. I haven't tried low settings yet
+- **Notes:** Hate this game. In terms of performance, it isn't great at all. I haven't tried low settings yet
 
 ### GTA Vice City
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Native (x64) Cracked
@@ -164,7 +167,7 @@
 
 ### GTA III
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Native (x64) Cracked
@@ -172,7 +175,7 @@
 
 ### GRID Legends
 - **Stability:** Very Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method:** Native (ARM64) Cracked
@@ -180,7 +183,7 @@
 
 ### GRID Autosport
 - **Stability:** Very Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method:** Native (x64) Cracked
@@ -188,7 +191,7 @@
 
 ### F1 2017
 - **Stability:** Very Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method:** Native (x64), G2A
@@ -196,7 +199,7 @@
 
 ### Euro Truck Simulator 2 [Testing Needed]
 - **Stability:** 
-- **FPS:** 
+- **Frame Rate:** 
 - **Resolution:** 
 - **Settings:** 
 - **Method:** 
@@ -204,7 +207,7 @@
 
 ### Euro Truck Simulator
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method:** Native (x64) Steam
@@ -212,31 +215,31 @@
 
 ### Dirt Rally
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method:** Native (x64) Steam
-- **Notes:** This is perfectly optimised. Only on low res though. Or in order words, the same as Dirt 4
+- **Notes:** This is perfectly optimized. Only on low res though. Or in other words, the same as Dirt 4
 
 ### Dirt 4
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method:** Native (x64) Steam
-- **Notes:** This is perfectly optimised. Only on low res though
+- **Notes:** This is perfectly optimized. Only on low res though
 
 ### Cities Skylines
 - **Stability:** Relatively Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method:** Native (x64) Cracked
-- **Notes:** Badly optimised, but playable
+- **Notes:** Badly optimized, but playable
 
 ### Borderlands 2
 - **Stability:** Relatively Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method:** Native (x64) Steam
@@ -244,15 +247,15 @@
 
 ### Art of Rally
 - **Stability:** Relatively Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Medium
 - **Method:** Native (x64) Steam
 - **Notes:** Ok, not bad, but the game really isn't fun at all
 
 ### Absolute Drift 
-- **Stability:** RelativelyStable
-- **FPS:** Excellent
+- **Stability:** Relatively Stable
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Native (x64) Steam
@@ -260,7 +263,7 @@
 
 ### Combat Master
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Low
 - **Method:** Native (ARM64) Steam
@@ -268,7 +271,7 @@
 
 ### Call of Duty (Any game)
 - **Stability:** Not Stable
-- **FPS:** Bad
+- **Frame Rate:** Bad
 - **Resolution:** 800x600
 - **Settings:** Low
 - **Method:** Crossover (DXVK & D3DMetal)
@@ -276,7 +279,7 @@
 
 ### Simple Planes
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Rosetta (x64), Mac App Store
@@ -284,49 +287,48 @@
 
 ### Resident Evil: Village
 - **Stability:** Very Stable
-- **FPS:** Good
+- **Frame Rate:** Good
 - **Resolution:** 2560x1600 and MetalFX
 - **Settings:** Maxed
 - **Method:** Native (ARM64), Steam
-- **Notes:** Perfectly optimized. Stable at 30fps with maxed settings, 60fps+ on medium settings. This is how a good game should be! My theory is that it is designed for an iPhone and then ported over to Mac with higher graphic settings
+- **Notes:** Perfectly optimized. Stable at 30fps with maxed settings, 60fps+ on medium settings. This is how a good game should be! My theory is that it is designed for an iPhone and then ported over to Mac with higher graphic settings.
 
 ### Minecraft: Java Edition
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method:** Native (ARM64), Prism Launcher
-- **Notes:** Perfect fps with Fabulously Optimised modpack.
+- **Notes:** Perfect fps with Fabulously Optimized modpack.
 
 ### Sleeping Dogs: Definitive Edition
 - **Stability:** Relatively Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method:** Crossover (DXVK & D3DMetal), Steam & Native (x64)
-- **Notes:** Looks ok with low settings. Reaches 60 fps and sometimes dips with occasional small stutters. Crossover works better than native because of native using outdated OpenGl translation layer.
+- **Notes:** Looks ok with low settings. Reaches 60 fps and sometimes dips with occasional small stutters. Crossover works better than native because of native using outdated OpenGL translation layer.
 
 ### No Man's Sky
 - **Stability:** Stable
-- **FPS:** Ok
+- **Frame Rate:** Ok
 - **Resolution:** 2560x1600 with MetalFX
 - **Settings:** Low
 - **Method:** Native (ARM64), Steam
-- **Notes:** Ok. I would expect more from a native game like this. High res and make sure to Enable FSR or MetalFX for higher fps. Doesn't look magnificent. Can reach 60fps with tweaking settings until thermal throttling comes over for dinner
+- **Notes:** Ok. I would expect more from a native game like this. High res and make sure to Enable FSR or MetalFX for higher fps. Doesn't look magnificent. Can reach 60fps with tweaking settings until thermal throttling comes over for dinner.
 
 ### Dying Light 1
 - **Stability:** Relatively Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method:** Crossover (D3DMetal), Cracked
-- **Notes:** Sometimes the fps gets stuck at 53 for no reason. Gameplay is good. Not many stutters. For me it only Launches with D3DMetal option checked.
+- **Notes:** Sometimes the frame rate gets stuck at 53 for no reason. Gameplay is good. Not many stutters. For me, it only launches with D3DMetal option checked.
 
 ### Grand Theft Auto V
 - **Stability:** Very Stable
-- **FPS:** Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 
 - **Settings:** Low
 - **Method:** Crossover (DXVK & D3DMetal), Cracked & Epic Games
-- **Notes:** FPS can shoot up to 120 in some areas while it can go down to 60-80 in city areas. You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability, keep in mind you can't go online if you do this. Online is ok since M-Sync was added which was a life saver. Online is around 40-50 fps which can go down depending where you're at. When you're near other players fps drops as well. With D3DMetal, V-Sync doesn't work whether turned on or off in game settings. Cracked works a bit better imo.
-```
+- **Notes:** FPS can shoot up to 120 in some areas while it can go down to 60-80 in city areas. You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability, keep in mind you can't go online if you do this. Online is ok since M-Sync was added, which was a lifesaver. Online is around 40-50 fps, which can go down depending on where you're at. When you're near other players, fps drops as well. With D3DMetal, V-Sync doesn't work whether turned on or off in-game settings. Cracked works a bit better, in my opinion.
