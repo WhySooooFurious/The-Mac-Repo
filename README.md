@@ -2,39 +2,13 @@
 
 ## Contributors and their Macs
 - **User:** u/WhySooooFurious
- - Device: M1 MacBook Air
+ - Device: M1 MacBook Airn
  - Specifications: Base Model, 7 Core CPU, 7 Core GPU, 8GB RAM
 
 - **User:** u/ParthGupta79
   - Device: M2 Macbook Air
   - Specifications: Base Model, 7 Core CPU, 8 Core GPU, 8GB RAM
-## Game Settings
-
-- **Stability:**
-  - Not Stable: Stuttery mess
-  - Relatively Stable: Some stutters
-  - Very Stable: Buttery smooth
-
-- **Frame Rate:**
-  - Bad: 0-20,
-  - Good: 30-40
-  - Perfect: 50-60
-  - Frame rates in between are rounded to their respective categories
-
-- **Resolution:**
-  - Specify the resolution at which the game is being played at
-  - Also mention if you're using something like FSR or MetalFX
-
-- **Settings:**
-  - Low: Low as I can get them
-  - Medium: Medium everything, except for most effects and things like motion blur
-  - High: High everything, turn on effects
-  - Maxed: If present it means game settings are as high as they possibly can go. Or in other words: High< (All of this doesn't relate to resolution at all)
- 
-- **Method:**
-  - Crossover, make sure to put the version name and game architecture e.g: Crossover 23.7 (x64)
-
-
+  - 
 ## PlayCover Settings
 - Nothing really to put here except I use decrypt.day and armconverter.com for ipas
 
@@ -66,6 +40,34 @@
 ## Important Notes
 - **Thermal Throttling:** It will happen on some Macs, such as mine. Keep that in mind; these are mostly all burst tests, so expect some drop in frame rates over a longer period of time
 - **Different Macs:** Contributors have different macs so make sure you've looked at their specs. The person who has tested the game will have their reddit username next to the title of the game
+
+  ## Game Settings
+
+- **Stability:**
+  - Not Stable: Stuttery mess
+  - Relatively Stable: Some stutters
+  - Very Stable: Buttery smooth
+
+- **Frame Rate:**
+  - Bad: 0-20,
+  - Good: 30-40
+  - Perfect: 50-60
+  - Frame rates in between are rounded to their respective categories
+
+- **Resolution:**
+  - Specify the resolution at which the game is being played at
+  - Also mention if you're using something like FSR or MetalFX
+
+- **Settings:**
+  - Low: Low as I can get them
+  - Medium: Medium everything, except for most effects and things like motion blur
+  - High: High everything, turn on effects
+  - Maxed: If present it means game settings are as high as they possibly can go. Or in other words: High< (All of this doesn't relate to resolution at all)
+ 
+- **Method:**
+  - Crossover, make sure to put the version name and game architecture e.g: Crossover 23.7 (x64)
+
+
 
 ## Testing Notes
 
