@@ -59,6 +59,7 @@
 - **Method & Source:** Refer to # Game Settings
 - **Notes:** Anything that may be of interest or important
 ```
+- Please copy this and replace the info. Don't remove all the asterisks as they are useful in formatting to us
 
   ## Game Settings
 
