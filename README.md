@@ -102,27 +102,45 @@
 - **Euro Truck Simulator 2**
 
 ## Testing Notes
+
+### Rocket League - u/WhySooooFurious
+- **Stability:** Very Stable
+- **Frame Rate:** Excellent
+- **Resolution:** 2560x1600
+- **Settings:** Maxed
+- **Method & Source:** Parallels (x64), Epic games
+- **Notes:** Works very well
  
 ### Rocket League - u/ParthGupta79
 - **Stability:** Very Stable
-- **Frame Rate:** Excedllent
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1664
 - **Settings:** High
 - **Method & Source:** Crossover 23.6 (x64), Epic games(Heroic launcher)
+- **Notes:** Name tags invisible
 
-### STRAY - u/ParthGupta79
+### Stray - u/ParthGupta79
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1920x1200 with MetalFX
 - **Settings:** Medium
-- **Method & Source:** Native (ARM), Cracked
+- **Method & Source:** Native (ARM64), Cracked
+- **Notes:**
+
+- ### Stray - u/WhySooooFurious
+- **Stability:** Stable
+- **Frame Rate:** Good
+- **Resolution:** 1680x1050 with MetalFX
+- **Settings:** Low
+- **Method & Source:** Native (ARM64), Cracked
+- **Notes:** Runs badly but playable
 
 ### Lies of P - u/ParthGupta79
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1920x1200 with MetalFX
 - **Settings:** Medium-High
-- **Method & Source:** Native (ARM), Cracked
+- **Method & Source:** Native (ARM64), Cracked
 - **Notes:** Can turn the settings all the way up but textures use a lot of ram so it becomes stuttery (FPS at max settings hovers around 30-40)
 
 ### Sekiro: Shadows Die Twice  - u/ParthGupta79
