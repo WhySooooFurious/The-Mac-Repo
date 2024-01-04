@@ -3,11 +3,7 @@
 ## My Mac
 - **Device:** M1 MacBook Air
 - **Specs:** Base Model, 7 Core GPU
-
-## Notes
-- I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it
-- You can request games to be tested by messaging me on Reddit (u/WhySooooFurious)
-
+- 
 ## Game Settings
 - **V-Sync:** On
 - **Resolution:** Specified
@@ -27,6 +23,10 @@
 - **Windows:** Windows 11 Pro
 - **CPU:** 2/4 Cores, Depends
 - **RAM:** 2/4 GB, Depends
+
+  ## Notes
+- I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it
+- You can request games to be tested by messaging me on Reddit (u/WhySooooFurious)
 
 ## Important Notes
 - **Thermal Throttling:** It will happen on some Macs, such as mine. Keep that in mind; these are mostly all burst tests, so expect some drop in frame rates over a longer period of time
