@@ -108,6 +108,14 @@
 
 ## Testing Notes
 
+### Rtype Delta 2 - u/Orange-Fish1980
+- **Stability:** Very Stable
+- **Frame Rate:** Excellent
+- **Resolution:** 1920x1080
+- **Settings:** Medium 
+- **Method & Source:** Whisky (x64), 
+- **Notes:** Game works through crossover but crashes at 1st stage
+
 ### Dark Souls Remastered - u/ParthGupta79
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
