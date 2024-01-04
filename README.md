@@ -106,7 +106,7 @@
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
-- **Settings:** Low
+- **Settings:** Low (fsr on ultra performance
 - **Method & Source:** Crossover 23.6 (x64), Cracked
 - **Notes:** Mild stutters going from good to bad fps at times
 
