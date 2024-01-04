@@ -4,7 +4,7 @@
 - **Device:** M1 MacBook Air
 - **Specs:** Base Model, 7 Core GPU
 
-  ## Notes
+## Notes
 - I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it
 - You can request games to be tested by messaging me on Reddit (u/WhySooooFurious)
 
