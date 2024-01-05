@@ -105,6 +105,9 @@
     - Make sure you put the game architecture e.g Native (ARM64) or alternatively something like this: Native (x64). Depending what you have got
   - **Source:**
     - Where you got the game from e,g Cracked or or alternatively something like this: Mac App Store
+   
+## FAQ/Q&A
+
  
 ## To be Tested
 - **The Sims 2**
