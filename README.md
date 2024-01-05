@@ -152,7 +152,7 @@
   - Virtualisation involving running the Windows 10/11 ARM64 version on your mac. This method has way more compatability than Crossover and can also run x32 with higher performance. Also great for Windows Store applications, Windows apps in general and running applications that don't work with WINE apps.
 
 **Finding Native Games**
-  - This is the easiest and least time consuming. This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games. Keep in mind that most Windows games will not install at all. These are just games made for macOS and macOS only!
+  - This is the easiest and least time consuming. This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games. Keep in mind that Windows games will not install at all. These are just games made for macOS and macOS only!
  
 ## To be Tested
 - **The Sims 2**
