@@ -108,11 +108,11 @@
    
 ## FAQ/Q&A
 
-**My Macbook is getting hot on the bottom?**
-- Don't worry, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures
+**My Macbook is getting hot/warm to the touch?**
+- Don't worry at all, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures.
 
 **What does having an Apple Silicon/M-Series chip mean?**
-- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well. There are advantages and sadly some disadvantages, listed below.
+- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well while being compared to some Intel chips. There are advantages and sadly some disadvantages, listed below.
 
  **Pros:**
   - Power Efficient which will result in more battery life
@@ -146,11 +146,11 @@
 -First of all, there are 3 main ways in order to game
 
 **Crossover or Whisky:** 
-- Apps that both utilise WINE which translates Windows API calls to MacOS API calls allowing the game to run through Rosetta 2, the translation layer from x64 to ARM64. This is a great option for gaming althought x32 games will run horribly. Some games may not even launch if they might require other resources that WINE cannot provide.
+  - Apps that both utilise WINE which translates Windows API calls to MacOS API calls allowing the game to run through Rosetta 2, the translation layer from x64 to ARM64. This is a great option for gaming althought x32 games will run horribly. Some games may not even launch if they might require other resources that WINE cannot provide.
 **Parallels:**
-
-
-
+  - Virtualisation involving running the Windows 10/11 ARM64 version on your mac. This method has way more compatability than Crossover and can also run x32 with higher performance. Also great for Windows Store applications, Windows apps in general and running applications that don't work with WINE apps.
+**Finding Native Games**
+  - This is the easiest and least time consuming. This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games. Keep in mind that most Windows games will not install at all. These are just games made for macOS and macOS only!
  
 ## To be Tested
 - **The Sims 2**
