@@ -145,7 +145,9 @@
 **I bought an Apple Silicon Mac for gaming, How do I game on it?**
 -First of all, there are 3 main ways in order to game
 
-1.
+**Crossover or Whisky:** 
+- Apps that both utilise WINE which translates Windows API calls to MacOS API calls allowing the game to run through Rosetta 2, the translation layer from x64 to ARM64. This is a great option for gaming althought x32 games will run horribly. Some games may not even launch if they might require other resources that WINE cannot provide.
+**Parallels:**
 
 
 
