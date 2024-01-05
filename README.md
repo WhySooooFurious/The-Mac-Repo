@@ -160,6 +160,14 @@
 
 ## Testing Notes
 
+### Marvel's Spider-Man Remastered - u/WhySooooFurious
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method & Source:** Crossover 23.6 (x64), Steam
+- **Notes:** Unplayable, 5 fps with stutters constantly
+
 ### The Witcher: Assassins of Kings Enhanced Edition - u/WhySooooFurious
 - **Stability:** Not Stable
 - **Frame Rate:** Good
