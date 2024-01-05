@@ -160,6 +160,14 @@
 
 ## Testing Notes
 
+### Marvel's Spider-Man Remastered - u/ParthGupta79
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 
+- **Settings:** Low
+- **Method & Source:** Crossover 23.6 (x64), Steam
+- **Notes:** Unplayable, 
+
 ### Marvel's Spider-Man Remastered - u/WhySooooFurious
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
