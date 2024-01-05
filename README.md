@@ -107,13 +107,20 @@
     - Where you got the game from e,g Cracked or or alternatively something like this: Mac App Store
  
 ## To be Tested
-- **The Witcher: Assassins of Kings Enhanced Edition**
 - **The Sims 2**
 - **Spider-Man Remastered**
 
 ## Testing Notes
 
-### Rtype Delta 2 - u/WhySooooFurious
+### The Witcher: Assassins of Kings Enhanced Edition - u/WhySooooFurious
+- **Stability:** Not Stable
+- **Frame Rate:** Good
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method & Source:** Native (ARM64), Mac App Store
+- **Notes:** Is very stuttery and sorta feels weird with a keyboard?
+
+### Euro Truck Simulator 2 - u/WhySooooFurious
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
