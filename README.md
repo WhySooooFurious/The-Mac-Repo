@@ -156,7 +156,6 @@
  
 ## To be Tested
 - **The Sims 2**
-- **Spider-Man Remastered**
 
 ## Testing Notes
 
