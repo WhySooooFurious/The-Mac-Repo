@@ -108,8 +108,16 @@
    
 ## FAQ/Q&A
 
-**My Macbook is getting very warm?**
-- Don't worry
+**My Macbook is getting hot on the bottom?**
+- Don't worry, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures
+
+**What does having an Apple Silicon/M-Series chip mean?**
+- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well. There are some disadvantages though, listed below.
+
+- Cons:
+  - 
+
+
 
 
  
