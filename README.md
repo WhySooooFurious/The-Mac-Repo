@@ -109,17 +109,24 @@
 ## To be Tested
 - **The Witcher: Assassins of Kings Enhanced Edition**
 - **The Sims 2**
-- **Euro Truck Simulator 2**
 - **Spider-Man Remastered**
 
 ## Testing Notes
 
+### Rtype Delta 2 - u/WhySooooFurious
+- **Stability:** Stable
+- **Frame Rate:** Good
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method & Source:** Native (x64), Steam
+- **Notes:** Looks pretty bad on lower resolutions like 1680x1050. 2560x1600 looks better but its still like 30-40fps on low settings
+
 ### Rtype Delta 2 - u/Orange-Fish1980
 - **Stability:** Very Stable
 - **Frame Rate:** Perfect
-- **Resolution:** 1920x1080
-- **Settings:** Medium 
-- **Method & Source:** Whisky (x64), 
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Whisky (x64), N/A
 - **Notes:** Game works through crossover but crashes at 1st stage
 
 ### Dark Souls Remastered - u/ParthGupta79
