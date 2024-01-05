@@ -112,11 +112,40 @@
 - Don't worry, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures
 
 **What does having an Apple Silicon/M-Series chip mean?**
-- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well. There are some disadvantages though, listed below.
+- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well. There are advantages and sadly some disadvantages, listed below.
 
-- Cons:
-  - 
+ **Pros:**
+  - Power Efficient which will result in more battery life
+  - Perfomance compared to Intel equivalents in the Macbook line are very great
+  - Quieter devices 
+  - Better integrated graphics performance and support
+  - Ability to run iPhone/iPad apps on your mac natively through apps like PlayCover
+  - Through the use of Rosetta 2 x64 apps are still supported, quite well I might add
+  - Unified Architecture
 
+ **Cons:**
+  - No support for Windows or Bootcamp unless using software such as UTM and Parallels which will also have to be ARM64
+  - Needing apps such as Crossover and Parallels to game apps that are not supported on macOS
+  - No EGPU support
+  - Only one external display
+  - Bad x32 application support
+  - Needing Rosetta 2 in order to run x64 apps which will have performance loss
+  - Applications might need updating, especially system extensions which will need to get updated from x64 to ARM64
+
+**What does having an Intel chip mean?**
+- You will most likely have one with an integrated GPU which will result in very poor gaming ability. Intel Macs with a GPU can be good to game on
+- Unlike Apple Silicon macs you will have access to the cons listed above.
+
+**What is Bootcamp?**
+- Bootcamp is an application created by Apple that allows Intel Macs to get Windows, This can help Intel Mac users in order to get Windows-Only applications or simply just having Windows on your Mac
+
+**Should I buy a Mac for gaming?**
+- If all you're going to buy a Mac just for gaming you will get laughed at. If you're looking to buy a good reputable laptop with great build quality for school/work with the added benefit of gaming well for a laptop, yes you should.
+
+**I bought an Apple Silicon Mac for gaming, How do I game on it?**
+-First of all, there are 3 main ways in order to game
+
+1.
 
 
 
