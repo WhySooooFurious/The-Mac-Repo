@@ -108,6 +108,10 @@
    
 ## FAQ/Q&A
 
+**My Macbook is getting very warm?**
+- Don't worry
+
+
  
 ## To be Tested
 - **The Sims 2**
