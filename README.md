@@ -96,7 +96,7 @@
 
       (All of this doesn't relate to resolution at all)
  
-- **Method & Source & Source:**
+ - **Method & Source & Source:**
   - **Crossover:**
     - Make sure to put the version name and game architecture e.g: Crossover 23.7 (x64) or alternatively something like this: Crossover 22 (x32). Depending what you have got
   - **Parallels:**
@@ -112,7 +112,7 @@
 - Don't worry at all, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures
 
 **What does having an Apple Silicon/M-Series chip mean?**
-- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well while being compared to some Intel chips There are advantages and sadly some disadvantages, listed below
+ - This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well while being compared to some Intel chips There are advantages and sadly some disadvantages, listed below
 
 **Pros:**
   - Power Efficient which will result in more battery life
