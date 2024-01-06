@@ -166,7 +166,6 @@
   - These are just games made for macOS and macOS only!
  
 ## To be Tested
- - Vintage Story
  - Need for Speed - The Run
  - Need for Speed - Hot Pursuit
  - Assetto Corza - Competizione 
@@ -706,7 +705,7 @@
   - Crossover 23.7 breaks the game
   - 2560X1600 works at around 45fps
 
-## Games That Do Not Work
+## Games That Do Not Work (Simply not launching or not getting past the Menu)
 
 ### Fifa 15 - u/WhySooooFurious
 - **Stability:** N/A
@@ -761,4 +760,4 @@
 - **Settings:** N/A
 - **Method & Source:** Native (x64), Cracked
 - **Notes:**
-  - Crashes upon launch
+  - Doesn't load
