@@ -51,15 +51,17 @@
 
 ## Format
 ```
-- **Game Name:** Input the game's name
-- **Stability:** Refer to # Game Settings
-- **Frame Rate:** Refer to # Game Settings
-- **Resolution:** Refer to # Game Settings
-- **Settings:** Refer to # Game Settings
-- **Method & Source:** Refer to # Game Settings
-- **Notes:** Anything that may be of interest or important
+### (Game Name) - (Contributor Reddit Name)
+- **Stability:** (Refer to # Game Settings)
+- **Frame Rate:** (Refer to # Game Settings)
+- **Resolution:** (Refer to # Game Settings)
+- **Settings:** (Refer to # Game Settings)
+- **Method & (Source:** Refer to # Game Settings)
+- **Notes:** (Anything that may be of interest or important)
 ```
-- Please copy this and replace the info. Don't remove all the asterisks or colons as they are useful in formatting
+- Please replace the text surrounded by brackets only!
+- Don't remove all the asterisks or colons as they are useful in formatting
+- Also remove the brackets
 
 ## Game Settings
 
