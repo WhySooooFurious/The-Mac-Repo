@@ -164,7 +164,6 @@
   - These are just games made for macOS and macOS only!
  
 ## To be Tested
-- **The Sims 2**
 
 ## Testing Notes
 
@@ -174,7 +173,9 @@
 - **Resolution:** 800x600
 - **Settings:** Low
 - **Method & Source:** Parallels 19 (x64), Epic Games
-- **Notes:** Unplayable. Stutters constantly
+- **Notes:**
+  - Unplayable
+  - Stutters constantly
 
 ### Marvel's Spider-Man Remastered - u/ParthGupta79
 - **Stability:** Not Stable
@@ -182,7 +183,8 @@
 - **Resolution:** 
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Steam
-- **Notes:** Unplayable, 
+- **Notes:**
+  - Unplayable 
 
 ### Marvel's Spider-Man Remastered - u/WhySooooFurious
 - **Stability:** Not Stable
@@ -190,7 +192,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Steam
-- **Notes:** Unplayable, 5 fps with stutters constantly
+- **Notes:**
+  - Unplayable
+  - 5 fps with stutters constantly
 
 ### The Witcher: Assassins of Kings Enhanced Edition - u/WhySooooFurious
 - **Stability:** Not Stable
@@ -198,7 +202,8 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Native (ARM64), Mac App Store
-- **Notes:** Is very stuttery and sorta feels weird with a keyboard?
+- **Notes:**
+  - Is very stuttery and feels weird with a keyboard?
 
 ### Euro Truck Simulator 2 - u/WhySooooFurious
 - **Stability:** Stable
@@ -206,7 +211,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Native (x64), Steam
-- **Notes:** Looks pretty bad on lower resolutions like 1680x1050. 2560x1600 looks better but its still like 30-40fps on low settings
+- **Notes:**
+  - Looks pretty bad on lower resolutions like 1680x1050
+  - 2560x1600 looks better but its still like 30-40fps on low settings
 
 ### Rtype Delta 2 - u/Orange-Fish1980
 - **Stability:** Very Stable
@@ -214,7 +221,8 @@
 - **Resolution:** N/A
 - **Settings:** N/A
 - **Method & Source:** Whisky (x64), N/A
-- **Notes:** Game works through crossover but crashes at 1st stage
+- **Notes:**
+  - Game works through crossover but crashes at 1st stage
 
 ### Dark Souls Remastered - u/ParthGupta79
 - **Stability:** Very Stable
@@ -222,7 +230,8 @@
 - **Resolution:** 1920x1200
 - **Settings:** High 
 - **Method & Source:** Crossover 23.6 (x64), Cracked
-- **Notes:** VSync was turned on so FPS might be higher than 60.
+- **Notes:**
+  - V-Sync was turned on so FPS might be higher than 60
 
 ### Rocket League - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -230,7 +239,9 @@
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Parallels 19 (x64), Epic games
-- **Notes:** Works very well, almost native 
+- **Notes:**
+  - Works very well
+  - Almost feels like native 
  
 ### Rocket League - u/ParthGupta79
 - **Stability:** Very Stable
@@ -238,7 +249,9 @@
 - **Resolution:** 2560x1664
 - **Settings:** High
 - **Method & Source:** Crossover 23.6 (x64), Epic games (Heroic launcher)
-- **Notes:** Name tags invisible while using dxvk. Name tags are visible using D3DMetal.
+- **Notes:**
+  - Name tags invisible while using DXVK
+  - Name tags are visible using D3DMetal
 
 ### Stray - u/ParthGupta79
 - **Stability:** Stable
@@ -246,7 +259,8 @@
 - **Resolution:** 1920x1200 with MetalFX
 - **Settings:** Medium
 - **Method & Source:** Native (ARM64), Cracked
-- **Notes:** 
+- **Notes:**
+  - 
 
 ### Stray - u/WhySooooFurious
 - **Stability:** Stable
@@ -254,7 +268,9 @@
 - **Resolution:** 1680x1050 with MetalFX
 - **Settings:** Low
 - **Method & Source:** Native (ARM64), Cracked
-- **Notes:** Runs badly but playable. Also looks pretty bad
+- **Notes:**
+  - Runs badly but playable
+  - Also looks pretty bad
 
 ### Lies of P - u/ParthGupta79
 - **Stability:** Very Stable
@@ -262,7 +278,8 @@
 - **Resolution:** 1920x1200 with MetalFX
 - **Settings:** Medium-High
 - **Method & Source:** Native (ARM64), Cracked
-- **Notes:** Can turn the settings all the way up but textures use a lot of ram so it becomes stuttery (FPS at max settings hovers around 30-40)
+- **Notes:**
+  - Can turn the settings all the way up but textures use a lot of ram so it becomes stuttery (FPS at max settings hovers around 30-40)
 
 ### Sekiro: Shadows Die Twice  - u/ParthGupta79
 - **Stability:** Very Stable
@@ -270,7 +287,8 @@
 - **Resolution:** 1920x1200
 - **Settings:** Low 
 - **Method & Source:** Crossover 23.6 (x64), Cracked
-- **Notes:** Vsync was turned on so FPS could've been greater than 60
+- **Notes:**
+  - V-Sync was turned on so FPS could've been greater than 60
 
 ### Grand theft Auto 4 - u/ParthGupta79
 - **Stability:** Very Stable
@@ -278,7 +296,8 @@
 - **Resolution:** 1920x1200
 - **Settings:** Medium-High
 - **Method & Source:** Crossover 23.6 (x32), Cracked
-- **Notes:** Experiment with D3Dmetal and DXVk (used DXVK in my case)
+- **Notes:**
+  - Experiment with D3Dmetal and DXVk (used DXVK in my case)
   
 ### Dark Souls 3 - u/ParthGupta79
 - **Stability:** Stable
@@ -286,7 +305,8 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low 
 - **Method & Source:** Crossover 23.6 (x64), Cracked
-- **Notes:** Mild stutters but nothing serious
+- **Notes:**
+  - Mild stutters but nothing serious
 
 ### God of War - u/ParthGupta79
 - **Stability:** Stable
@@ -294,7 +314,8 @@
 - **Resolution:** 1680x1050 with FSR
 - **Settings:** Low 
 - **Method & Source:** Crossover 23.6 (x64), Cracked
-- **Notes:** Mild stutters going from good to bad fps at times
+- **Notes:**
+  - Mild stutters going from good to bad fps at times
 
 ### Assassin's Creed: Rogue - u/WhySooooFurious
 - **Stability:** Stable
@@ -302,7 +323,8 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Steam
-- **Notes:** Mild stutters going from good to bad fps at times
+- **Notes:**
+  - Mild stutters going from good to bad fps at times
 
 ### Assassin's Creed: Brotherhood - u/WhySooooFurious
 - **Stability:** Stable
@@ -310,7 +332,8 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Steam
-- **Notes:** Mild stutters going from good to bad fps at times
+- **Notes:**
+  - Mild stutters going from good to bad fps at times
 
 ### GTA San Andreas: Definitive Edition - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -318,7 +341,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Maxed
 - **Method & Source:** Native (ARM64), Playcover
-- **Notes:** Runs perfectly, capped to 30fps currently 
+- **Notes:**
+  - Runs perfectly
+  - Capped to 30fps currently 
 
 ### GTA III: Definitive Edition - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -326,7 +351,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Maxed
 - **Method & Source:** Native (ARM64), Playcover
-- **Notes:** Runs perfectly, capped to 30fps currently 
+- **Notes:**
+  - Runs perfectly
+  - Capped to 30fps currently 
 
 ### GTA Vice City: Definitive Edition - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -334,7 +361,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Maxed
 - **Method & Source:** Native (ARM64), Playcover
-- **Notes:** Runs perfectly, capped to 30fps currently 
+- **Notes:**
+  - Runs perfectly
+  - Capped to 30fps currently 
 
 ### Cyberpunk 2077 - u/WhySooooFurious
 - **Stability:** Not Stable
@@ -342,7 +371,9 @@
 - **Resolution:** 800x600
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Steam
-- **Notes:** Surprised this ran, Settings are as low as I could get and get like 10-15fps
+- **Notes:**
+  - Surprised this ran
+  - Settings are as low as I could get and get like 10-15fps
 
 ### X-Plane 12 - u/WhySooooFurious
 - **Stability:** Not Stable
@@ -350,7 +381,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Native (ARM64), Mac App Store
-- **Notes:** Sucks with frame rate, Haven't tried lower resolutions yet
+- **Notes:**
+  - Sucks with frame rates
+  - Playable on lower resolutions which make the game look pretty bad
 
 ### X-Plane 11 - u/WhySooooFurious
 - **Stability:** Stable
@@ -358,7 +391,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Native (x64), Mac App Store
-- **Notes:** Works well, not the best frame rate with high settings
+- **Notes:**
+  - Works well
+  - Not the best frame rate with high settings
 
 ### The Witcher: Enhanced Edition - u/WhySooooFurious
 - **Stability:** Stable
@@ -366,7 +401,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low/Medium
 - **Method & Source:** Native (ARM64), Mac App Store
-- **Notes:** Neat game, Some stutters there and there
+- **Notes:**
+  - Neat game
+  - Some stutters though
 
 ### Terraria - u/WhySooooFurious
 - **Stability:** Stable
@@ -374,7 +411,10 @@
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Native (x64), Cracked
-- **Notes:** I hate 2D games, This works well though. Reddit user u/Shadowx972 has pointed out that when choosing hardmode frame rate is significantly lowered, keep in mind settings weren't mentioned
+- **Notes:**
+  - I hate 2D games
+  - This works well though
+  - Reddit user u/Shadowx972 has pointed out that when choosing hardmode frame rate is significantly lowered, keep in mind settings weren't mentioned
 
 ### Stardew Valley - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -382,7 +422,8 @@
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Native (x64), Steam
-- **Notes:** Perfect.
+- **Notes:**
+  - Perfect
 
 ### Tomb Raider - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -390,7 +431,9 @@
 - **Resolution:** 2560x1600
 - **Settings:** High
 - **Method & Source:** Native (x64), Mac App Store
-- **Notes:** Great game, Can even run on low power mode at 60fps
+- **Notes:**
+  - Great game
+  - Can even run on low power mode at 60fps with high settings
 
 ### Rise of the Tomb Raider - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -398,7 +441,10 @@
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method & Source:** Native (x64), Mac App Store
-- **Notes:** Love this game with perfect gameplay. High frame rate with low/medium settings. I like high settings with 30 fps capped.
+- **Notes:**
+  - Love this game with perfect gameplay
+  - High frame rate with low/medium settings
+  - I like high settings with 30 fps capped
 
 ### Mad Max - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -406,7 +452,10 @@
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method & Source:** Crossover 23.6 (x64), Cracked
-- **Notes:** Great performance. Steam version didn't launch. Crossover works better than native because of native using outdated OpenGL translation layer.
+- **Notes:**
+  - Great performance
+  - Steam version didn't launch
+  - Crossover works better than native because of native using anoutdated OpenGL translation layer
 
 ### Kerbal Space Program [In Progress] - u/WhySooooFurious
 - **Stability:** Stable
@@ -414,7 +463,10 @@
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method & Source:** Native (x64) Cracked
-- **Notes:** Hate this game. In terms of performance, it isn't great at all. I haven't tried low settings yet
+- **Notes:**
+  - Hate this game
+  - In terms of performance, It isn't that great
+  - I haven't tried low settings yet
 
 ### GTA: Vice City - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -422,7 +474,8 @@
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Native (x64) Cracked
-- **Notes:** Runs perfectly
+- **Notes:**
+  - Runs perfectly
 
 ### GTA: III - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -430,7 +483,8 @@
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Native (x64) Cracked
-- **Notes:** Runs perfectly
+- **Notes:**
+  - Runs perfectly
 
 ### GRID Legends - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -438,7 +492,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method & Source:** Native (ARM64) Cracked
-- **Notes:** Nice racing game. Higher settings result in lower frame rates
+- **Notes:**
+  - Nice racing game
+  - Works well
 
 ### GRID Autosport - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -446,7 +502,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method & Source:** Native (x64) Cracked
-- **Notes:** Nice racing game. Higher settings result in lower frame rates
+- **Notes:**
+  - Nice racing game
+  - Works well
 
 ### F1 2017 - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -454,7 +512,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method & Source:** Native (x64), G2A
-- **Notes:** Nice racing game. Higher settings result in lower frame rates
+- **Notes:**
+  - Nice racing game
+  - Works well
 
 ### Euro Truck Simulator - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -462,7 +522,10 @@
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method & Source:** Native (x64) Steam
-- **Notes:** MXAA 2x and 4x cause an extreme drop in frames, everything else on high
+- **Notes:**
+  - MXAA 2x and 4x cause an extreme drop in frames
+  - Works well with no MSAA
+  - Everything else on high
 
 ### Dirt Rally - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -470,7 +533,8 @@
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method & Source:** Native (x64) Steam
-- **Notes:** This is perfectly optimized. Only on low res though. Or in other words, the same as Dirt 4
+- **Notes:**
+  - This is perfect
 
 ### Dirt 4 - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -478,7 +542,8 @@
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method & Source:** Native (x64) Steam
-- **Notes:** This is perfectly optimized. Only on low res though
+- **Notes:**
+  - This is perfect
 
 ### Cities Skylines - u/WhySooooFurious
 - **Stability:** Stable
@@ -486,7 +551,9 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Native (x64) Cracked
-- **Notes:** Badly optimized, but playable
+- **Notes:**
+  - Badly optimized
+  - Playable
 
 ### Borderlands 2 - u/WhySooooFurious
 - **Stability:** Stable
@@ -494,7 +561,8 @@
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method & Source:** Native (x64) Steam
-- **Notes:** Good game, works well
+- **Notes:**
+  - Good game, works well
 
 ### Art of Rally - u/WhySooooFurious
 - **Stability:** Stable
@@ -502,7 +570,9 @@
 - **Resolution:** 2560x1600
 - **Settings:** Medium
 - **Method & Source:** Native (x64) Steam
-- **Notes:** Ok, not bad, but the game really isn't fun at all
+- **Notes:**
+  - Ok, not bad
+  - The game really isn't fun at all
 
 ### Absolute Drift - u/WhySooooFurious
 - **Stability:** Stable
@@ -510,7 +580,9 @@
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Native (x64) Steam
-- **Notes:** Ok, not bad, but the game's not really fun at all
+- **Notes:**
+  - Ok, not bad
+  - The game's not really fun at all
 
 ### Combat Master - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -518,7 +590,9 @@
 - **Resolution:** 2560x1600
 - **Settings:** Low
 - **Method & Source:** Native (ARM64) Steam
-- **Notes:** Perfect, buttery.
+- **Notes:**
+  - Perfect
+  - Buttery
 
 ### Simple Planes - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -526,7 +600,9 @@
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Rosetta (x64), Mac App Store
-- **Notes:** Perfect FPS with high res. Depends on the plane you choose and the amount of 'parts' it has
+- **Notes:**
+  - Perfect FPS with high res.
+  - Depends on the plane you choose and the amount of 'parts' it has
 
 ### Resident Evil: Village - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -534,7 +610,11 @@
 - **Resolution:** 2560x1600 and MetalFX
 - **Settings:** Maxed
 - **Method & Source:** Native (ARM64), Steam
-- **Notes:** Perfectly optimized. Stable at 30fps with maxed settings, 60fps+ on medium settings. This is how a good game should be! My theory is that it is designed for an iPhone and then ported over to Mac with higher graphic settings.
+- **Notes:**
+  - Perfectly optimized
+  - Stable at 30fps with maxed settings and MetalFX
+  - 60fps+ on medium settings and MetalFX
+  - This is how a good game should be! My theory is that it is designed for an iPhone and then ported over to Mac with higher graphic settings
 
 ### Minecraft: Java Edition - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -542,7 +622,8 @@
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Native (ARM64), Prism Launcher
-- **Notes:** Perfect fps with Fabulously Optimized modpack.
+- **Notes:**
+  - Perfect fps with Fabulously Optimized modpack
 
 ### Sleeping Dogs: Definitive Edition - u/WhySooooFurious
 - **Stability:** Stable
@@ -550,7 +631,10 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Steam
-- **Notes:** Looks ok with low settings. Reaches 60 fps and sometimes dips with occasional small stutters. Crossover works better than native because of native using outdated OpenGL translation layer.
+- **Notes:**
+  - Looks ok with low settings
+  - Reaches 60 fps and sometimes dips with occasional small stutters
+  - Crossover works better than native because of native using an outdated OpenGL translation layer
 
 ### No Man's Sky - u/WhySooooFurious
 - **Stability:** Stable
@@ -558,7 +642,12 @@
 - **Resolution:** 2560x1600 with FSR
 - **Settings:** Low
 - **Method & Source:** Native (ARM64), Steam
-- **Notes:** Ok. I would expect more from a native game like this. High res and make sure to Enable FSR or MetalFX for higher fps. Doesn't look magnificent. Can reach 60fps with tweaking settings until thermal throttling comes over for dinner.
+- **Notes:**
+  - Ok.
+  - I would expect more from a native game like this
+  - High res and make sure to Enable FSR or MetalFX for higher fps
+  - Doesn't look magnificent
+  - Can reach 60fps with tweaking settings until thermal throttling comes over for dinner
 
 ### Dying Light - u/WhySooooFurious
 - **Stability:** Stable
@@ -566,7 +655,11 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Cracked
-- **Notes:** Sometimes the frame rate gets stuck at 53 for no reason. Gameplay is good. Not many stutters. For me, it only launches with D3DMetal option checked.
+- **Notes:**
+  - Sometimes the frame rate gets stuck at 53 for no reason
+  - Gameplay is good
+  - Not many stutters
+  - For me, it only launches with D3DMetal option checked
 
 ### Grand Theft Auto V - u/WhySooooFurious
 - **Stability:** Very Stable
