@@ -109,10 +109,10 @@
 ## FAQ/Q&A
 
 **My Macbook is getting hot/warm to the touch?**
-- Don't worry at all, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures.
+- Don't worry at all, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures
 
 **What does having an Apple Silicon/M-Series chip mean?**
-- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well while being compared to some Intel chips. There are advantages and sadly some disadvantages, listed below.
+- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well while being compared to some Intel chips There are advantages and sadly some disadvantages, listed below
 
  **Pros:**
   - Power Efficient which will result in more battery life
@@ -133,33 +133,42 @@
   - Applications might need updating, especially system extensions which will need to get updated from x64 to ARM64
 
 **What does having an Intel chip mean?**
-- You will most likely have one with an integrated GPU which will result in very poor gaming ability. Intel Macs with a GPU can be good to game on
-- Unlike Apple Silicon macs you will have access to the cons listed above.
+- You will most likely have one with an integrated GPU which will result in very poor gaming ability
+- Intel Macs with a GPU can be good to game on
+- Unlike Apple Silicon macs you will have access to the cons listed above
 
 **What is Bootcamp?**
 - Bootcamp is an application created by Apple that allows Intel Macs to get Windows, This can help Intel Mac users in order to get Windows-Only applications or simply just having Windows on your Mac
 
 **Should I buy a Mac for gaming?**
-- If all you're going to buy a Mac just for gaming you will get laughed at. If you're looking to buy a good reputable laptop with great build quality for school/work with the added benefit of gaming well for a laptop, yes you should.
+- If all you're going to buy a Mac just for gaming you will get laughed at
+- If you're looking to buy a good reputable laptop with great build quality for school/work with the added benefit of gaming well for a laptop, yes you should
 
 **I bought an Apple Silicon Mac for gaming, How do I game on it?**
 -First of all, there are 3 main ways in order to game
 
-**Crossover or Whisky:** 
-  - Apps that both utilise WINE which translates Windows API calls to MacOS API calls allowing the game to run through Rosetta 2, the translation layer from x64 to ARM64. This is a great option for gaming althought x32 games will run horribly. Some games may not even launch if they might require other resources that WINE cannot provide.
+**Crossover/Whisky:** 
+  - Apps that both utilise WINE which translates Windows API calls to MacOS API calls allowing the game to run through Rosetta 2, the translation layer from x64 to ARM64
+  - This is a great option for gaming althought x32 games will run horribly
+  - Some games may not even launch if they might require other resources that WINE cannot provide
 
 **Parallels:**
-  - Virtualisation involving running the Windows 10/11 ARM64 version on your mac. This method has way more compatability than Crossover and can also run x32 with higher performance. Also great for Windows Store applications, Windows apps in general and running applications that don't work with WINE apps.
+  - Virtualisation involving running the Windows 10/11 ARM64 version on your mac
+  - This method has way more compatability than Crossover and can also run x32 with higher performance
+  - Also great for Windows Store applications, Windows apps in general and running applications that don't work with WINE apps
 
 **Native Games**
-  - This is the easiest and least time consuming. This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games. Keep in mind that Windows games will not install at all. These are just games made for macOS and macOS only!
+  - This is the easiest and least time consuming
+  - This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games
+  - Keep in mind that Windows games will not install at all
+  - These are just games made for macOS and macOS only!
  
 ## To be Tested
 - **The Sims 2**
 
 ## Testing Notes
 
-### Grand Theft Auto V - u/ParthGupta79
+### Grand Theft Auto V - u/WhySooooFurious
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 800x600
@@ -575,7 +584,7 @@
 - **Resolution:** N/A
 - **Settings:** N/A
 - **Method & Source:** Crossover 23.6 (N/A), Cracked
-- **Notes:** Crashes upon launch.
+- **Notes:** Crashes upon launch
 
 ### WWE 2K15 - u/WhySooooFurious
 - **Stability:** N/A
@@ -583,7 +592,7 @@
 - **Resolution:** N/A
 - **Settings:** N/A
 - **Method & Source:** Crossover 23.6 (N/A), Cracked
-- **Notes:** Crashes upon launch.
+- **Notes:** Crashes upon launch
 
 ### Call of Duty (Any game) - u/WhySooooFurious
 - **Stability:** Not Stable
@@ -599,7 +608,7 @@
 - **Resolution:** N/A
 - **Settings:** N/A
 - **Method & Source:** Crossover 23.6 (x64), Cracked
-- **Notes:** Issue is in the crack because the steam version runs fine. Disabling an os check in the crack might fix the issue.
+- **Notes:** Issue is in the crack because the steam version runs fine. Disabling an os check in the crack might fix the issue
 
 ### Fifa 23 - u/ParthGupta79
 - **Stability:** N/A
@@ -607,4 +616,12 @@
 - **Resolution:** N/A
 - **Settings:** N/A
 - **Method & Source:** Crossover 23.6 (x64), Cracked
-- **Notes:** Doesnt launch
+- **Notes:** Doesn't launch
+
+### Sims 2 - Super Collection - u/WhySooooFurious
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** Low
+- **Method & Source:** Native (x64), Cracked
+- **Notes:** Crashes upon launch
