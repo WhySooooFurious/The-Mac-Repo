@@ -574,7 +574,16 @@
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Cracked & Epic Games
-- **Notes:** FPS can shoot up to 120 in some areas while it can go down to 60-80 in city areas. You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability, keep in mind you can't go online if you do this. Online is ok since M-Sync was added, which was a lifesaver. Online is around 40-50 fps, which can go down depending on where you're at. When you're near other players, fps drops as well. With D3DMetal, V-Sync doesn't work whether turned on or off in-game settings. Cracked works a bit better, in my opinion. Crossover 23.7 breaks the game. 2560X1600 works at around 45fps.
+- **Notes:**
+  - FPS can shoot up to 120 in some areas while it can go down to 60-80 in city areas
+  -You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability (keep in mind you can't go online if you do this)
+  - Online is ok since M-Sync was added
+  - Online is around 40-50 fps, which can go down depending on where you're at
+  - When you're near other players, fps drops as well
+  - With D3DMetal, V-Sync doesn't work whether turned on or off in-game settings
+  - Cracked works a bit better, in my opinion
+  - Crossover 23.7 breaks the game
+  - 2560X1600 works at around 45fps
 
 ## Games That Do Not Work
 
@@ -584,7 +593,8 @@
 - **Resolution:** N/A
 - **Settings:** N/A
 - **Method & Source:** Crossover 23.6 (N/A), Cracked
-- **Notes:** Crashes upon launch
+- **Notes:**
+  - Crashes upon launch
 
 ### WWE 2K15 - u/WhySooooFurious
 - **Stability:** N/A
@@ -592,7 +602,8 @@
 - **Resolution:** N/A
 - **Settings:** N/A
 - **Method & Source:** Crossover 23.6 (N/A), Cracked
-- **Notes:** Crashes upon launch
+- **Notes:**
+  - Crashes upon launch
 
 ### Call of Duty (Any game) - u/WhySooooFurious
 - **Stability:** Not Stable
@@ -600,7 +611,10 @@
 - **Resolution:** 800x600
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x32)
-- **Notes:** Very bad fps with stutters. Will work better in parallels with games like Modern Warfare. No black ops games are known to work as of now except Black ops 3 Native (X64)
+- **Notes:**
+  - Very bad fps with stutters.
+  - Will work better in parallels with games like Modern Warfare.
+  - No black ops games are known to work as of now except Black ops 3 Native (X64)
 
 ### Hogwarts legacy - u/ParthGupta79
 - **Stability:** N/A
@@ -608,7 +622,9 @@
 - **Resolution:** N/A
 - **Settings:** N/A
 - **Method & Source:** Crossover 23.6 (x64), Cracked
-- **Notes:** Issue is in the crack because the steam version runs fine. Disabling an os check in the crack might fix the issue
+- **Notes:**
+  - Issue is in the crack because the steam version runs fine.
+  - Disabling an os check in the crack might fix the issue
 
 ### Fifa 23 - u/ParthGupta79
 - **Stability:** N/A
@@ -616,7 +632,8 @@
 - **Resolution:** N/A
 - **Settings:** N/A
 - **Method & Source:** Crossover 23.6 (x64), Cracked
-- **Notes:** Doesn't launch
+- **Notes:**
+  - Doesn't launch
 
 ### Sims 2 - Super Collection - u/WhySooooFurious
 - **Stability:** N/A
@@ -624,4 +641,5 @@
 - **Resolution:** N/A
 - **Settings:** Low
 - **Method & Source:** Native (x64), Cracked
-- **Notes:** Crashes upon launch
+- **Notes:**
+  - Crashes upon launch
