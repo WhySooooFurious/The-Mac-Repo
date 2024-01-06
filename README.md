@@ -173,6 +173,17 @@
 
 ## Testing Notes
 
+### Call of Duty (Most Games) - u/WhySooooFurious
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 800x600
+- **Settings:** Low
+- **Method & Source:** Crossover 23.6 (x32)
+- **Notes:**
+  - Very bad fps with stutters.
+  - Will work better in parallels with games like Modern Warfare
+  - No black ops games are known to work as of now except Black ops 3 Native (X64)
+
 ### The Elder Scrolls V Skyrim Anniversary Edition - u/WhySooooFurious
 - **Stability:** Very Stable
 - **Frame Rate:** Perfect
@@ -715,17 +726,6 @@
 - **Notes:**
   - Crashes upon launch
 
-### Call of Duty (Any game) - u/WhySooooFurious
-- **Stability:** Not Stable
-- **Frame Rate:** Bad
-- **Resolution:** 800x600
-- **Settings:** Low
-- **Method & Source:** Crossover 23.6 (x32)
-- **Notes:**
-  - Very bad fps with stutters.
-  - Will work better in parallels with games like Modern Warfare.
-  - No black ops games are known to work as of now except Black ops 3 Native (X64)
-
 ### Hogwarts legacy - u/ParthGupta79
 - **Stability:** N/A
 - **Frame Rate:** N/A
@@ -749,7 +749,16 @@
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
-- **Settings:** Low
+- **Settings:** N/A
+- **Method & Source:** Native (x64), Cracked
+- **Notes:**
+  - Crashes upon launch
+
+### Vintage Story - u/WhySooooFurious
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
 - **Method & Source:** Native (x64), Cracked
 - **Notes:**
   - Crashes upon launch
