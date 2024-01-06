@@ -166,6 +166,10 @@
   - These are just games made for macOS and macOS only!
  
 ## To be Tested
+ - Vintage Story
+ - Need for Speed - The Run
+ - Need for Speed - Hot Pursuit
+ - Assetto Corza - Competizione 
 
 ## Testing Notes
 
