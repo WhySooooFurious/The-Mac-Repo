@@ -15,13 +15,6 @@
 - **Specifications:**
    - 8 Core CPU, 8 Core GPU, 8GB RAM
 
-- **User:**
-  - u/Orange-Fish1980
- - **Device:**
-   - M1 Macbook Pro
-- **Specifications:**
-  - 8 Core CPU, 8 Core GPU, 8GB RAM
-
 ## Notes
 - I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it OR I don't have enough money to buy it :)
 - Cracked games have the same performance than non cracked games(some games have drm protection like denuvo which worsens the performance,cracked games hence perfrom better in these cases)
@@ -241,15 +234,6 @@
 - **Notes:**
   - Looks pretty bad on lower resolutions like 1680x1050
   - 2560x1600 looks better but its still like 30-40fps on low settings
-
-### Rtype Delta 2 - u/Orange-Fish1980
-- **Stability:** Very Stable
-- **Frame Rate:** Perfect
-- **Resolution:** N/A
-- **Settings:** N/A
-- **Method & Source:** Crossover 23.7 (x64), N/A
-- **Notes:**
-  - Game works through crossover but crashes at 1st stage
 
 ### Dark Souls Remastered - u/ParthGupta79
 - **Stability:** Very Stable
