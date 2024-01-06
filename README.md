@@ -166,9 +166,19 @@
   - These are just games made for macOS and macOS only!
  
 ## To be Tested
- - The Elder Scrolls V Skyrim Anniversary Edition
 
 ## Testing Notes
+
+### The Elder Scrolls V Skyrim Anniversary Edition - u/WhySooooFurious
+- **Stability:** Very Stable
+- **Frame Rate:** Perfect
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method & Source:** Crossover 23.6 (x64), Cracked
+- **Notes:**
+  - Slight stuttering
+  - No sound from characters at all
+  - Every other sound is present 
 
 ### Grand Theft Auto V - u/WhySooooFurious
 - **Stability:** Not Stable
@@ -223,7 +233,7 @@
 - **Frame Rate:** Perfect
 - **Resolution:** N/A
 - **Settings:** N/A
-- **Method & Source:** Whisky (x64), N/A
+- **Method & Source:** Crossover 23.7 (x64), N/A
 - **Notes:**
   - Game works through crossover but crashes at 1st stage
 
