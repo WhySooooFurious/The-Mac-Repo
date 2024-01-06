@@ -177,7 +177,7 @@
 - **Method & Source:** Crossover 23.6 (x64), Cracked
 - **Notes:**
   - Slight stuttering
-  - No sound from characters at all
+  - No sound from npcs at all
   - Every other sound is present 
 
 ### Grand Theft Auto V - u/WhySooooFurious
