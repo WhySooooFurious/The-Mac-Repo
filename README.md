@@ -145,7 +145,7 @@
 - If you're looking to buy a good reputable laptop with great build quality for school/work with the added benefit of gaming well for a laptop, yes you should
 
 **I bought an Apple Silicon Mac for gaming, How do I game on it?**
--First of all, there are 3 main ways in order to game
+ - First of all, there are 3 main ways in order to game
 
 **Crossover/Whisky:** 
   - Apps that both utilise WINE which translates Windows API calls to MacOS API calls allowing the game to run through Rosetta 2, the translation layer from x64 to ARM64
