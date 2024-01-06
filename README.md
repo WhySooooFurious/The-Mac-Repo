@@ -159,6 +159,14 @@
 
 ## Testing Notes
 
+### Grand Theft Auto V - u/ParthGupta79
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 800x600
+- **Settings:** Low
+- **Method & Source:** Parallels 19 (x64), Epic Games
+- **Notes:** Unplayable. Stutters constantly
+
 ### Marvel's Spider-Man Remastered - u/ParthGupta79
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
