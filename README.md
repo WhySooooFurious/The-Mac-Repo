@@ -164,7 +164,7 @@
   - These are just games made for macOS and macOS only!
  
 ## To be Tested
- - Skyrim - Anniversay Edition
+ - Skyrim - Anniversary Edition
 
 ## Testing Notes
 
