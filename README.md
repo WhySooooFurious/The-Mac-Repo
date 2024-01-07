@@ -165,6 +165,16 @@
 
 ## Testing Notes
 
+### Need for Speed The Run - u/WhySooooFurious
+- **Stability:** Not Stable
+- **Frame Rate:** Good
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method & Source:** Parallels 19 (x32)
+- **Notes:**
+  - Good fps with very bad stutters
+  - Will allocate more to see if it is stable
+
 ### Call of Duty (Most Games) - u/WhySooooFurious
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
@@ -172,7 +182,7 @@
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x32)
 - **Notes:**
-  - Very bad fps with stutters.
+  - Very bad fps with stutters
   - Will work better in parallels with games like Modern Warfare
   - No black ops games are known to work as of now except Black ops 3 Native (X64)
 
