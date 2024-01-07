@@ -159,20 +159,28 @@
   - These are just games made for macOS and macOS only!
  
 ## To be Tested
- - Need for Speed - The Run
  - Need for Speed - Hot Pursuit
- - Assetto Corza - Competizione 
-
+ - 
 ## Testing Notes
 
-### Need for Speed The Run - u/WhySooooFurious
+### Assetto Corsa - Competizione - u/WhySooooFurious
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 1680x1050
+- **Settings:** Low with FSR
+- **Method & Source:** Crossover 23.6 (x64)
+- **Notes:**
+  - Bad FPS with very bad stutters
+  - Unplayable
+
+### Need for Speed - The Run - u/WhySooooFurious
 - **Stability:** Not Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Parallels 19 (x32)
 - **Notes:**
-  - Good fps with very bad stutters
+  - Good fps at rare occasions with very bad stutters
   - Will allocate more to see if it is stable
 
 ### Call of Duty (Most Games) - u/WhySooooFurious
@@ -754,3 +762,12 @@
 - **Method & Source:** Native (x64), Cracked
 - **Notes:**
   - Doesn't load
+ 
+### Need for Speed - The Run - u/WhySooooFurious
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Crossover (x64)
+- **Notes:**
+  - Expected, Doesn't launch
