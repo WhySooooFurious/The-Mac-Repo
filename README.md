@@ -159,16 +159,34 @@
   - These are just games made for macOS and macOS only!
  
 ## To be Tested
- - Need for Speed - Hot Pursuit
- - 
 ## Testing Notes
+
+### Need for Speed - Hot Pursuit - u/WhySooooFurious
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method & Source:** Parallels 19 (x32), Cracked
+- **Notes:**
+  - Bad FPS with very bad stutters
+  - Unplayable
+
+### Need for Speed - Hot Pursuit - u/WhySooooFurious
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method & Source:** Crossover 23.6 (x32), Cracked
+- **Notes:**
+  - Bad FPS with very bad stutters
+  - Unplayable
 
 ### Assetto Corsa - Competizione - u/WhySooooFurious
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 1680x1050
 - **Settings:** Low with FSR
-- **Method & Source:** Crossover 23.6 (x64)
+- **Method & Source:** Crossover 23.6 (x64), Steam
 - **Notes:**
   - Bad FPS with very bad stutters
   - Unplayable
@@ -178,7 +196,7 @@
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Low
-- **Method & Source:** Parallels 19 (x32)
+- **Method & Source:** Parallels 19 (x32), Cracked
 - **Notes:**
   - Good fps at rare occasions with very bad stutters
   - Will allocate more to see if it is stable
@@ -188,7 +206,7 @@
 - **Frame Rate:** Bad
 - **Resolution:** 800x600
 - **Settings:** Low
-- **Method & Source:** Crossover 23.6 (x32)
+- **Method & Source:** Crossover 23.6 (x32), Cracked
 - **Notes:**
   - Very bad fps with stutters
   - Will work better in parallels with games like Modern Warfare
@@ -408,7 +426,7 @@
 - **Frame Rate:** Bad
 - **Resolution:** 1680x1050
 - **Settings:** Low
-- **Method & Source:** Native (ARM64), Mac App Store
+- **Method & Source:** Native (ARM64), Cracked
 - **Notes:**
   - Sucks with frame rates
   - Playable on lower resolutions which make the game look pretty bad
@@ -418,7 +436,7 @@
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Low
-- **Method & Source:** Native (x64), Mac App Store
+- **Method & Source:** Native (x64), Cracked
 - **Notes:**
   - Works well
   - Not the best frame rate with high settings
@@ -490,7 +508,7 @@
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Medium
-- **Method & Source:** Native (x64) Cracked
+- **Method & Source:** Native (x64), Cracked
 - **Notes:**
   - Hate this game
   - In terms of performance, It isn't that great
@@ -501,7 +519,7 @@
 - **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
-- **Method & Source:** Native (x64) Cracked
+- **Method & Source:** Native (x64), Cracked
 - **Notes:**
   - Runs perfectly
 
@@ -519,7 +537,7 @@
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Medium
-- **Method & Source:** Native (ARM64) Cracked
+- **Method & Source:** Native (ARM64), Mac App Store
 - **Notes:**
   - Nice racing game
   - Works well
@@ -529,7 +547,7 @@
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Medium
-- **Method & Source:** Native (x64) Cracked
+- **Method & Source:** Native (x64), Cracked
 - **Notes:**
   - Nice racing game
   - Works well
@@ -549,7 +567,7 @@
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Medium
-- **Method & Source:** Native (x64) Steam
+- **Method & Source:** Native (x64), Steam
 - **Notes:**
   - MXAA 2x and 4x cause an extreme drop in frames
   - Works well with no MSAA
@@ -560,7 +578,7 @@
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** High
-- **Method & Source:** Native (x64) Steam
+- **Method & Source:** Native (x64), Steam
 - **Notes:**
   - This is perfect
 
@@ -569,7 +587,7 @@
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** High
-- **Method & Source:** Native (x64) Steam
+- **Method & Source:** Native (x64), Steam
 - **Notes:**
   - This is perfect
 
@@ -578,7 +596,7 @@
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Low
-- **Method & Source:** Native (x64) Cracked
+- **Method & Source:** Native (x64), Cracked
 - **Notes:**
   - Badly optimized
   - Playable
@@ -588,7 +606,7 @@
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Medium
-- **Method & Source:** Native (x64) Steam
+- **Method & Source:** Native (x64), Steam
 - **Notes:**
   - Good game, works well
 
@@ -597,7 +615,7 @@
 - **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Medium
-- **Method & Source:** Native (x64) Steam
+- **Method & Source:** Native (x64), Steam
 - **Notes:**
   - Ok, not bad
   - The game really isn't fun at all
@@ -607,7 +625,7 @@
 - **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
-- **Method & Source:** Native (x64) Steam
+- **Method & Source:** Native (x64), Steam
 - **Notes:**
   - Ok, not bad
   - The game's not really fun at all
@@ -617,7 +635,7 @@
 - **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Low
-- **Method & Source:** Native (ARM64) Steam
+- **Method & Source:** Native (ARM64), Steam
 - **Notes:**
   - Perfect
   - Buttery
@@ -768,6 +786,6 @@
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A
-- **Method & Source:** Crossover (x64)
+- **Method & Source:** Crossover (x64), Cracked
 - **Notes:**
   - Expected, Doesn't launch
