@@ -187,12 +187,12 @@
 - **Settings:** Low
 - **Method & Source:** Whisky(x64), Epic Games Store (Heroic Launcher)
 - **Notes:**
-  - Now, if the game's installed and it shows a message saying it needs C++ to run, do the following --
-Click on settings option for the game (Ghostrunner)
-Click on Advanced
-Click on "Select an alternative exe to run"
-Find Ghostrunner/Binaries/Win64/Ghostrunner-Win64-Shipping.exe 5.Select the exe
-Run the game and enjoy!
+  - Now, if the game's installed and it shows a message saying it needs C++ to run, do the following
+  - Click on settings option for the game (Ghostrunner)
+  - Click on Advanced
+  - Click on "Select an alternative exe to run"
+  - Find Ghostrunner/Binaries/Win64/Ghostrunner-Win64-Shipping.exe. Select the exe
+  - Run the game and enjoy!
 
 - ### Need for Speed - Hot Pursuit - u/WhySooooFurious
 - **Stability:** Not Stable
