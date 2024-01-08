@@ -44,7 +44,7 @@
 
 ## Format
 ```
-### (Game Name) - (Contributor Reddit Name)
+### (Game Name) - (Contributor Reddit Name) - (MacBook Details ((Refer to # Game Settings))
 - **Stability:** (Refer to # Game Settings)
 - **Frame Rate:** (Refer to # Game Settings)
 - **Resolution:** (Refer to # Game Settings)
