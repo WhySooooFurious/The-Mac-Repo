@@ -44,7 +44,7 @@
 
 ## Format
 ```
-### (Game Name) - (Contributor Reddit Name) - (MacBook Details ((Refer to # Game Settings))
+### (Game Name) - (Contributor Reddit Name) - (MacBook Details: (Refer to # Game Settings)
 - **Stability:** (Refer to # Game Settings)
 - **Frame Rate:** (Refer to # Game Settings)
 - **Resolution:** (Refer to # Game Settings)
@@ -57,6 +57,25 @@
 - Also remove the brackets
 
 ## Game Settings
+
+- **Macbook Details:**
+  - **MacBook Model:**
+    - Specify your MacBook model preferably along with the year for Intel Models
+  - **CPU:**
+    - Specify the amount of cores
+  - **RAM:**
+    - Specify the amount of RAM
+  - **GPU:**
+    - Specify the GPU/iGPU, if applicable for Intel Models, not needed for Apple Silicon
+  - **Additional Hardware/Upgrades:**
+    - (Any additional hardware information or upgrades such as the thermal mod)
+
+- Make sure to seperate all this using commas like the example down below
+
+- M3 Pro, 14-Inch Macbook Pro, 11 Core, 18GB RAM
+- M1, Macbook Air , 7 Core, 8GB RAM, Thermal Modded
+- Intel Core i5, Macbook Air (Early 2015), 4 Core, 8GB RAM, Intel HD Graphics 5300
+
 
 - **Stability:**
   - **Not Stable:**
