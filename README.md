@@ -831,8 +831,8 @@
 - **Method & Source:** Crossover 23.6 (x64), Epic Games Store (Heroic Launcher)
 - **Notes:**
   - EAC detects CPU architecture [ARM] not supported
- 
-  - ### Fall Guys - u/ParthGupta79
+
+ ### Fall Guys - u/ParthGupta79
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
