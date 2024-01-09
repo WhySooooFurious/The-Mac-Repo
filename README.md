@@ -859,3 +859,12 @@
 - **Method & Source:** Parallels 19(x64), Epic Games Store (Heroic Launcher)
 - **Notes:**
   - EAC detects CPU architecture [ARM] not supported
+
+### Gang Beasts - u/ParthGupta79
+- **Stability:** N/A
+- **Frame Rate:** N/AS
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Native (x64), Cracked
+- **Notes:**
+  - Doesnt get past the press any button screen (Might work with a controller but not sure)
