@@ -180,6 +180,16 @@
 ## To be Tested
 ## Testing Notes
 
+### Grand Theft Auto V - u/ParthGupta79
+- **Stability:** Stable
+- **Frame Rate:** Perfect
+- **Resolution:** 1710x1112
+- **Settings:** Low
+- **Method & Source:** Crossover 23.6 (x64), Epic Games Store (Heroic Launcher)
+- **Notes:**
+  - FPS varies from Good to Perfect depending upon the area of the game
+  - Crossover 23.7 broke the game giving some 'Social Club Error 17' error
+
 ### Doom 64 - u/ParthGupta79
 - **Stability:** Very Stable
 - **Frame Rate:** Perfect
