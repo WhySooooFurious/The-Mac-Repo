@@ -180,6 +180,15 @@
 ## To be Tested
 ## Testing Notes
 
+### Doom 64 - u/ParthGupta79
+- **Stability:** Very Stable
+- **Frame Rate:** Perfect
+- **Resolution:** 2560x1664
+- **Settings:** Max
+- **Method & Source:** Crossover 23.6 (x64), Epic Games Store (Heroic Launcher)
+- **Notes:**
+  - Game crashes after 10-20 minutes of playing
+
 ### Ghostrunner - u/Unusual_Afternoon_88
 - **Stability:** Stable
 - **Frame Rate:** Good
