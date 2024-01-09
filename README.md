@@ -96,7 +96,7 @@
 
 - **Resolution:**
   - Specify the resolution at which the game is being played at
-  - Also mention if you're using something like FSR or MetalFX e.g 1680x1050 and FSR
+  - Also mention if you're using something like FSR or MetalFX e.g 1680x1050 and FSR (Usage of FSR and MetalFX adds a great boost in fps albeit sacrificing some quality)
 
 - **Settings:**
   - **Low:**
