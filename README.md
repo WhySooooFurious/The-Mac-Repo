@@ -144,7 +144,7 @@
   - Needing apps such as Crossover and Parallels to game apps that are not supported on macOS
   - No EGPU support
   - Only one external display
-  - Bad x32 application support
+  - Bad/Obsolete x32 application support, this will likely not improve in the future
   - Needing Rosetta 2 in order to run x64 apps which will have performance loss
   - Applications might need updating, especially system extensions which will need to get updated from x64 to ARM64
 
