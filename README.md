@@ -188,6 +188,7 @@
 - **Method & Source:** Crossover 23.7 (x64), Cracked
 - **Notes:**
   - there are mild stutters here and there making the fps to go from good to perfect (play around with the settings a bit to find whats perfect for your mac)
+  - Game only runs with D3DMetal/GPTK, with DXVK enabled the game loads just fine but only loads the HUD and rest turns black upon trying to run the game.
 
 ### Grand Theft Auto V - u/ParthGupta79
 - **Stability:** Stable
