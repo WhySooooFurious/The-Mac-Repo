@@ -185,7 +185,7 @@
 - **Frame Rate:** Good
 - **Resolution:** 1920x1200
 - **Settings:** Low-Medium
-- **Method & Source:** Crossover 23.6 (x64), Cracked
+- **Method & Source:** Crossover 23.7 (x64), Cracked
 - **Notes:**
   - there are mild stutters here and there making the fps to go from good to perfect (play around with the settings a bit to find whats perfect for your mac)
 
