@@ -70,7 +70,7 @@
   - **RAM:**
     - Specify the amount of RAM
   - **Additional Hardware/Upgrades:**
-    - (Any additional hardware information or upgrades such as the thermal mod)
+    - Any additional hardware information or upgrades such as the thermal mod
 
 - Make sure to seperate all this using commas like the example down below
 
