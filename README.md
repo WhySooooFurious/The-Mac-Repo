@@ -862,7 +862,7 @@
 
 ### Gang Beasts - u/ParthGupta79
 - **Stability:** N/A
-- **Frame Rate:** N/AS
+- **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A
 - **Method & Source:** Native (x64), Cracked
