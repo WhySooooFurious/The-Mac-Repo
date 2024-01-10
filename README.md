@@ -180,6 +180,15 @@
 ## To be Tested
 ## Testing Notes
 
+### Grand Theft Auto Vice City (Definitive Edition) - u/ParthGupta79
+- **Stability:** Stable
+- **Frame Rate:** Good
+- **Resolution:** 1920x1200
+- **Settings:** Low-Medium
+- **Method & Source:** Crossover 23.6 (x64), Cracked
+- **Notes:**
+  - there are mild stutters here and there making the fps to go from good to perfect (play around with the settings a bit to find whats perfect for your mac)
+
 ### Grand Theft Auto V - u/ParthGupta79
 - **Stability:** Stable
 - **Frame Rate:** Perfect
