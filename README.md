@@ -155,7 +155,7 @@
 - Bootcamp is an application created by Apple that allows Intel Macs to get Windows, This can help Intel Mac users in order to get Windows-Only applications or simply just having Windows on your Mac
 
 **Should I buy a Mac for gaming?**
-- If all you're going to buy a Mac just for gaming you will get laughed at
+- If you're going to buy a Mac just for gaming you will get laughed at
 - If you're looking to buy a good reputable laptop with great build quality for school/work with the added benefit of gaming well for a laptop, yes you should
 
 **I bought an Apple Silicon Mac for gaming, How do I game on it?**
@@ -178,6 +178,7 @@
   - These are just games made for macOS and macOS only!
  
 ## To be Tested
+
 ## Testing Notes
 
 ### Grand Theft Auto Vice City (Definitive Edition) - u/ParthGupta79
@@ -209,12 +210,12 @@
 - **Notes:**
   - Game crashes after 10-20 minutes of playing
 
-### Ghostrunner - u/Unusual_Afternoon_88
+### Ghostrunner - u/Unusual_Afternoon_88 - M1, Macbook Air, 8C, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Low
-- **Method & Source:** Whisky(x64), Epic Games Store (Heroic Launcher)
+- **Method & Source:** Whisky (x64), Epic Games Store (Heroic Launcher)
 - **Notes:**
   - Now, if the game's installed and it shows a message saying it needs C++ to run, do the following
   - Click on settings option for the game (Ghostrunner)
@@ -776,13 +777,13 @@
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Cracked & Epic Games
 - **Notes:**
-  - FPS can shoot up to 120 in some areas while it can go down to 60-80 in city areas
-  -You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability (keep in mind you can't go online if you do this)
+  - FPS can shoot up to 90 in some areas while it can go down to 50-70 in city areas
+  - You can install GTA-V Resized using OpenIV and get rid of stutters and gain more stability (keep in mind you can't go online if you do this)
   - Online is ok since M-Sync was added
   - Online is around 40-50 fps, which can go down depending on where you're at
   - When you're near other players, fps drops as well
-  - With D3DMetal, V-Sync doesn't work whether turned on or off in-game settings
-  - Cracked works a bit better, in my opinion
+  - With D3DMetal, V-Sync doesn't work whether turned on or off in-game settings, broken
+  - Cracked works a bit better, in terms of usability, No need to use Heroic if using the Epic Games Store for example
   - Crossover 23.7 breaks the game
   - 2560X1600 works at around 45fps
 
