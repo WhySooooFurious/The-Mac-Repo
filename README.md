@@ -856,7 +856,7 @@
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A 
-- **Method & Source:** Parallels 19(x64), Epic Games Store (Heroic Launcher)
+- **Method & Source:** Parallels 19(x64), Epic Games Store
 - **Notes:**
   - EAC detects CPU architecture [ARM] not supported
 
