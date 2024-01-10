@@ -17,10 +17,11 @@
 
 ## Notes
 - I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it OR I don't have enough money to buy it :)
-- Cracked games have the same performance than non cracked games(some games have drm protection like denuvo which worsens the performance,cracked games hence perfrom better in these cases)
+- Cracked games have the same performance than non cracked games (some have drm protection like Denuvo which worsens the performance, cracked games hence perfrom better in these cases)
 - You can request games to be tested by messaging the contributors on reddit or by creating a pull request
 - You can help by telling me how a game runs using the format below and messaging the contributors on reddit or by creating a pull request and using the format below
-- Whisky is basically the same as Crossover but free and better and it is what I prefer
+- Whisky is basically the same as Crossover but free and better and it is what I prefer because it doesn't break everything every update!
+- I will still put Crossover as what is being used to avoid confusion for the most part
 
 ## Important Notes
 - **Thermal Throttling:**
@@ -54,7 +55,7 @@
 ```
 - Please replace the text surrounded by brackets only!
 - Don't remove all the asterisks or colons as they are useful in formatting
-- Also remove the brackets
+- Also, please remove the brackets
 
 ## Game Settings
 
@@ -63,18 +64,19 @@
     - Specify your MacBook model preferably along with the year for Intel Models
   - **CPU:**
     - Specify the amount of cores
+  - **GPU:**
+    - Specify the GPU/iGPU, if applicable for Intel Models
+    - Specify the amount of GPU cores for Apple Silicon
   - **RAM:**
     - Specify the amount of RAM
-  - **GPU:**
-    - Specify the GPU/iGPU, if applicable for Intel Models, not needed for Apple Silicon
   - **Additional Hardware/Upgrades:**
     - (Any additional hardware information or upgrades such as the thermal mod)
 
 - Make sure to seperate all this using commas like the example down below
 
-- M3 Pro, 14-Inch Macbook Pro, 11 Core, 18GB RAM
-- M1, Macbook Air , 7 Core, 8GB RAM, Thermal Modded
-- Intel Core i5, Macbook Air (Early 2015), 4 Core, 8GB RAM, Intel HD Graphics 5300
+- M3 Pro, 14-Inch Macbook Pro, CPU, 11 Core, 18GB RAM
+- M1, Macbook Air , 8 Core CPU, 7 Core GPU, 8GB RAM, Thermal Modded
+- Intel Core i5, Macbook Air (Early 2015), 4 Core CPU, Intel HD Graphics 5300, 8GB RAM
 
 
 - **Stability:**
@@ -210,7 +212,7 @@
 - **Notes:**
   - Game crashes after 10-20 minutes of playing
 
-### Ghostrunner - u/Unusual_Afternoon_88 - M1, Macbook Air, 8C, 8GB RAM
+### Ghostrunner - u/Unusual_Afternoon_88 - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
