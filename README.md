@@ -180,6 +180,7 @@
   - These are just games made for macOS and macOS only!
  
 ## To be Tested
+  - Call of Duty - Black Ops 3
 
 ## Testing Notes
 
@@ -200,7 +201,7 @@
 - **Method & Source:** Parallels (x32), Cracked
 - **Notes:**
   - Very bad fps
-  - Less stutters but unplayable
+  - Less stutters than Crossover and still unplayable
 
 ### Grand Theft Auto Vice City (Definitive Edition) - u/ParthGupta79
 - **Stability:** Stable
