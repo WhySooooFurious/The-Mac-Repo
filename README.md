@@ -900,4 +900,24 @@
 - **Settings:** N/A
 - **Method & Source:** Native (x64), Cracked
 - **Notes:**
-  - Doesnt get past the press any button screen (Might work with a controller but not sure)
+  - Doesn't get past the press any button screen (Might work with a controller but not sure)
+ 
+### Assetto Corsa - u/WhySooooFurious
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Parallels (x64), Cracked
+- **Notes:**
+  - Menu works and doesn't go past that
+
+ ### Assetto Corsa - u/WhySoooFurious
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Crossover (x64), Cracked
+- **Notes:**
+  - Menu works and doesn't go past that
+ 
+
