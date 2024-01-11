@@ -183,6 +183,25 @@
 
 ## Testing Notes
 
+### Call of Duty - Modern Warfare 2 - u/WhySooooFurious
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 800x600
+- **Settings:** Low
+- **Method & Source:** Crossover 23.6 (x32), Cracked
+- **Notes:**
+  - Very bad fps with stutters
+ 
+### Call of Duty - Modern Warfare 2 - u/WhySooooFurious
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 800x600
+- **Settings:** Low
+- **Method & Source:** Parallels (x32), Cracked
+- **Notes:**
+  - Very bad fps
+  - Less stutters but unplayable
+
 ### Grand Theft Auto Vice City (Definitive Edition) - u/ParthGupta79
 - **Stability:** Stable
 - **Frame Rate:** Good
