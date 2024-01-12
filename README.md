@@ -642,7 +642,7 @@
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Medium
-- **Method & Source:** Native (x64), G2A
+- **Method & Source:** Native (x64), Steam
 - **Notes:**
   - Nice racing game
   - Works well
