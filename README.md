@@ -1,4 +1,5 @@
 # *Read these sections first!*
+  - Use CMD+F to search for games!
 
 ## Contributors and their Macs/Contact
 - **User:**
