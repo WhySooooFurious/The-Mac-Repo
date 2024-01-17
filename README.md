@@ -182,6 +182,7 @@
  
 ## To be Tested
   - Call of Duty - Black Ops 3
+  - Project Cars 3
 
 ## Testing Notes
 
