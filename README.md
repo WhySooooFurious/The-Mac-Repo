@@ -97,7 +97,7 @@
   - **Perfect:**
     - 50-60
   - **Excellent:**
-    - 70+ OR if game is constantly at 60fps locked
+    - 60+ OR if game is constantly at 60fps locked
   - Frame rates in between are rounded to their respective categories
 
 - **Resolution:**
@@ -131,10 +131,10 @@
 ## FAQ/Q&A
 
 **My Macbook is getting hot/warm to the touch?**
-- Don't worry at all, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures
+- Don't worry at all, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures or shut dowm themselves if the temperature it too high
 
 **What does having an Apple Silicon/M-Series chip mean?**
- - This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well while being compared to some Intel chips There are advantages and sadly some disadvantages, listed below
+- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well while being compared to some Intel chips There are advantages and sadly some disadvantages, listed below
 
 **Pros:**
   - Power Efficient which will result in more battery life
@@ -180,12 +180,6 @@
   - This method has way more compatability than Crossover and can also run x32 with higher performance
   - Also great for Windows Store applications, Windows apps in general and running applications that don't work with WINE apps
 
-**Native Games**
-  - This is the easiest and least time consuming
-  - This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games
-  - Keep in mind that Windows games will not install at all
-  - These are just games made for macOS and macOS only!
-
 **Emulators**
   - This is a great option for playing old games up to PS3 or even PS4 in some cases but it might not work well with newer consoles and titles
   - I personally use RetroArch for older games such as (a good alternative is OpenEMU although RetroArch is easier on the eyes):
@@ -210,6 +204,12 @@
     - Sord - Sord M5
   - For PS3 emulation you can use RPCS3
   - For Nintendo 3DS emulation you can use Citra
+
+**Native Games**
+  - This is the easiest and least time consuming
+  - This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games
+  - Keep in mind that Windows games will not install at all
+  - These are just games made for macOS and macOS only!
  
 ## To be Tested
   - Call of Duty - Black Ops 3
