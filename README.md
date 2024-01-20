@@ -120,6 +120,8 @@
     - Make sure to put the version name and game architecture e.g: Parallels 19 (x32) or alternatively something like this: Parallels 18 (x64). Depending what you have got
   - **Native:**
     - Make sure you put the game architecture e.g Native (ARM64) or alternatively something like this: Native (x64). Depending what you have got
+  - **Emulator:**
+    - Make sure you put the emulator name and version e.g Retroarch 1.16.0
   - **Source:**
     - Where you got the game from e,g Cracked or or alternatively something like this: Mac App Store
    
@@ -162,7 +164,7 @@
 - If you're looking to buy a good reputable laptop with great build quality for school/work with the added benefit of gaming well for a laptop, yes you should
 
 **I bought an Apple Silicon Mac for gaming, How do I game on it?**
- - First of all, there are 3 main ways in order to game
+ - First of all, there are 4 main ways in order to game
 
 **Crossover/Whisky:** 
   - Apps that both utilise WINE which translates Windows API calls to MacOS API calls allowing the game to run through Rosetta 2, the translation layer from x64 to ARM64
@@ -179,6 +181,31 @@
   - This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games
   - Keep in mind that Windows games will not install at all
   - These are just games made for macOS and macOS only!
+
+**Emulators**
+  - This is a great option for playing old games up to PS3 or even PS4 in some cases but it might not work well with newer consoles and titles
+  - I personally use RetroArch for older games such as (a good alternative is OpenEMU although RetroArch is easier on the eyes):
+    - Amstrad - Amstrad CPC
+    - Atari - 2600
+    - Atari - 5200
+    - Atari - 7800
+    - Bandai - WonderSwan Color
+    - Coleco - ColecoVision
+    - Hudson Soft - PC Engine/TurboGrafx-16
+    - Nintendo - Gameboy
+    - Nintendo - Gameboy Color
+    - Nintendo - Gameboy Advance
+    - Nintendo - Nintendo DS
+    - Nintendo - Nintendo Entertainment System
+    - Nintendo - Super Nintendo Entertainment System
+    - Sega - Game Gear
+    - Sega - Master System - Mark III
+    - Sega - Mega Drive - Genesis
+    - Sega - SG1000
+    - SNK - Neo Geo Pocket Color
+    - Sord - Sord M5
+  - For PS3 emulation you can use RPCS3
+  - For Nintendo 3DS emulation you can use Citra
  
 ## To be Tested
   - Call of Duty - Black Ops 3
@@ -921,5 +948,14 @@
 - **Method & Source:** Crossover (x64), Cracked
 - **Notes:**
   - Menu works and doesn't go past that
+ 
+ ### Red Dead Redemption 2 - u/ParthGupta79
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Crossover (x64), Cracked
+- **Notes:**
+  - Won't work due to needing Advanced Vector Extensions
  
 
