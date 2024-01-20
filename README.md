@@ -10,7 +10,7 @@
  - **Specifications:**
    - 8 Core CPU, 7 Core GPU, 8GB RAM
 
-- **User:**
+- *User:**
   - u/ParthGupta79
  - **Device:**
    - M2 Macbook Air
@@ -18,12 +18,12 @@
    - 8 Core CPU, 8 Core GPU, 8GB RAM
 
 ## Notes
-- I either use cracked games because they don't run properly with their launcher OR I don't like the game enough to buy it OR I don't have enough money to buy it :)
+- We either use cracked games because they don't run properly with their launcher OR We don't like the game enough to buy it OR We don't have enough money to buy it
 - Cracked games have the same performance than non cracked games (some have drm protection like Denuvo which worsens the performance, cracked games hence perfrom better in these cases)
 - You can request games to be tested by messaging the contributors on reddit or by creating a pull request
 - You can help by telling me how a game runs using the format below and messaging the contributors on reddit or by creating a pull request and using the format below
-- Whisky is basically the same as Crossover but free and better and it is what I prefer because it doesn't break everything every update!
-- I will still put Crossover as what is being used to avoid confusion for the most part
+- Whisky is basically the same as Crossover but free and better and it is what We prefer because it doesn't break everything every update!
+- We will still put Crossover as what is being used to avoid confusion for the most part, Whisky and Crossover are basically the same
 
 ## Important Notes
 - **Thermal Throttling:**
@@ -176,7 +176,7 @@
   - Some games may not even launch if they might require other resources that WINE cannot provide
 
 **Parallels:**
-  - Virtualisation involving running the Windows 10/11 ARM64 version on your mac
+  - Virtualisation which involves running the Windows 10/11 ARM64 version on your mac
   - This method has way more compatability than Crossover and can also run x32 with higher performance
   - Also great for Windows Store applications, Windows apps in general and running applications that don't work with WINE apps
 
