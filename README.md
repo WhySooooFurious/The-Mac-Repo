@@ -217,6 +217,17 @@
 
 ## Testing Notes
 
+### Watch Dogs 2 - u/ParthGupta79
+- **Stability:** Unstable
+- **Frame Rate:** Bad
+- **Resolution:** 1920x1200
+- **Settings:** Low
+- **Method & Source:** Crossover 23.7 (x64), Cracked
+- **Notes:**
+  - The legit version doesnt work due to anti cheat
+  - DXVK (in crossover) has some weird visual glitches)
+  - FPS doesnt change when lowering the resolution below 1920x1200 i think it maybe due to something in transaltion layer that is limiting fps.
+
 ### Pokemon - Omega Ruby - u/WhySooooFurious
 - **Stability:** Very Stable
 - **Frame Rate:** Perfect/Excellent
