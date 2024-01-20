@@ -1,5 +1,6 @@
 # *Read these sections first!*
   - Use CMD+F to search for games!
+  - Check for changes right now as of 20/01/24! (not american, sorry, not sorry)
 
 ## Contributors and their Macs/Contact
 - **User:**
@@ -95,6 +96,8 @@
     - 30-40
   - **Perfect:**
     - 50-60
+  - **Excellent:**
+    - 70+
   - Frame rates in between are rounded to their respective categories
 
 - **Resolution:**
@@ -213,6 +216,17 @@
 
 ## Testing Notes
 
+### RetroArch - Any Game - u/WhySooooFurious
+- **Stability:** Very Stable
+- **Frame Rate:** Excellent
+- **Resolution:** 2560x1050
+- **Settings:** Maxed
+- **Method & Source:** RetroArch 1.16.0
+- **Notes:**
+  - Great
+  - Check RetroArch game list above
+  - You might need to play with the cores a bit
+
 ### Call of Duty - Modern Warfare 2 - u/WhySooooFurious
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
@@ -234,7 +248,7 @@
 
 ### Grand Theft Auto Vice City (Definitive Edition) - u/ParthGupta79
 - **Stability:** Stable
-- **Frame Rate:** Good
+- **Frame Rate:** Good/Perfect
 - **Resolution:** 1920x1200
 - **Settings:** Low-Medium
 - **Method & Source:** Crossover 23.7 (x64), Cracked
@@ -244,7 +258,7 @@
 
 ### Grand Theft Auto V - u/ParthGupta79
 - **Stability:** Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Good/Perfect
 - **Resolution:** 1710x1112
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Epic Games Store (Heroic Launcher)
@@ -254,7 +268,7 @@
 
 ### Doom 64 - u/ParthGupta79
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1664
 - **Settings:** Max
 - **Method & Source:** Crossover 23.6 (x64), Epic Games Store (Heroic Launcher)
@@ -328,7 +342,7 @@
 
 ### The Elder Scrolls V Skyrim Anniversary Edition - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Cracked
@@ -387,16 +401,15 @@
 
 ### Dark Souls Remastered - u/ParthGupta79
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 1920x1200
 - **Settings:** High 
 - **Method & Source:** Crossover 23.6 (x64), Cracked
 - **Notes:**
-  - V-Sync was turned on so FPS might be higher than 60
 
 ### Rocket League - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Parallels 19 (x64), Epic games
@@ -406,7 +419,7 @@
  
 ### Rocket League - u/ParthGupta79
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1664
 - **Settings:** High
 - **Method & Source:** Crossover 23.6 (x64), Epic games (Heroic launcher)
@@ -547,7 +560,7 @@
 
 ### X-Plane 11 - u/WhySooooFurious
 - **Stability:** Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Good/Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Native (x64), Cracked
@@ -567,7 +580,7 @@
 
 ### Terraria - u/WhySooooFurious
 - **Stability:** Stable
-- **Frame Rate:** Good
+- **Frame Rate:** Good/Perfect
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Native (x64), Cracked
@@ -578,7 +591,7 @@
 
 ### Stardew Valley - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Native (x64), Steam
@@ -587,8 +600,8 @@
 
 ### Tomb Raider - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
-- **Resolution:** 2560x1600
+- **Frame Rate:** Excellent
+- **Resolution:** 1680x1050
 - **Settings:** High
 - **Method & Source:** Native (x64), Mac App Store
 - **Notes:**
@@ -597,7 +610,7 @@
 
 ### Rise of the Tomb Raider - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Good
+- **Frame Rate:** Good/Perfect
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method & Source:** Native (x64), Mac App Store
@@ -608,7 +621,7 @@
 
 ### Mad Max - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method & Source:** Crossover 23.6 (x64), Cracked
@@ -617,7 +630,7 @@
   - Steam version didn't launch
   - Crossover works better than native because of native using anoutdated OpenGL translation layer
 
-### Kerbal Space Program [In Progress] - u/WhySooooFurious
+### Kerbal Space Program - u/WhySooooFurious
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -630,7 +643,7 @@
 
 ### GTA: Vice City - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Native (x64), Cracked
@@ -639,7 +652,7 @@
 
 ### GTA: III - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Native (x64) Cracked
@@ -648,7 +661,7 @@
 
 ### GRID Legends - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Good
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method & Source:** Native (ARM64), Mac App Store
@@ -678,7 +691,7 @@
 
 ### Euro Truck Simulator - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Medium
 - **Method & Source:** Native (x64), Steam
@@ -689,7 +702,7 @@
 
 ### Dirt Rally - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method & Source:** Native (x64), Steam
@@ -698,7 +711,7 @@
 
 ### Dirt 4 - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method & Source:** Native (x64), Steam
@@ -746,7 +759,7 @@
 
 ### Combat Master - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Low
 - **Method & Source:** Native (ARM64), Steam
@@ -756,21 +769,22 @@
 
 ### Simple Planes - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Rosetta (x64), Mac App Store
 - **Notes:**
-  - Perfect FPS with high res.
+  - Perfect FPS with max res.
   - Depends on the plane you choose and the amount of 'parts' it has
 
 ### Resident Evil: Village - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Good
+- **Frame Rate:** Good/Perfect/Excellent
 - **Resolution:** 2560x1600 and MetalFX
 - **Settings:** Maxed
 - **Method & Source:** Native (ARM64), Steam
 - **Notes:**
+  - FPS depends on settings a lot
   - Perfectly optimized
   - Stable at 30fps with maxed settings and MetalFX
   - 60fps+ on medium settings and MetalFX
@@ -778,7 +792,7 @@
 
 ### Minecraft: Java Edition - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
 - **Settings:** Maxed
 - **Method & Source:** Native (ARM64), Prism Launcher
@@ -787,7 +801,7 @@
 
 ### Sleeping Dogs: Definitive Edition - u/WhySooooFurious
 - **Stability:** Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Steam
@@ -798,7 +812,7 @@
 
 ### No Man's Sky - u/WhySooooFurious
 - **Stability:** Stable
-- **Frame Rate:** Ok
+- **Frame Rate:** Perfect
 - **Resolution:** 2560x1600 with FSR
 - **Settings:** Low
 - **Method & Source:** Native (ARM64), Steam
@@ -811,7 +825,7 @@
 
 ### Dying Light - u/WhySooooFurious
 - **Stability:** Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Cracked
@@ -823,7 +837,7 @@
 
 ### Grand Theft Auto V - u/WhySooooFurious
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Cracked & Epic Games
