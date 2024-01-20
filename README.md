@@ -97,7 +97,7 @@
   - **Perfect:**
     - 50-60
   - **Excellent:**
-    - 70+
+    - 70+ OR if game is constantly at 60fps locked
   - Frame rates in between are rounded to their respective categories
 
 - **Resolution:**
@@ -153,6 +153,7 @@
   - Bad/Obsolete x32 application support, this will likely not improve in the future
   - Needing Rosetta 2 in order to run x64 apps which will have performance loss
   - Applications might need updating, especially system extensions which will need to get updated from x64 to ARM64
+  - Cannot emulate Android
 
 **What does having an Intel chip mean?**
 - You will most likely have one with an integrated GPU which will result in very poor gaming ability
@@ -215,6 +216,18 @@
   - Project Cars 3
 
 ## Testing Notes
+
+### Pokemon - Omega Ruby - u/WhySooooFurious
+- **Stability:** Very Stable
+- **Frame Rate:** Perfect/Excellent
+- **Resolution:** 1680x1050 with Upscaling
+- **Settings:** Maxed
+- **Method & Source:** Citra Nightly 2079
+- **Notes:**
+  - Great
+  - FPS greatly falls due to upscaling
+  - You can disable upscaling or enable it at a small amount because native looks pretty bad
+  
 
 ### RetroArch - Any Game - u/WhySooooFurious
 - **Stability:** Very Stable
