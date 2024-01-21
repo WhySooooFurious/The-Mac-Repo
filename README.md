@@ -220,9 +220,9 @@
 ### Red Dead Redemption - u/WhySooooFurious
 - **Stability:** Stable
 - **Frame Rate:** Good
-- **Resolution:** 1920x1080
+- **Resolution:** 1920x1080 with FSR
 - **Settings:** Default
-- **Method & Source:** Ryujinx , ROM
+- **Method & Source:** Ryujinx, ROM
 - **Notes:**
   - Not bad at all
   - Playble
@@ -348,8 +348,8 @@
 ### Assetto Corsa - Competizione - u/WhySooooFurious
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
-- **Resolution:** 1680x1050
-- **Settings:** Low with FSR
+- **Resolution:** 1680x1050 with FSR
+- **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Steam
 - **Notes:**
   - Bad FPS with very bad stutters
