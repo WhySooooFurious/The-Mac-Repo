@@ -1,4 +1,4 @@
-r# *Read these sections first!*
+# *Read these sections first!*
   - Use CMD+F to search for games!
   - Check for changes right now as of 20/01/24! (not american, sorry, not sorry)
 
