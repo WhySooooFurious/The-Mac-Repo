@@ -1007,5 +1007,21 @@
 - **Method & Source:** Crossover (x64), Cracked
 - **Notes:**
   - Won't work due to needing Advanced Vector Extensions
- 
 
+  ### Fifa 19 - u/ParthGupta79
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Crossover (x64), Cracked
+- **Notes:**
+  - Game doesnt launch
+
+ ### Fifa 19 - u/ParthGupta79
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Parallels (x64), Cracked
+- **Notes:**
+  - Game doesnt launch
