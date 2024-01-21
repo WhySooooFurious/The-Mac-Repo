@@ -1,4 +1,4 @@
-# *Read these sections first!*
+r# *Read these sections first!*
   - Use CMD+F to search for games!
   - Check for changes right now as of 20/01/24! (not american, sorry, not sorry)
 
@@ -217,7 +217,7 @@
 
 ## Testing Notes
 
-### Ryujinx - u/WhySooooFurious
+### Red Dead Redemption - u/WhySooooFurious
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1920x1080
@@ -230,7 +230,7 @@
 
 
 ### Watch Dogs 2 - u/ParthGupta79
-- **Stability:** Unstable
+- **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 1920x1200
 - **Settings:** Low
