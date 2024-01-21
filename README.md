@@ -226,8 +226,9 @@
 - **Method & Source:** Ryujinx, ROM
 - **Notes:**
   - Not bad at all
-  - Playble
+  - Playable
   - sometimes goes down to 25 fps when it gets demanding
+  - FSR doesn't seem to work?
 
 
 ### Watch Dogs 2 - u/ParthGupta79
