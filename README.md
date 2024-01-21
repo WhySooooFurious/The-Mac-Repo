@@ -217,6 +217,18 @@
 
 ## Testing Notes
 
+### Ryujinx - u/WhySooooFurious
+- **Stability:** Stable
+- **Frame Rate:** Good
+- **Resolution:** 1920x1080
+- **Settings:** Default
+- **Method & Source:** Ryujinx , ROM
+- **Notes:**
+  - Not bad at all
+  - Playble
+  - sometimes goes down to 25 fps when it gets demanding
+
+
 ### Watch Dogs 2 - u/ParthGupta79
 - **Stability:** Unstable
 - **Frame Rate:** Bad
