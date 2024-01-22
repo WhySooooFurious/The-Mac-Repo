@@ -77,9 +77,9 @@
 
 - Make sure to seperate all this using commas like the example down below
 
-- M3 Pro, 14-Inch Macbook Pro, CPU, 11 Core, 18GB RAM
-- M1, Macbook Air , 8 Core CPU, 7 Core GPU, 8GB RAM, Thermal Modded
-- Intel Core i5, Macbook Air (Early 2015), 4 Core CPU, Intel HD Graphics 5300, 8GB RAM
+  - M3 Pro, 14-Inch Macbook Pro, CPU, 11 Core, 18GB RAM
+  - M1, Macbook Air , 8 Core CPU, 7 Core GPU, 8GB RAM, Thermal Modded
+  - Intel Core i5, Macbook Air (Early 2015), 4 Core CPU, Intel HD Graphics 5300, 8GB RAM
 
 
 - **Stability:**
