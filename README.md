@@ -211,8 +211,11 @@
   - This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games
   - Keep in mind that Windows games will not install at all
   - These are just games made for macOS and macOS only!
+
+## Things To be Tested
+  - LukeFZ FS3 Frame Generation and Upscaling on a couple of Crossover games
  
-## To be Tested
+## Games To be Tested
   - Call of Duty - Black Ops 3
   - Project Cars 3
   - Shadow of the Tomb Raider
