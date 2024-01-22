@@ -117,17 +117,17 @@
 
       (All of this doesn't relate to resolution at all)
  
- - **Method & Source & Source:**
-  - **Crossover:**
-    - Make sure to put the version name and game architecture e.g: Crossover 23.7 (x64) or alternatively something like this: Crossover 22 (x32). Depending what you have got
-  - **Parallels:**
-    - Make sure to put the version name and game architecture e.g: Parallels 19 (x32) or alternatively something like this: Parallels 18 (x64). Depending what you have got
-  - **Native:**
-    - Make sure you put the game architecture e.g Native (ARM64) or alternatively something like this: Native (x64). Depending what you have got
-  - **Emulator:**
-    - Make sure you put the emulator name and version e.g Retroarch 1.16.0
-  - **Source:**
-    - Where you got the game from e,g Cracked or or alternatively something like this: Mac App Store
+ - **Method & Source:**
+    - **Crossover:**
+      - Make sure to put the version name and game architecture e.g: Crossover 23.7 (x64) or alternatively something like this: Crossover 22 (x32). Depending what you have got
+    - **Parallels:**
+      - Make sure to put the version name and game architecture e.g: Parallels 19 (x32) or alternatively something like this: Parallels 18 (x64). Depending what you have got
+    - **Native:**
+      - Make sure you put the game architecture e.g Native (ARM64) or alternatively something like this: Native (x64). Depending what you have got
+    - **Emulator:**
+      - Make sure you put the emulator name and version e.g Retroarch 1.16.0
+    - **Source:**
+      - Where you got the game from e,g Cracked or or alternatively something like this: Mac App Store
    
 ## FAQ/Q&A
 
