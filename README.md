@@ -11,7 +11,7 @@
  - **Specifications:**
    - 8 Core CPU, 7 Core GPU, 8GB RAM
 
-- *User:**
+- **User:**
   - u/ParthGupta79
  - **Device:**
    - M2 Macbook Air
