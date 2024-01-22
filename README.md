@@ -221,7 +221,7 @@
   - Battlefield 1
   - Battlefield 4
   - Forza Horizon 4
-
+  - War Thunder
 ## Testing Notes
 
 ### Shadow of the Tomb Raider - u/WhySooooFurious
