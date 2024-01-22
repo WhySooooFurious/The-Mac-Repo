@@ -137,24 +137,24 @@
 **What does having an Apple Silicon/M-Series chip mean?**
 - This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well while being compared to some Intel chips There are advantages and sadly some disadvantages, listed below
 
-**Pros:**
-  - Power Efficient which will result in more battery life
-  - Perfomance compared to Intel equivalents in the Macbook line are very great
-  - Quieter devices 
-  - Better integrated graphics performance and support
-  - Ability to run iPhone/iPad apps on your mac natively through apps like PlayCover
-  - Through the use of Rosetta 2 x64 apps are still supported, quite well I might add
-  - Unified Architecture
+  - **Pros:**
+    - Power Efficient which will result in more battery life
+    - Perfomance compared to Intel equivalents in the Macbook line are very great
+    - Quieter devices 
+    - Better integrated graphics performance and support
+    - Ability to run iPhone/iPad apps on your mac natively through apps like PlayCover
+    - Through the use of Rosetta 2 x64 apps are still supported, quite well I might add
+    - Unified Architecture
 
-**Cons:**
-  - No support for Windows or Bootcamp unless using software such as UTM and Parallels which will also have to be ARM64
-  - Needing apps such as Crossover and Parallels to game apps that are not supported on macOS
-  - No EGPU support
-  - Only one external display
-  - Bad/Obsolete x32 application support, this will likely not improve in the future
-  - Needing Rosetta 2 in order to run x64 apps which will have performance loss
-  - Applications might need updating, especially system extensions which will need to get updated from x64 to ARM64
-  - Cannot emulate Android
+ - **Cons:**
+    - No support for Windows or Bootcamp unless using software such as UTM and Parallels which will also have to be ARM64
+    - Needing apps such as Crossover and Parallels to game apps that are not supported on macOS
+    - No EGPU support
+    - Only one external display
+    - Bad/Obsolete x32 application support, this will likely not improve in the future
+    - Needing Rosetta 2 in order to run x64 apps which will have performance loss
+    - Applications might need updating, especially system extensions which will need to get updated from x64 to ARM64
+    - Cannot emulate Android
 
 **What does having an Intel chip mean?**
 - You will most likely have one with an integrated GPU which will result in very poor gaming ability
@@ -171,46 +171,46 @@
 **I bought an Apple Silicon Mac for gaming, How do I game on it?**
  - First of all, there are 4 main ways in order to game
 
-**Crossover/Whisky:** 
-  - Apps that both utilise WINE which translates Windows API calls to MacOS API calls allowing the game to run through Rosetta 2, the translation layer from x64 to ARM64
-  - This is a great option for gaming although x32 games will run horribly
-  - Some games may not even launch if they might require other resources that WINE cannot provide
+ - **Crossover/Whisky:** 
+    - Apps that both utilise WINE which translates Windows API calls to MacOS API calls allowing the game to run through Rosetta 2, the translation layer from x64 to ARM64
+    - This is a great option for gaming although x32 games will run horribly
+    - Some games may not even launch if they might require other resources that WINE cannot provide
 
-**Parallels:**
-  - Virtualisation which involves running the Windows 10/11 ARM64 version on your mac
-  - This method has way more compatability than Crossover and can also run x32 with higher performance
-  - Also great for Windows Store applications, Windows apps in general and running applications that don't work with WINE apps
+- **Parallels:**
+    - Virtualisation which involves running the Windows 10/11 ARM64 version on your mac
+    - This method has way more compatability than Crossover and can also run x32 with higher performance
+    - Also great for Windows Store applications, Windows apps in general and running applications that don't work with WINE apps
 
-**Emulators**
-  - This is a great option for playing old games up to PS3 or even PS4 in some cases but it might not work well with newer consoles and titles
-  - I personally use RetroArch for older games such as (a good alternative is OpenEMU although RetroArch is easier on the eyes):
-    - Amstrad - Amstrad CPC
-    - Atari - 2600
-    - Atari - 5200
-    - Atari - 7800
-    - Bandai - WonderSwan Color
-    - Coleco - ColecoVision
-    - Hudson Soft - PC Engine/TurboGrafx-16
-    - Nintendo - Gameboy
-    - Nintendo - Gameboy Color
-    - Nintendo - Gameboy Advance
-    - Nintendo - Nintendo DS
-    - Nintendo - Nintendo Entertainment System
-    - Nintendo - Super Nintendo Entertainment System
-    - Sega - Game Gear
-    - Sega - Master System - Mark III
-    - Sega - Mega Drive - Genesis
-    - Sega - SG1000
-    - SNK - Neo Geo Pocket Color
-    - Sord - Sord M5
-  - For PS3 emulation you can use RPCS3
-  - For Nintendo 3DS emulation you can use Citra
+- **Emulators**
+    - This is a great option for playing old games up to PS3 or even PS4 in some cases but it might not work well with newer consoles and titles
+    - I personally use RetroArch for older games such as (a good alternative is OpenEMU although RetroArch is easier on the eyes):
+      - Amstrad - Amstrad CPC
+      - Atari - 2600
+      - Atari - 5200
+      - Atari - 7800
+      - Bandai - WonderSwan Color
+      - Coleco - ColecoVision
+      - Hudson Soft - PC Engine/TurboGrafx-16
+      - Nintendo - Gameboy
+      - Nintendo - Gameboy Color
+      - Nintendo - Gameboy Advance
+      - Nintendo - Nintendo DS
+      - Nintendo - Nintendo Entertainment System
+      - Nintendo - Super Nintendo Entertainment System
+      - Sega - Game Gear
+      - Sega - Master System - Mark III
+      - Sega - Mega Drive - Genesis
+      - Sega - SG1000
+      - SNK - Neo Geo Pocket Color
+      - Sord - Sord M5
+  - For PS3 emulation you can use RPCS3, although it is very experimental and only some games are playable
+  - For Nintendo 3DS emulation you can use Citra which is also experimental but stable
 
-**Native Games**
-  - This is the easiest and least time consuming
-  - This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games
-  - Keep in mind that Windows games will not install at all
-  - These are just games made for macOS and macOS only!
+ - **Native Games**
+    - This is the easiest and least time consuming
+    - This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games
+    - Keep in mind that Windows games will not install at all
+    - These are just games made for macOS and macOS only!
 
 ## Things To be Tested
   - LukeFZ FS3 Frame Generation and Upscaling on a couple of Crossover games
