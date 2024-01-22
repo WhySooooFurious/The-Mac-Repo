@@ -229,9 +229,8 @@
 - **Settings:** Default
 - **Method & Source:** Ryujinx, ROM
 - **Notes:**
-  - Not bad at all
   - Playable
-  - sometimes goes down to 25 fps when it gets demanding
+  - Sometimes goes down to 25 fps when it gets demanding
   - FSR doesn't seem to work?
 
 
@@ -243,8 +242,8 @@
 - **Method & Source:** Crossover 23.7 (x64), Cracked
 - **Notes:**
   - The legit version doesnt work due to anti cheat
-  - DXVK (in crossover) has some weird visual glitches)
-  - FPS doesnt change when lowering the resolution below 1920x1200 i think it maybe due to something in transaltion layer that is limiting fps.
+  - DXVK (in crossover) (has some weird visual glitches)
+  - FPS doesnt change when lowering the resolution below 1920x1200 i think it maybe due to something in transaltion layer that is limiting fps
 
 ### Pokemon - Omega Ruby - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -331,7 +330,7 @@
   - Find Ghostrunner/Binaries/Win64/Ghostrunner-Win64-Shipping.exe. Select the exe
   - Run the game and enjoy!
 
-- ### Need for Speed - Hot Pursuit - u/WhySooooFurious
+### Need for Speed - Hot Pursuit - u/WhySooooFurious
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 1680x1050
@@ -390,13 +389,13 @@
 - **Method & Source:** Crossover 23.6 (x64), Cracked
 - **Notes:**
   - Slight stuttering
-  - No sound from npcs at all even after putting in DLC overrides
+  - No sound from npcs at all even after putting in DLL overrides involving xaudio 6 and 7
   - Every other sound is present 
 
 ### Grand Theft Auto V - u/WhySooooFurious
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
-- **Resolution:** 800x600
+- **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Parallels 19 (x64), Epic Games
 - **Notes:**
@@ -406,7 +405,7 @@
 ### Marvel's Spider-Man Remastered - u/ParthGupta79
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
-- **Resolution:** 
+- **Resolution:** 1920x1200
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Steam
 - **Notes:**
