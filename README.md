@@ -215,6 +215,10 @@
 ## To be Tested
   - Call of Duty - Black Ops 3
   - Project Cars 3
+  - Shadow of the Tomb Raider
+  - Battlefield 1
+  - Battlefield 4
+  - Forza Horizon 4
 
 ## Testing Notes
 
