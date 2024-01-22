@@ -218,19 +218,31 @@
 ## Games To be Tested
   - Call of Duty - Black Ops 3
   - Project Cars 3
-  - Shadow of the Tomb Raider
   - Battlefield 1
   - Battlefield 4
   - Forza Horizon 4
 
 ## Testing Notes
 
+### Shadow of the Tomb Raider - u/WhySooooFurious
+- **Stability:** Very Stable
+- **Frame Rate:** Excellent
+- **Resolution:** 1680x1050 with FSR
+- **Settings:** Low
+- **Method & Source:** Native (x64), Steam
+- **Notes:**
+  - FPS sits at around 80-ish
+  - FSR works well and increases fps by around 20 (included in above fps)
+  - Pretty stuttery without V-Sync even though the game is at like 80, with and without FSR
+  - V-Sync makes it buttery smooth
+
+
 ### Red Dead Redemption - u/WhySooooFurious
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1920x1080 with FSR
 - **Settings:** Default
-- **Method & Source:** Ryujinx, ROM
+- **Method & Source:** Ryujinx, Nintendo Switch ROM
 - **Notes:**
   - Playable
   - Sometimes goes down to 25 fps when it gets demanding
