@@ -137,14 +137,14 @@
 **What does having an Apple Silicon/M-Series chip mean?**
 - This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well while being compared to some Intel chips There are advantages and sadly some disadvantages, listed below
 
-  - **Pros:**
-     - Power Efficient which will result in more battery life
-     - Perfomance compared to Intel equivalents in the Macbook line are very great
-     - Quieter devices 
-     - Better integrated graphics performance and support
-     - Ability to run iPhone/iPad apps on your mac natively through apps like PlayCover
-     - Through the use of Rosetta 2 x64 apps are still supported, quite well I might add
-     - Unified Architecture
+- **Pros:**
+   - Power Efficient which will result in more battery life
+   - Perfomance compared to Intel equivalents in the Macbook line are very great
+   - Quieter devices 
+   - Better integrated graphics performance and support
+   - Ability to run iPhone/iPad apps on your mac natively through apps like PlayCover
+   - Through the use of Rosetta 2 x64 apps are still supported, quite well I might add
+   - Unified Architecture
 
  - **Cons:**
     - No support for Windows or Bootcamp unless using software such as UTM and Parallels which will also have to be ARM64
