@@ -238,7 +238,7 @@
 - **Settings:** Low
 - **Method & Source:** Crossover 23.7 (x64), Cracked
 - **Notes:**
-  - DONT RUN THE GAME WITH DXVK ONLY RUN IT WITH D3D METAL unless you want you mac to be a brick.
+  - DONT RUN THE GAME WITH DXVK ONLY RUN IT WITH D3D METAL unless you want your mac to be a brick.
   - Dont turn on fullscreen in the settings it breaks the game.
 
 ### Shadow of the Tomb Raider - u/WhySooooFurious
