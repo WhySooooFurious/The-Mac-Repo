@@ -1,5 +1,4 @@
 # *Read these sections first!*
-  - Please make sure to because dumbasses like u/oprahsballsack don't actually read anything and then complain because they get lost 😢
   - Use CMD+F to search for games!
   - Check for changes right now as of 20/01/24! (not american, sorry, not sorry)
 
