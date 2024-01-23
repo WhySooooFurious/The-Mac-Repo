@@ -1035,15 +1035,6 @@
 - **Method & Source:** Crossover (x64), Cracked
 - **Notes:**
   - Menu works and doesn't go past that
- 
- ### Red Dead Redemption 2 - u/ParthGupta79
-- **Stability:** N/A
-- **Frame Rate:** N/A
-- **Resolution:** N/A
-- **Settings:** N/A
-- **Method & Source:** Crossover (x64), Cracked
-- **Notes:**
-  - Won't work due to needing Advanced Vector Extensions
 
   ### Fifa 19 - u/ParthGupta79
 - **Stability:** N/A
