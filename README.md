@@ -218,11 +218,29 @@
 ## Games To be Tested
   - Call of Duty - Black Ops 3
   - Project Cars 3
-  - Battlefield 1
   - Battlefield 4
-  - Forza Horizon 4
   - War Thunder
+  - Red Dead Redemption 2
 ## Testing Notes
+
+### CarX Drift Online - u/ParthGupta79
+- **Stability:** Stable
+- **Frame Rate:** Good
+- **Resolution:** 1920x1200
+- **Settings:** Low
+- **Method & Source:** Crossover 23.7 (x64), Cracked
+- **Notes:**
+  - Experiment with dxvk and d3d metal and check which of them works better
+
+### Battlefield 1 - u/ParthGupta79
+- **Stability:** Stable
+- **Frame Rate:** Perfect
+- **Resolution:** 1920x1200
+- **Settings:** Low
+- **Method & Source:** Crossover 23.7 (x64), Cracked
+- **Notes:**
+  - DONT RUN THE GAME WITH DXVK ONLY RUN IT WITH D3D METAL unless you want you mac to be a brick.
+  - Dont turn on fullscreen in the settings it breaks the game.
 
 ### Shadow of the Tomb Raider - u/WhySooooFurious
 - **Stability:** Very Stable
