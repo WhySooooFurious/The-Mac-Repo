@@ -222,6 +222,7 @@
   - Red Dead Redemption 2
   - PalWorld
   - The Witcher 3
+  - L.A Noire
 ## Testing Notes
 
 ### CarX Drift Online - u/ParthGupta79
