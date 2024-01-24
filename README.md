@@ -823,7 +823,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
-- **Settings:** High
+- **Settings:** Low
 - **Method & Source:** Native (x64), Steam
 - **Notes:**
   - This is perfect
@@ -871,7 +871,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
-- **Settings:** Low
+- **Settings:** High
 - **Method & Source:** Native (ARM64), Steam
 - **Notes:**
   - Perfect
@@ -881,7 +881,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
-- **Settings:** Maxed
+- **Settings:** High
 - **Method & Source:** Rosetta (x64), Mac App Store
 - **Notes:**
   - Perfect FPS with max res.
@@ -898,7 +898,8 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Perfectly optimized
   - Stable at 30fps with maxed settings and MetalFX
   - 60fps+ on medium settings and MetalFX
-  - This is how a good game should be! My theory is that it is designed for an iPhone and then ported over to Mac with higher graphic settings
+  - This is how a good game should be
+  - My theory is that it is designed for an iPhone and then ported over to Mac with higher graphic settings
 
 ### Minecraft: Java Edition - u/WhySooooFurious
 - **Stability:** Very Stable
@@ -982,7 +983,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Crashes upon launch
 
-### Hogwarts legacy - u/ParthGupta79
+### Hogwarts Legacy - u/ParthGupta79
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1042,7 +1043,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A 
-- **Method & Source:** Parallels 19(x64), Epic Games Store
+- **Method & Source:** Parallels 19 (x64), Epic Games Store
 - **Notes:**
   - EAC detects CPU architecture [ARM] not supported
 
@@ -1064,7 +1065,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Menu works and doesn't go past that
 
- ### Assetto Corsa - u/WhySoooFurious
+ ### Assetto Corsa - u/WhySooooFurious
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1073,7 +1074,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Menu works and doesn't go past that
 
-  ### Fifa 19 - u/ParthGupta79
+### Fifa 19 - u/ParthGupta79
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
