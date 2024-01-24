@@ -13,8 +13,6 @@
   - u/MyMacRepo
   - u/WhySooooFurious
   - u/ParthGupta79
-  
-
 
 ## Contributors and their Macs
 - **User:**
@@ -47,15 +45,15 @@
   - Contributors will try to use the settings listed below unless otherwise specified
 
 ## PlayCover Settings
-- Nothing really to put here except I use decrypt.day and armconverter.com for ipas
+- Nothing really to put here except we use decrypt.day and armconverter.com for ipas
 
 ## Crossover/Whisky Settings
 - **Windows:** Windows 7 64bit
-- **Bottle:** DXVK/GPTK(D3DMetal)
+- **Bottle:** DXVK/D3DMetal
 - **M-SYNC:** On
 
 ## Parallels Settings
-- **Windows:** Windows 11 Pro
+- **Windows:** Windows 11 Pro ARM64
 - **CPU:** 4 Cores
 - **RAM:** 4 GB
 
@@ -79,7 +77,7 @@
 
 
 ```
-Method & Source - Game Name - User
+Method - Game Name - User
 ```
 - Put the below text into the description 
 ```
