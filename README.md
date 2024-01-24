@@ -1,6 +1,6 @@
 # *Read these sections first!*
   - Use CMD+F to search for games!
-  - Check for changes right now as of 20/01/24! (not american, sorry, not sorry)
+  - Check for changes right now as of 24/01/24! (not american, sorry, not sorry)
 
 ## Links/Contact
 - GitHub
