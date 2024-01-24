@@ -220,6 +220,7 @@
   - Battlefield 4
   - War Thunder
   - Red Dead Redemption 2
+  - PalWorld
 ## Testing Notes
 
 ### CarX Drift Online - u/ParthGupta79
