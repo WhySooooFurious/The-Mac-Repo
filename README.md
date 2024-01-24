@@ -33,7 +33,6 @@
 - We either use cracked games because they don't run properly with their launcher OR We don't like the game enough to buy it OR We don't have enough money to buy it
 - Cracked games have the same performance than non cracked games (some have drm protection like Denuvo which worsens the performance, cracked games hence perfrom better in these cases)
 - You can request games to be tested by messaging the contributors on reddit or by creating a pull request
-- You can help by telling me how a game runs using the format below and messaging the contributors on reddit or by creating a pull request and using the format below
 - Whisky is basically the same as Crossover but free and better and it is what We prefer because it doesn't break everything every update!
 - We will still put Crossover as what is being used to avoid confusion for the most part, Whisky and Crossover are basically the same
 
@@ -43,6 +42,10 @@
 - **Different Macs:** 
   - Contributors have different macs so make sure you've looked at their specs. The person who has tested the game will have their reddit username next to the title of the game
   - Contributors will try to use the settings listed below unless otherwise specified
+- **You can help by:**
+  - You can help us by telling me how a game runs using the format below and messaging the contributors on reddit or by creating a pull request and using the format below
+  - Creating a 10 minute video on a game with MetalHUD and submitting it through a pull request
+
 
 ## PlayCover Settings
 - Nothing really to put here except we use decrypt.day and armconverter.com for ipas
