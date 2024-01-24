@@ -963,7 +963,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Crossover 23.7 breaks the game
   - 2560X1600 works at around 45fps
 
-## Games That Do Not Work (Simply not launching or not getting past the Menu)
+## Games That do not Work at all
 
 ### Fifa 15 - u/WhySooooFurious
 - **Stability:** N/A
