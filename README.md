@@ -45,19 +45,40 @@
 - **CPU:** 4 Cores
 - **RAM:** 4 GB
 
-## Format
+## Github Format
 ```
 ### (Game Name) - (Contributor Reddit Name) - (MacBook Details: (Refer to # Game Settings)
 - **Stability:** (Refer to # Game Settings)
 - **Frame Rate:** (Refer to # Game Settings)
 - **Resolution:** (Refer to # Game Settings)
 - **Settings:** (Refer to # Game Settings)
-- **Method & (Source:** Refer to # Game Settings)
+- **Method & Source:** *Refer to # Game Settings)
 - **Notes:** (Anything that may be of interest or important)
 ```
 - Please replace the text surrounded by brackets only!
 - Don't remove all the asterisks or colons as they are useful in formatting
 - Also, please remove the brackets
+
+## YouTube Format
+- The things you have to worry about is the video title and description
+- The same as the Gitub format for description
+
+
+```
+Method & Source - Game Name - User
+```
+- Put the below text into the description 
+```
+### Game Name - Contributor Reddit Name - MacBook Details: (Refer to # Game Settings)
+- **Stability:** (Refer to # Game Settings)
+- **Frame Rate:** (Refer to # Game Settings)
+- **Resolution:** (Refer to # Game Settings)
+- **Settings:** (Refer to # Game Settings)
+- **Method & Source:** (Refer to # Game Settings)
+- **Notes:** (Anything that may be of interest or important)
+
+https://github.com/WhySooooFurious/My-Mac-Repo
+```
 
 ## Game Settings
 
@@ -223,7 +244,12 @@
   - PalWorld
   - The Witcher 3
   - L.A Noire
-## Testing Notes
+
+## Testing
+
+Check out our Youtube for Video Benchmarks of most games!
+Please note it is relatively new and we're trying to get every game on there!
+Here is is: 
 
 ### CarX Drift Online - u/ParthGupta79
 - **Stability:** Stable
