@@ -122,7 +122,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
     - Stuttery mess
   - **Stable:**
      - Some stutters
-  - ***Very Stable:**
+  - **Very Stable:**
     - Buttery smooth
 
 - **Frame Rate:**
