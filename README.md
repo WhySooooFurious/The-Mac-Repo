@@ -5,8 +5,8 @@
 ## Links
 - GitHub
   - https://github.com/WhySooooFurious/My-Mac-Repo
--YouTube
- - www.youtube.com/@TheMacRepo
+- YouTube
+  - www.youtube.com/@TheMacRepo
 
 
 ## Contributors and their Macs/Contact
