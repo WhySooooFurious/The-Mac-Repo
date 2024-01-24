@@ -5,11 +5,18 @@
 ## Links
 - GitHub
   - https://github.com/WhySooooFurious/My-Mac-Repo
+
 - YouTube
   - www.youtube.com/@TheMacRepo
 
+- Reddit Contributors
+  - u/MyMacRepo
+  - u/WhySooooFurious
+  - u/ParthGupta79
+  
 
-## Contributors and their Macs/Contact
+
+## Contributors and their Macs
 - **User:**
    - u/WhySooooFurious
  - **Device:**
