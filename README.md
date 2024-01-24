@@ -221,6 +221,7 @@
   - War Thunder
   - Red Dead Redemption 2
   - PalWorld
+  - The Witcher 3
 ## Testing Notes
 
 ### CarX Drift Online - u/ParthGupta79
