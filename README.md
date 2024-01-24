@@ -167,7 +167,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - Don't worry at all, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures or shut dowm themselves if the temperature it too high
 
 **What does having an Apple Silicon/M-Series chip mean?**
-- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and low level gadgets, it is *very* power efficient and can be powerful as well while being compared to some Intel chips There are advantages and sadly some disadvantages, listed below
+- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and less powerful budget laptops, it is *very* power efficient and can be powerful as well while being compared to some Intel chips There are advantages and sadly some disadvantages, listed below
 
 - **Pros:**
    - Power Efficient which will result in more battery life
