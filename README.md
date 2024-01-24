@@ -2,7 +2,7 @@
   - Use CMD+F to search for games!
   - Check for changes right now as of 20/01/24! (not american, sorry, not sorry)
 
-## Links
+## Links/Contact
 - GitHub
   - https://github.com/WhySooooFurious/My-Mac-Repo
 
