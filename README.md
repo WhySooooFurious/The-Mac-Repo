@@ -2,6 +2,13 @@
   - Use CMD+F to search for games!
   - Check for changes right now as of 20/01/24! (not american, sorry, not sorry)
 
+## Links
+- GitHub
+  - https://github.com/WhySooooFurious/My-Mac-Repo
+-YouTube
+ - www.youtube.com/@TheMacRepo
+
+
 ## Contributors and their Macs/Contact
 - **User:**
    - u/WhySooooFurious
@@ -246,10 +253,6 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - L.A Noire
 
 ## Testing
-
-Check out our Youtube for Video Benchmarks of most games!
-Please note it is relatively new and we're trying to get every game on there!
-Here is is: 
 
 ### CarX Drift Online - u/ParthGupta79
 - **Stability:** Stable
