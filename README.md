@@ -380,6 +380,7 @@ u/ParthGupta79
 - **Resolution:** 1710x1112
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Epic Games Store (Heroic Launcher)
+- **Benchmark:** https://www.youtube.com/watch?v=ph6my3yvQg4&t=236s
 - **Notes:**
   - FPS varies from Good to Perfect depending upon the area of the game
   - Crossover 23.7 broke the game giving some 'Social Club Error 17' error
@@ -722,6 +723,7 @@ u/ParthGupta79
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method & Source:** Native (x64), Mac App Store
+- **Benchmark:** https://www.youtube.com/watch?v=P3QHu_aPCR0&t=328s
 - **Notes:**
   - Great game
   - Can even run on low power mode at 60fps with high settings
