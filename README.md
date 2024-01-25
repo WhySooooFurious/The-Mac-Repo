@@ -256,7 +256,6 @@ u/ParthGupta79
  
 ## Games To be Tested
   - Call of Duty - Black Ops 3
-  - Project Cars 3
   - Battlefield 4
   - PalWorld
   - The Witcher 3
@@ -1043,7 +1042,7 @@ u/ParthGupta79
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A
-- **Method & Source:** Crossover (x64), Cracked
+- **Method & Source:** Crossover 23.6 (x64), Cracked
 - **Notes:**
   - Expected, Doesn't launch
 
@@ -1088,7 +1087,7 @@ u/ParthGupta79
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A
-- **Method & Source:** Crossover (x64), Cracked
+- **Method & Source:** Crossover 23.6 (x64), Cracked
 - **Notes:**
   - Menu works and doesn't go past that
 
@@ -1115,6 +1114,16 @@ u/ParthGupta79
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A
-- **Method & Source:** Crossover (x64), Cracked
+- **Method & Source:** Crossover 23.6 (x64), Cracked
 - **Notes:**
   - Game doesn't launch
+ 
+### Project Cars 2 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Crossover 23.7 (x64), Cracked
+- **Notes:**
+  - Game doesn't get past main menu
+  - Seems pretty stuttery still
