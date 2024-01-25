@@ -10,7 +10,7 @@
   - www.youtube.com/@TheMacRepo
 
 - Reddit Contributors
-  - u/MyMacRepo
+  - u/TheMacRepo
   - u/WhySooooFurious
   - u/ParthGupta79
 
