@@ -291,8 +291,8 @@ u/ParthGupta79
 - **Settings:** Low
 - **Method & Source:** Crossover 23.7 (x64), Cracked
 - **Notes:**
-  - DONT RUN THE GAME WITH DXVK ONLY RUN IT WITH D3D METAL unless you want your mac to be a brick.
-  - Dont turn on fullscreen in the settings it breaks the game.
+  - Don't run the game using DXVK, Use only D3DMetal unless you want your mac to be a brick
+  - Dont turn on fullscreen in the settings it breaks the game
 
 ### Shadow of the Tomb Raider - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
