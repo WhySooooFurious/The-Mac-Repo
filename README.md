@@ -258,14 +258,22 @@ u/ParthGupta79
   - Call of Duty - Black Ops 3
   - Project Cars 3
   - Battlefield 4
-  - War Thunder
-  - Red Dead Redemption 2
   - PalWorld
   - The Witcher 3
   - L.A Noire
   - Resident Evil 7
 
 ## Testing
+
+### War Thunder - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+- **Stability:** Very Stable
+- **Frame Rate:** Excellent
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method & Source:** Native (x64), Steam
+- **Notes:**
+  - Works well
+  - No controller support
 
 ### CarX Drift Online - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Stable
@@ -1091,7 +1099,7 @@ u/ParthGupta79
 - **Settings:** N/A
 - **Method & Source:** Crossover (x64), Cracked
 - **Notes:**
-  - Game doesnt launch
+  - Game doesn't launch
 
  ### Fifa 19 - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** N/A
@@ -1100,4 +1108,13 @@ u/ParthGupta79
 - **Settings:** N/A
 - **Method & Source:** Parallels (x64), Cracked
 - **Notes:**
-  - Game doesnt launch
+  - Game doesn't launch
+ 
+### Red Dead Redemption - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Crossover (x64), Cracked
+- **Notes:**
+  - Game doesn't launch
