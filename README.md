@@ -711,7 +711,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Perfect
 
-### Tomb Raider - u/WhySooooFurious
+### Tomb Raider GOTY - u/WhySooooFurious
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
