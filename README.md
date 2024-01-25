@@ -65,7 +65,7 @@
 
 
 ```
-Method - Game Name - User
+Game (Benchmark) - Macbook - Method (Refer to # Game Settings)
 ```
 - Put the below text into the description 
 ```
