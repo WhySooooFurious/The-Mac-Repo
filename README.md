@@ -1,6 +1,6 @@
 # *Read these sections first!*
   - Use CMD+F to search for games!
-  - Check for changes right now as of 24/01/24! (not american, sorry, not sorry)
+  - Check for changes right now as of 25/01/24! (not american, sorry, not sorry)
 
 ## Links/Contact
 - GitHub
@@ -13,21 +13,6 @@
   - u/TheMacRepo
   - u/WhySooooFurious
   - u/ParthGupta79
-
-## Contributors and their Macs
-- **User:**
-   - u/WhySooooFurious
- - **Device:**
-    - M1 MacBook Air
- - **Specifications:**
-   - 8 Core CPU, 7 Core GPU, 8GB RAM
-
-- **User:**
-  - u/ParthGupta79
- - **Device:**
-   - M2 Macbook Air
-- **Specifications:**
-   - 8 Core CPU, 8 Core GPU, 8GB RAM
 
 ## Notes
 - We either use cracked games because they don't run properly with their launcher OR We don't like the game enough to buy it OR We don't have enough money to buy it
@@ -92,7 +77,26 @@ Method - Game Name - User
 - **Method & Source:** (Refer to # Game Settings)
 - **Notes:** (Anything that may be of interest or important)
 
-https://github.com/WhySooooFurious/My-Mac-Repo
+Recording software used -
+OBS
+
+Editing Software -
+Adobe Premier Pro
+
+Links/Contact -
+
+GitHub -
+https://github.com/WhySooooFurious/My...
+
+YouTube -
+www.youtube.com/@TheMacRepo
+
+ / @themacrepo  
+
+Reddit Contributors -
+u/TheMacRepo
+u/WhySooooFurious
+u/ParthGupta79
 ```
 
 ## Game Settings
@@ -263,7 +267,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 
 ## Testing
 
-### CarX Drift Online - u/ParthGupta79
+### CarX Drift Online - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1920x1200
@@ -272,7 +276,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Experiment with dxvk and d3d metal and check which of them works better
 
-### Battlefield 1 - u/ParthGupta79
+### Battlefield 1 - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 1920x1200
@@ -282,7 +286,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - DONT RUN THE GAME WITH DXVK ONLY RUN IT WITH D3D METAL unless you want your mac to be a brick.
   - Dont turn on fullscreen in the settings it breaks the game.
 
-### Shadow of the Tomb Raider - u/WhySooooFurious
+### Shadow of the Tomb Raider - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050 with FSR
@@ -295,7 +299,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - V-Sync makes it buttery smooth
 
 
-### Red Dead Redemption - u/WhySooooFurious
+### Red Dead Redemption - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1920x1080 with FSR
@@ -307,7 +311,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - FSR doesn't seem to work?
 
 
-### Watch Dogs 2 - u/ParthGupta79
+### Watch Dogs 2 - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 1920x1200
@@ -318,7 +322,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - DXVK (in crossover) (has some weird visual glitches)
   - FPS doesnt change when lowering the resolution below 1920x1200 i think it maybe due to something in transaltion layer that is limiting fps
 
-### Pokemon - Omega Ruby - u/WhySooooFurious
+### Pokemon - Omega Ruby - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Perfect/Excellent
 - **Resolution:** 1680x1050 with Upscaling
@@ -330,7 +334,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - You can disable upscaling or enable it at a small amount because native looks pretty bad
   
 
-### RetroArch - Any Game - u/WhySooooFurious
+### RetroArch - Any Game - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1050
@@ -341,7 +345,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Check RetroArch game list above
   - You might need to play with the cores a bit
 
-### Call of Duty - Modern Warfare 2 - u/WhySooooFurious
+### Call of Duty - Modern Warfare 2 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 800x600
@@ -350,7 +354,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Very bad fps with stutters
  
-### Call of Duty - Modern Warfare 2 - u/WhySooooFurious
+### Call of Duty - Modern Warfare 2 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 800x600
@@ -360,7 +364,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Very bad fps
   - Less stutters than Crossover and still unplayable
 
-### Grand Theft Auto Vice City (Definitive Edition) - u/ParthGupta79
+### Grand Theft Auto Vice City (Definitive Edition) - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good/Perfect
 - **Resolution:** 1920x1200
@@ -370,7 +374,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - there are mild stutters here and there making the fps to go from good to perfect (play around with the settings a bit to find whats perfect for your mac)
   - Game only runs with D3DMetal/GPTK, with DXVK enabled the game loads just fine but only loads the HUD and rest turns black upon trying to run the game.
 
-### Grand Theft Auto V - u/ParthGupta79
+### Grand Theft Auto V - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good/Perfect
 - **Resolution:** 1710x1112
@@ -380,7 +384,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - FPS varies from Good to Perfect depending upon the area of the game
   - Crossover 23.7 broke the game giving some 'Social Club Error 17' error
 
-### Doom 64 - u/ParthGupta79
+### Doom 64 - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1664
@@ -403,7 +407,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Find Ghostrunner/Binaries/Win64/Ghostrunner-Win64-Shipping.exe. Select the exe
   - Run the game and enjoy!
 
-### Need for Speed - Hot Pursuit - u/WhySooooFurious
+### Need for Speed - Hot Pursuit - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 1680x1050
@@ -413,7 +417,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Bad FPS with very bad stutters
   - Unplayable
 
-### Need for Speed - Hot Pursuit - u/WhySooooFurious
+### Need for Speed - Hot Pursuit - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 1680x1050
@@ -423,7 +427,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Bad FPS with very bad stutters
   - Unplayable
 
-### Assetto Corsa - Competizione - u/WhySooooFurious
+### Assetto Corsa - Competizione - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 1680x1050 with FSR
@@ -433,7 +437,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Bad FPS with very bad stutters
   - Unplayable
 
-### Need for Speed - The Run - u/WhySooooFurious
+### Need for Speed - The Run - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -443,7 +447,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Good fps at rare occasions with very bad stutters
   - Will allocate more to see if it is stable
 
-### Call of Duty (Most Games) - u/WhySooooFurious
+### Call of Duty (Most Games) - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 800x600
@@ -454,7 +458,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Will work better in parallels with games like Modern Warfare
   - No black ops games are known to work as of now except Black ops 3 Native (X64)
 
-### The Elder Scrolls V Skyrim Anniversary Edition - u/WhySooooFurious
+### The Elder Scrolls V Skyrim Anniversary Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -465,7 +469,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - No sound from npcs at all even after putting in DLL overrides involving xaudio 6 and 7
   - Every other sound is present 
 
-### Grand Theft Auto V - u/WhySooooFurious
+### Grand Theft Auto V - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 1680x1050
@@ -475,7 +479,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Unplayable
   - Stutters constantly
 
-### Marvel's Spider-Man Remastered - u/ParthGupta79
+### Marvel's Spider-Man Remastered - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 1920x1200
@@ -484,7 +488,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Unplayable 
 
-### Marvel's Spider-Man Remastered - u/WhySooooFurious
+### Marvel's Spider-Man Remastered - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 1680x1050
@@ -494,7 +498,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Unplayable
   - 5 fps with stutters constantly
 
-### The Witcher: Assassins of Kings Enhanced Edition - u/WhySooooFurious
+### The Witcher: Assassins of Kings Enhanced Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -503,7 +507,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Is very stuttery and feels weird with a keyboard?
 
-### Euro Truck Simulator 2 - u/WhySooooFurious
+### Euro Truck Simulator 2 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -513,7 +517,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Looks pretty bad on lower resolutions like 1680x1050
   - 2560x1600 looks better but its still like 30-40fps on low settings
 
-### Dark Souls Remastered - u/ParthGupta79
+### Dark Souls Remastered - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1920x1200
@@ -521,7 +525,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Method & Source:** Crossover 23.6 (x64), Cracked
 - **Notes:**
 
-### Rocket League - u/WhySooooFurious
+### Rocket League - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
@@ -531,7 +535,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Works very well
   - Almost feels like native 
  
-### Rocket League - u/ParthGupta79
+### Rocket League - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1664
@@ -541,7 +545,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Name tags invisible while using DXVK
   - Name tags are visible using D3DMetal
 
-### Stray - u/ParthGupta79
+### Stray - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1920x1200 with MetalFX
@@ -549,7 +553,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Method & Source:** Native (ARM64), Cracked
 - **Notes:**
 
-### Stray - u/WhySooooFurious
+### Stray - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050 with MetalFX
@@ -559,7 +563,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Runs badly but playable
   - Also looks pretty bad
 
-### Lies of P - u/ParthGupta79
+### Lies of P - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 1920x1200 with MetalFX
@@ -568,7 +572,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Can turn the settings all the way up but textures use a lot of ram so it becomes stuttery (FPS at max settings hovers around 30-40)
 
-### Sekiro: Shadows Die Twice  - u/ParthGupta79
+### Sekiro: Shadows Die Twice  - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 1920x1200
@@ -577,7 +581,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - V-Sync was turned on so FPS could've been greater than 60
 
-### Grand theft Auto 4 - u/ParthGupta79
+### Grand theft Auto 4 - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 1920x1200
@@ -586,7 +590,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Experiment with D3Dmetal and DXVk (used DXVK in my case)
   
-### Dark Souls 3 - u/ParthGupta79
+### Dark Souls 3 - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -595,7 +599,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Mild stutters but nothing serious
 
-### God of War - u/ParthGupta79
+### God of War - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050 with FSR
@@ -604,7 +608,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Mild stutters going from good to bad fps at times
 
-### Assassin's Creed: Rogue - u/WhySooooFurious
+### Assassin's Creed: Rogue - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -613,7 +617,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Mild stutters going from good to bad fps at times
 
-### Assassin's Creed: Brotherhood - u/WhySooooFurious
+### Assassin's Creed: Brotherhood - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -622,7 +626,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Mild stutters going from good to bad fps at times
 
-### GTA San Andreas: Definitive Edition - u/WhySooooFurious
+### GTA San Andreas: Definitive Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -632,7 +636,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Runs perfectly
   - Capped to 30fps currently 
 
-### GTA III: Definitive Edition - u/WhySooooFurious
+### GTA III: Definitive Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -642,7 +646,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Runs perfectly
   - Capped to 30fps currently 
 
-### GTA Vice City: Definitive Edition - u/WhySooooFurious
+### GTA Vice City: Definitive Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -652,7 +656,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Runs perfectly
   - Capped to 30fps currently 
 
-### Cyberpunk 2077 - u/WhySooooFurious
+### Cyberpunk 2077 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 800x600
@@ -662,7 +666,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Surprised this ran
   - Settings are as low as I could get and get like 10-15fps
 
-### X-Plane 12 - u/WhySooooFurious
+### X-Plane 12 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
 - **Frame Rate:** Bad
 - **Resolution:** 1680x1050
@@ -672,7 +676,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Sucks with frame rates
   - Playable on lower resolutions which make the game look pretty bad
 
-### X-Plane 11 - u/WhySooooFurious
+### X-Plane 11 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good/Perfect
 - **Resolution:** 1680x1050
@@ -682,7 +686,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Works well
   - Not the best frame rate with high settings
 
-### The Witcher: Enhanced Edition - u/WhySooooFurious
+### The Witcher: Enhanced Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
@@ -692,7 +696,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Neat game
   - Some stutters though
 
-### Terraria - u/WhySooooFurious
+### Terraria - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good/Perfect
 - **Resolution:** 2560x1600
@@ -703,7 +707,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - This works well though
   - Reddit user u/Shadowx972 has pointed out that when choosing hardmode frame rate is significantly lowered, keep in mind settings weren't mentioned
 
-### Stardew Valley - u/WhySooooFurious
+### Stardew Valley - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
@@ -712,7 +716,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Perfect
 
-### Tomb Raider GOTY - u/WhySooooFurious
+### Tomb Raider GOTY - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -722,7 +726,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Great game
   - Can even run on low power mode at 60fps with high settings
 
-### Rise of the Tomb Raider - u/WhySooooFurious
+### Rise of the Tomb Raider - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Good/Perfect
 - **Resolution:** 1680x1050
@@ -733,7 +737,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - High frame rate with low/medium settings
   - I like high settings with 30 fps capped
 
-### Mad Max - u/WhySooooFurious
+### Mad Max - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -744,7 +748,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Steam version didn't launch
   - Crossover works better than native because of native using anoutdated OpenGL translation layer
 
-### Kerbal Space Program - u/WhySooooFurious
+### Kerbal Space Program - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -755,7 +759,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - In terms of performance, It isn't that great
   - I haven't tried low settings yet
 
-### GTA: Vice City - u/WhySooooFurious
+### GTA: Vice City - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
@@ -764,7 +768,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Runs perfectly
 
-### GTA: III - u/WhySooooFurious
+### GTA: III - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
@@ -773,7 +777,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Runs perfectly
 
-### GRID Legends - u/WhySooooFurious
+### GRID Legends - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -783,7 +787,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Nice racing game
   - Works well
 
-### GRID Autosport - u/WhySooooFurious
+### GRID Autosport - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -793,7 +797,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Nice racing game
   - Works well
 
-### F1 2017 - u/WhySooooFurious
+### F1 2017 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -803,7 +807,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Nice racing game
   - Works well
 
-### Euro Truck Simulator - u/WhySooooFurious
+### Euro Truck Simulator - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -814,7 +818,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Works well with no MSAA
   - Everything else on high
 
-### Dirt Rally - u/WhySooooFurious
+### Dirt Rally - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -823,7 +827,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - This is perfect
 
-### Dirt 4 - u/WhySooooFurious
+### Dirt 4 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -832,7 +836,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - This is perfect
 
-### Cities Skylines - u/WhySooooFurious
+### Cities Skylines - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Good
 - **Resolution:** 1680x1050
@@ -842,7 +846,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Badly optimized
   - Playable
 
-### Borderlands 2 - u/WhySooooFurious
+### Borderlands 2 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
@@ -851,7 +855,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Good game, works well
 
-### Art of Rally - u/WhySooooFurious
+### Art of Rally - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
@@ -861,7 +865,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Ok, not bad
   - The game really isn't fun at all
 
-### Absolute Drift - u/WhySooooFurious
+### Absolute Drift - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 2560x1600
@@ -871,7 +875,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Ok, not bad
   - The game's not really fun at all
 
-### Combat Master - u/WhySooooFurious
+### Combat Master - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
@@ -881,7 +885,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Perfect
   - Buttery
 
-### Simple Planes - u/WhySooooFurious
+### Simple Planes - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
@@ -891,7 +895,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Perfect FPS with max res.
   - Depends on the plane you choose and the amount of 'parts' it has
 
-### Resident Evil: Village - u/WhySooooFurious
+### Resident Evil: Village - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Good/Perfect/Excellent
 - **Resolution:** 2560x1600 and MetalFX
@@ -905,7 +909,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - This is how a good game should be
   - My theory is that it is designed for an iPhone and then ported over to Mac with higher graphic settings
 
-### Minecraft: Java Edition - u/WhySooooFurious
+### Minecraft: Java Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 2560x1600
@@ -914,7 +918,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Perfect fps with Fabulously Optimized modpack
 
-### Sleeping Dogs: Definitive Edition - u/WhySooooFurious
+### Sleeping Dogs: Definitive Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -925,7 +929,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Reaches 60 fps and sometimes dips with occasional small stutters
   - Crossover works better than native because of native using an outdated OpenGL translation layer
 
-### No Man's Sky - u/WhySooooFurious
+### No Man's Sky - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 2560x1600 with FSR
@@ -938,7 +942,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Doesn't look magnificent
   - Can reach 60fps with tweaking settings until thermal throttling comes over for dinner
 
-### Dying Light - u/WhySooooFurious
+### Dying Light - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -950,7 +954,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Not many stutters
   - For me, it only launches with D3DMetal option checked
 
-### Grand Theft Auto V - u/WhySooooFurious
+### Grand Theft Auto V - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
@@ -969,7 +973,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 
 ## Games That do not Work at all
 
-### Fifa 15 - u/WhySooooFurious
+### Fifa 15 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -978,7 +982,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Crashes upon launch
 
-### WWE 2K15 - u/WhySooooFurious
+### WWE 2K15 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -987,7 +991,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Crashes upon launch
 
-### Hogwarts Legacy - u/ParthGupta79
+### Hogwarts Legacy - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -997,7 +1001,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - Issue is in the crack because the steam version runs fine.
   - Disabling an os check in the crack might fix the issue
 
-### Fifa 23 - u/ParthGupta79
+### Fifa 23 - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1006,7 +1010,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Doesn't launch
 
-### Sims 2 - Super Collection - u/WhySooooFurious
+### Sims 2 - Super Collection - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1015,7 +1019,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Crashes upon launch
 
-### Vintage Story - u/WhySooooFurious
+### Vintage Story - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1024,7 +1028,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Doesn't load
  
-### Need for Speed - The Run - u/WhySooooFurious
+### Need for Speed - The Run - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1033,7 +1037,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Expected, Doesn't launch
 
-### Fall Guys - u/ParthGupta79
+### Fall Guys - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1042,7 +1046,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - EAC detects CPU architecture [ARM] not supported
 
- ### Fall Guys - u/ParthGupta79
+ ### Fall Guys - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1051,7 +1055,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - EAC detects CPU architecture [ARM] not supported
 
-### Gang Beasts - u/ParthGupta79
+### Gang Beasts - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1060,7 +1064,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Doesn't get past the press any button screen (Might work with a controller but not sure)
  
-### Assetto Corsa - u/WhySooooFurious
+### Assetto Corsa - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1069,7 +1073,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Menu works and doesn't go past that
 
- ### Assetto Corsa - u/WhySooooFurious
+ ### Assetto Corsa - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1078,7 +1082,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Menu works and doesn't go past that
 
-### Fifa 19 - u/ParthGupta79
+### Fifa 19 - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
@@ -1087,7 +1091,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
 - **Notes:**
   - Game doesnt launch
 
- ### Fifa 19 - u/ParthGupta79
+ ### Fifa 19 - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** N/A
 - **Frame Rate:** N/A
 - **Resolution:** N/A
