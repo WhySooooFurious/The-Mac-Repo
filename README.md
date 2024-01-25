@@ -259,6 +259,7 @@ https://github.com/WhySooooFurious/My-Mac-Repo
   - PalWorld
   - The Witcher 3
   - L.A Noire
+  - Resident Evil 7
 
 ## Testing
 
