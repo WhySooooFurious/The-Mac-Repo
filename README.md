@@ -261,6 +261,7 @@ u/ParthGupta79
   - The Witcher 3
   - L.A Noire
   - Resident Evil 7
+  - Star Wars Fallen Order
 
 ## Testing
 
