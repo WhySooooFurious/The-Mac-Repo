@@ -255,13 +255,13 @@ u/ParthGupta79
   - LukeFZ FS3 Frame Generation and Upscaling on a couple of Crossover games
  
 ## Games To be Tested
-  - Call of Duty - Black Ops 3
-  - Battlefield 4
-  - PalWorld
-  - The Witcher 3
-  - L.A Noire
-  - Resident Evil 7
-  - Star Wars Fallen Order
+  - Call of Duty - Black Ops 3 - Downloading
+  - Battlefield 4 - Testing Phase
+  - PalWorld - Downloading
+  - The Witcher 3 - Downloading
+  - L.A Noire - Downloaded
+  - Resident Evil 7 - Downloading
+  - Star Wars Fallen Order - Initital Downloading
 
 ## Testing
 
