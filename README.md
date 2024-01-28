@@ -290,6 +290,7 @@ u/ParthGupta79
 - **Resolution:** 1920x1200
 - **Settings:** Low
 - **Method & Source:** Crossover 23.7 (x64), Cracked
+- **Benchmark:** https://www.youtube.com/watch?v=g4rQjm1eKWQ&t=254s
 - **Notes:**
   - Don't run the game using DXVK, Use only D3DMetal unless you want your mac to be a brick
   - Dont turn on fullscreen in the settings it breaks the game
@@ -587,6 +588,7 @@ u/ParthGupta79
 - **Resolution:** 1920x1200
 - **Settings:** Low 
 - **Method & Source:** Crossover 23.6 (x64), Cracked
+- **Benchmark:** https://www.youtube.com/watch?v=EtdgmbJ3_C4&t=44s
 - **Notes:**
   - V-Sync was turned on so FPS could've been greater than 60
 
@@ -901,6 +903,7 @@ u/ParthGupta79
 - **Resolution:** 2560x1600
 - **Settings:** High
 - **Method & Source:** Rosetta (x64), Mac App Store
+- **Benchmark:** https://www.youtube.com/watch?v=FUmYGdBokTw&t=3s
 - **Notes:**
   - Perfect FPS with max res.
   - Depends on the plane you choose and the amount of 'parts' it has
