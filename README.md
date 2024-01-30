@@ -265,6 +265,7 @@ u/ParthGupta79
   - Assassins Creed Black Flag - Testing
   - Guardians of the Galaxy - Downloading
   - WWE SmackDown Here comes the Pain - Downloading
+  - Lethal Company - Downloading
 
 ## Testing
 
