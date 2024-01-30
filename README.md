@@ -256,12 +256,12 @@ u/ParthGupta79
  
 ## Games To be Tested
   - Call of Duty - Black Ops 3 - Downloading
-  - Battlefield 4 - Testing Phase
+  - Battlefield 4 - Testing Phase - delayed
   - PalWorld - Testing
   - The Witcher 3 - Testing
   - L.A Noire - Downloaded
-  - Resident Evil 7 - Downloading
-  - Star Wars Fallen Order - Initital Downloading
+  - Resident Evil 7 - Downloading - delayed
+  - Star Wars Fallen Order - Downloading - delayed
   - Assassins Creed Black Flag - Testing
   - Guardians of the Galaxy - Downloading
   - WWE SmackDown Here comes the Pain - Downloading
