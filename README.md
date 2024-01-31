@@ -1,6 +1,7 @@
 # *Read these sections first!*
   - Use CMD+F to search for games!
-  - Check for changes right now as of 25/01/24! (not american, sorry, not sorry)
+  - Check for changes right now as of 01/02/24! (not american, sorry, not sorry)
+  - My school has started so that means that I will test games less consistently as I used to do
 
 ## Links/Contact
 - GitHub
@@ -254,7 +255,7 @@ u/ParthGupta79
   - LukeFZ FS3 Frame Generation and Upscaling on a couple of Crossover games
  
 ## Games To be Tested
-  - Call of Duty - Black Ops 3 - Downloading
+  - Call of Duty - Black Ops 3 - Testing phase!
   - Battlefield 4 - Testing - delayed
   - PalWorld - Testing
   - The Witcher 3 - Testing
