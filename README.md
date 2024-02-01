@@ -256,7 +256,7 @@ u/ParthGupta79
  
 ## Games To be Tested
   - Call of Duty - Black Ops 3 - Testing phase!
-  - Battlefield 4 - Testing - delayed
+  - Battlefield 4 - Tested - not working - will add later on
   - PalWorld - Testing
   - The Witcher 3 - Testing
   - L.A Noire - Downloaded
