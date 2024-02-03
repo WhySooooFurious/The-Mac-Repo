@@ -269,6 +269,17 @@ u/ParthGupta79
 
 ## Testing
 
+### Call of Duty - Black Ops 3 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+- **Stability:** Stable
+- **Frame Rate:** Perfect
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method & Source:** Native (x64), Steam
+- **Notes:**
+  - Campaign doesn't seem to work
+  - Zombies does work
+  - For some reason, selecting a male character in campaign freezes the game
+
 ### War Thunder - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
