@@ -255,7 +255,6 @@ u/ParthGupta79
   - LukeFZ FS3 Frame Generation and Upscaling on a couple of Crossover games
  
 ## Games To be Tested
-  - Call of Duty - Black Ops 3 - Tested - will add later on
   - Battlefield 4 - Tested - will add later on
   - PalWorld - Testing
   - The Witcher 3 - Testing
