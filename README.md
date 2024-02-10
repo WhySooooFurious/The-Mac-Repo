@@ -1,6 +1,6 @@
 # *Read these sections first!*
   - Use CMD+F to search for games!
-  - Check for changes right now as of 01/02/24! (not american, sorry, not sorry)
+  - Check for changes right now as of 10/02/24! (not american, sorry, not sorry)
   - My school has started so that means that I will test games less consistently as I used to do
 
 ## Links/Contact
@@ -265,6 +265,7 @@ u/ParthGupta79
   - Guardians of the Galaxy - Downloading
   - WWE SmackDown Here comes the Pain - Downloading
   - Lethal Company - Downloading
+  - Star Wars Battlefront 2 - Downloading
 
 ## Testing
 
