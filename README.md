@@ -266,6 +266,7 @@ u/ParthGupta79
   - WWE SmackDown Here comes the Pain - Downloading
   - Lethal Company - Downloading
   - Star Wars Battlefront 2 - Downloading
+  - Death Stranding - Tested - will add later on
 
 ## Testing
 
