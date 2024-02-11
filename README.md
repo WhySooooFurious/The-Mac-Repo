@@ -1,16 +1,17 @@
 # *Read these sections first!*
   - Use CMD+F to search for games!
-  - Check for changes right now as of 10/02/24! (not american, sorry, not sorry)
+  - Check for changes right now as of 11/02/24! (not american, sorry, not sorry)
   - My school has started so that means that I will test games less consistently as I used to do
 
 ## Links/Contact
 - GitHub
-  - https://github.com/WhySooooFurious/My-Mac-Repo
+  - https://github.com/WhySooooFurious/The-Mac-Repo
 
 - YouTube
   - www.youtube.com/@TheMacRepo
 
 - Reddit Contributors
+  - u/TheMacRepo
   - u/WhySooooFurious
   - u/ParthGupta79
 
@@ -45,81 +46,7 @@
 - **CPU:** 4 Cores
 - **RAM:** 4 GB
 
-## Github Format
-```
-### (Game Name) - (Contributor Reddit Name) - (MacBook Details: (Refer to # Game Settings)
-- **Stability:** (Refer to # Game Settings)
-- **Frame Rate:** (Refer to # Game Settings)
-- **Resolution:** (Refer to # Game Settings)
-- **Settings:** (Refer to # Game Settings)
-- **Method & Source:** *Refer to # Game Settings)
-- **Notes:** (Anything that may be of interest or important)
-```
-- Please replace the text surrounded by brackets only!
-- Don't remove all the asterisks or colons as they are useful in formatting
-- Also, please remove the brackets
-
-## YouTube Format
-- The things you have to worry about is the video title and description
-- The same as the Gitub format for description
-
-
-```
-Game (Benchmark) - Macbook - Method (Refer to # Game Settings)
-```
-- Put the below text into the description 
-```
-### Game Name - Contributor Reddit Name - MacBook Details: (Refer to # Game Settings)
-- **Stability:** (Refer to # Game Settings)
-- **Frame Rate:** (Refer to # Game Settings)
-- **Resolution:** (Refer to # Game Settings)
-- **Settings:** (Refer to # Game Settings)
-- **Method & Source:** (Refer to # Game Settings)
-- **Notes:** (Anything that may be of interest or important)
-
-Recording software used -
-OBS
-
-Editing Software -
-Adobe Premier Pro
-
-Links/Contact -
-
-GitHub -
-https://github.com/WhySooooFurious/My...
-
-YouTube -
-www.youtube.com/@TheMacRepo
-
- / @themacrepo  
-
-Reddit Contributors -
-u/TheMacRepo
-u/WhySooooFurious
-u/ParthGupta79
-```
-
 ## Game Settings
-
-- **Macbook Details:**
-  - **MacBook Model:**
-    - Specify your MacBook model preferably along with the year for Intel Models
-  - **CPU:**
-    - Specify the amount of cores
-  - **GPU:**
-    - Specify the GPU/iGPU, if applicable for Intel Models
-    - Specify the amount of GPU cores for Apple Silicon
-  - **RAM:**
-    - Specify the amount of RAM
-  - **Additional Hardware/Upgrades:**
-    - Any additional hardware information or upgrades such as the thermal mod
-
-- Make sure to seperate all this using commas like the example down below
-
-  - M3 Pro, 14-Inch Macbook Pro, CPU, 11 Core, 18GB RAM
-  - M1, Macbook Air , 8 Core CPU, 7 Core GPU, 8GB RAM, Thermal Modded
-  - Intel Core i5, Macbook Air (Early 2015), 4 Core CPU, Intel HD Graphics 5300, 8GB RAM
-
 
 - **Stability:**
   - **Not Stable:**
@@ -141,8 +68,8 @@ u/ParthGupta79
   - Frame rates in between are rounded to their respective categories
 
 - **Resolution:**
-  - Specify the resolution at which the game is being played at
-  - Also mention if you're using something like FSR or MetalFX e.g 1680x1050 and FSR (Usage of FSR and MetalFX adds a great boost in fps albeit sacrificing some quality)
+  - Specified resolution at which the game is being played at
+  - Things like MetalFX and FSR are also mentioned e.g 1680x1050 and FSR (Usage of FSR and MetalFX adds a great boost in fps albeit sacrificing some quality)
 
 - **Settings:**
   - **Low:**
@@ -167,6 +94,9 @@ u/ParthGupta79
       - Make sure you put the emulator name and version e.g Retroarch 1.16.0
     - **Source:**
       - Where you got the game from e,g Cracked or or alternatively something like this: Mac App Store
+     
+   - **Benchmark:**
+     - YouTube Benchmark link
    
 ## FAQ/Q&A
 
