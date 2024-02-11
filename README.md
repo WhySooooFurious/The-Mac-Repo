@@ -269,15 +269,15 @@ u/ParthGupta79
 
 ## Testing
 
-### Call of Duty - Black Ops 3 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+### Death Stranding - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
 - **Frame Rate:** Perfect
-- **Resolution:** 1680x1050 with FSR
+- **Resolution:** 1680x1050 with MetalFX
 - **Settings:** Low
 - **Method & Source:** Native (x64), Mac App Store
 - **Notes:**
   - Works perfectly
-  - Looks pretty bad though
+  - Looks pretty bad though with my settings
 
 ### Call of Duty - Black Ops 3 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
