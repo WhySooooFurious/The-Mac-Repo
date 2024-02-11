@@ -862,6 +862,7 @@ u/ParthGupta79
 - **Resolution:** 1680x1050
 - **Settings:** High
 - **Method & Source:** Native (x64), Steam
+- **Benchmark:** https://youtu.be/6T_BRXDl_rE
 - **Notes:**
   - This is perfect
 
@@ -871,6 +872,7 @@ u/ParthGupta79
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Native (x64), Steam
+- **Benchmark:** https://youtu.be/BJZ0vYxQR9w
 - **Notes:**
   - This is perfect
 
