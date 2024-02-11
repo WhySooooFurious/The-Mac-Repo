@@ -275,6 +275,7 @@ u/ParthGupta79
 - **Resolution:** 1680x1050 with MetalFX
 - **Settings:** Low
 - **Method & Source:** Native (x64), Mac App Store
+- **Benchmark:** https://youtu.be/sfYfIz4-fks
 - **Notes:**
   - Works perfectly
   - Looks pretty bad though with my settings
