@@ -260,15 +260,24 @@ u/ParthGupta79
   - The Witcher 3 - Testing
   - L.A Noire - Downloaded
   - Resident Evil 7 - Testing
-  - Star Wars Fallen Order - Downloading - delayed
+  - Star Wars Fallen Order - Downloaded - low priority
   - Assassins Creed Black Flag - Testing
   - Guardians of the Galaxy - Downloading
   - WWE SmackDown Here comes the Pain - Downloading
   - Lethal Company - Downloading
-  - Star Wars Battlefront 2 - Downloading
-  - Death Stranding - Tested - will add later on
+  - Star Wars Battlefront 2 - Downloaded - low priority
 
 ## Testing
+
+### Call of Duty - Black Ops 3 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+- **Stability:** Very Stable
+- **Frame Rate:** Perfect
+- **Resolution:** 1680x1050 with FSR
+- **Settings:** Low
+- **Method & Source:** Native (x64), Mac App Store
+- **Notes:**
+  - Works perfectly
+  - Looks pretty bad though
 
 ### Call of Duty - Black Ops 3 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
