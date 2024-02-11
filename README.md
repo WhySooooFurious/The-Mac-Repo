@@ -188,7 +188,7 @@
   - PalWorld - Testing
   - The Witcher 3 - Testing
   - L.A Noire - Downloaded
-  - Resident Evil 7 - Testing
+  - Resident Evil 7 - Tested - will add later on
   - Star Wars Fallen Order - Downloaded - low priority
   - Assassins Creed Black Flag - Testing
   - Guardians of the Galaxy - Downloading
