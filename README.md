@@ -255,7 +255,6 @@ u/ParthGupta79
   - LukeFZ FS3 Frame Generation and Upscaling on a couple of Crossover games
  
 ## Games To be Tested
-  - Battlefield 4 - Tested - will add later on
   - PalWorld - Testing
   - The Witcher 3 - Testing
   - L.A Noire - Downloaded
@@ -1159,3 +1158,13 @@ u/ParthGupta79
 - **Notes:**
   - Game doesn't get past main menu
   - Seems pretty stuttery still
+ 
+### Battlefield 4 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+- **Stability:** N/A
+- **Frame Rate:** N/A
+- **Resolution:** N/A
+- **Settings:** N/A
+- **Method & Source:** Crossover 23.7 (x64), Cracked
+- **Notes:**
+  - Game doesn't launch
+  - Stuck on black screen
