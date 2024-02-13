@@ -1,6 +1,6 @@
 # *Read these sections first!*
   - Use CMD+F to search for games!
-  - Check for changes right now as of 11/02/24! (not american, sorry, not sorry)
+  - Check for changes right now as of 13/02/24! (not american, sorry, not sorry)
   - My school has started so that means that I will test games less consistently as I used to do
 
 ## Links/Contact
@@ -8,7 +8,7 @@
   - https://github.com/WhySooooFurious/The-Mac-Repo
 
 - YouTube
-  - www.youtube.com/@TheMacRepo
+  - https://www.youtube.com/@TheMacRepo
 
 - Reddit Contributors
   - u/TheMacRepo
@@ -24,14 +24,13 @@
 
 ## Important Notes
 - **Thermal Throttling:**
-  - It will happen on some Macs, such as mine. Keep that in mind; these are mostly all burst tests, so expect some drop in frame rates over a longer period of time
+  - It will happen on some Macs, such as mine. Keep that in mind; these are mostly all burst tests, so expect some drop in frame rates over a longer period of time if using a fanless Macbook
 - **Different Macs:** 
   - Contributors have different macs so make sure you've looked at their specs. The person who has tested the game will have their reddit username next to the title of the game
   - Contributors will try to use the settings listed below unless otherwise specified
 - **You can help by:**
   - You can help us by telling me how a game runs using the format below and messaging the contributors on reddit or by creating a pull request and using the format below
   - Creating a 10 minute video on a game with MetalHUD and submitting it through a pull request
-
 
 ## PlayCover Settings
 - Nothing really to put here except we use decrypt.day and armconverter.com for ipas
@@ -46,7 +45,7 @@
 - **CPU:** 4 Cores
 - **RAM:** 4 GB
 
-## Game Settings
+## Game Settings (Please read this)
 
 - **Stability:**
   - **Not Stable:**
@@ -85,11 +84,11 @@
  
  - **Method & Source:**
     - **Crossover:**
-      - Make sure to put the version name and game architecture e.g: Crossover 23.7 (x64) or alternatively something like this: Crossover 22 (x32). Depending what you have got
+      - Make sure to put the version name and game architecture e.g: Crossover 23.7 (x64) or alternatively something like this: Crossover 22 (x32). Depending what architecture the game is
     - **Parallels:**
-      - Make sure to put the version name and game architecture e.g: Parallels 19 (x32) or alternatively something like this: Parallels 18 (x64). Depending what you have got
+      - Make sure to put the version name and game architecture e.g: Parallels 19 (x32) or alternatively something like this: Parallels 18 (x64). Depending what architecture the game is
     - **Native:**
-      - Make sure you put the game architecture e.g Native (ARM64) or alternatively something like this: Native (x64). Depending what you have got
+      - Make sure you put the game architecture e.g Native (ARM64) or alternatively something like this: Native (x64). Depending what architecture your game is
     - **Emulator:**
       - Make sure you put the emulator name and version e.g Retroarch 1.16.0
     - **Source:**
@@ -97,90 +96,10 @@
      
    - **Benchmark:**
      - YouTube Benchmark link
+
+   - **Notes:**
+     - Just some extra info you should know about
    
-## FAQ/Q&A
-
-**My Macbook is getting hot/warm to the touch?**
-- Don't worry at all, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures or shut dowm themselves if the temperature it too high
-
-**What does having an Apple Silicon/M-Series chip mean?**
-- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and less powerful budget laptops, it is *very* power efficient and can be powerful as well while being compared to some Intel chips There are advantages and sadly some disadvantages, listed below
-
-- **Pros:**
-   - Power Efficient which will result in more battery life
-   - Perfomance compared to Intel equivalents in the Macbook line are very great
-   - Quieter devices 
-   - Better integrated graphics performance and support
-   - Ability to run iPhone/iPad apps on your mac natively through apps like PlayCover
-   - Through the use of Rosetta 2 x64 apps are still supported, quite well I might add
-   - Unified Architecture
-
- - **Cons:**
-    - No support for Windows or Bootcamp unless using software such as UTM and Parallels which will also have to be ARM64
-    - Needing apps such as Crossover and Parallels to game apps that are not supported on macOS
-    - No EGPU support
-    - Only one external display
-    - Bad/Obsolete x32 application support, this will likely not improve in the future
-    - Needing Rosetta 2 in order to run x64 apps which will have performance loss
-    - Applications might need updating, especially system extensions which will need to get updated from x64 to ARM64
-    - Cannot emulate Android
-
-**What does having an Intel chip mean?**
-- You will most likely have one with an integrated GPU which will result in very poor gaming ability
-- Intel Macs with a GPU can be good to game on
-- Unlike Apple Silicon macs you will have access to the cons listed above
-
-**What is Bootcamp?**
-- Bootcamp is an application created by Apple that allows Intel Macs to get Windows, This can help Intel Mac users in order to get Windows-Only applications or simply just having Windows on your Mac
-
-**Should I buy a Mac for gaming?**
-- If you're going to buy a Mac just for gaming you will get laughed at
-- If you're looking to buy a good reputable laptop with great build quality for school/work with the added benefit of gaming well for a laptop, yes you should
-
-**I bought an Apple Silicon Mac for gaming, How do I game on it?**
- - First of all, there are 4 main ways in order to game
-
-  - **Crossover/Whisky:**
-    - Apps that both utilise WINE which translates Windows API calls to MacOS API calls allowing the game to run through Rosetta 2, the translation layer from x64 to ARM64
-    - This is a great option for gaming although x32 games will run horribly
-    - Some games may not even launch if they might require other resources that WINE cannot provide
-
- - **Parallels:**
-    - Virtualisation which involves running the Windows 10/11 ARM64 version on your mac
-    - This method has way more compatability than Crossover and can also run x32 with higher performance
-    - Also great for Windows Store applications, Windows apps in general and running applications that don't work with WINE apps
-
- - **Emulators**
-    - This is a great option for playing old games up to PS3 or even PS4 in some cases but it might not work well with newer consoles and titles
-    - I personally use RetroArch for older games such as (a good alternative is OpenEMU although RetroArch is easier on the eyes):
-      - Amstrad - Amstrad CPC
-      - Atari - 2600
-      - Atari - 5200
-      - Atari - 7800
-      - Bandai - WonderSwan Color
-      - Coleco - ColecoVision
-      - Hudson Soft - PC Engine/TurboGrafx-16
-      - Nintendo - Gameboy
-      - Nintendo - Gameboy Color
-      - Nintendo - Gameboy Advance
-      - Nintendo - Nintendo DS
-      - Nintendo - Nintendo Entertainment System
-      - Nintendo - Super Nintendo Entertainment System
-      - Sega - Game Gear
-      - Sega - Master System - Mark III
-      - Sega - Mega Drive - Genesis
-      - Sega - SG1000
-      - SNK - Neo Geo Pocket Color
-      - Sord - Sord M5
-  - For PS3 emulation you can use RPCS3, although it is very experimental and only some games are playable
-  - For Nintendo 3DS emulation you can use Citra which is also experimental but stable
-
-  - **Native Games**
-    - This is the easiest and least time consuming
-    - This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games
-    - Keep in mind that Windows games will not install at all
-    - These are just games made for macOS and macOS only!
-
 ## Things To be Tested
   - LukeFZ FS3 Frame Generation and Upscaling on a couple of Crossover games
  
@@ -188,7 +107,7 @@
   - PalWorld - Testing
   - The Witcher 3 - Testing
   - L.A Noire - Downloaded
-  - Resident Evil 7 - Tested - will add later on
+  - Resident Evil 7 - Tested - will add later on 
   - Star Wars Fallen Order - Downloaded - low priority
   - Assassins Creed Black Flag - Testing
   - Guardians of the Galaxy - Downloading
@@ -210,13 +129,13 @@
   - Looks pretty bad though with my settings
 
 ### Call of Duty - Black Ops 3 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
-- **Stability:** Stable
+- **Stability:** VeryStable
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
 - **Settings:** Low
 - **Method & Source:** Native (x64), Steam
 - **Notes:**
-  - Campaign doesn't seem to work
+  - Campaign doesn't seem to work after a few seconds into the first cutscene
   - Zombies does work
   - For some reason, selecting a male character in campaign freezes the game
 
@@ -288,7 +207,7 @@
 
 ### Pokemon - Omega Ruby - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
-- **Frame Rate:** Perfect/Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 1680x1050 with Upscaling
 - **Settings:** Maxed
 - **Method & Source:** Citra Nightly 2079
@@ -309,24 +228,6 @@
   - Check RetroArch game list above
   - You might need to play with the cores a bit
 
-### Call of Duty - Modern Warfare 2 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
-- **Stability:** Not Stable
-- **Frame Rate:** Bad
-- **Resolution:** 800x600
-- **Settings:** Low
-- **Method & Source:** Crossover 23.6 (x32), Cracked
-- **Notes:**
-  - Very bad fps with stutters
- 
-### Call of Duty - Modern Warfare 2 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
-- **Stability:** Not Stable
-- **Frame Rate:** Bad
-- **Resolution:** 800x600
-- **Settings:** Low
-- **Method & Source:** Parallels (x32), Cracked
-- **Notes:**
-  - Very bad fps
-  - Less stutters than Crossover and still unplayable
 
 ### Grand Theft Auto Vice City (Definitive Edition) - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Stable
@@ -433,35 +334,6 @@
   - Slight stuttering
   - No sound from npcs at all even after putting in DLL overrides involving xaudio 6 and 7
   - Every other sound is present 
-
-### Grand Theft Auto V - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
-- **Stability:** Not Stable
-- **Frame Rate:** Bad
-- **Resolution:** 1680x1050
-- **Settings:** Low
-- **Method & Source:** Parallels 19 (x64), Epic Games
-- **Notes:**
-  - Unplayable
-  - Stutters constantly
-
-### Marvel's Spider-Man Remastered - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
-- **Stability:** Not Stable
-- **Frame Rate:** Bad
-- **Resolution:** 1920x1200
-- **Settings:** Low
-- **Method & Source:** Crossover 23.6 (x64), Steam
-- **Notes:**
-  - Unplayable 
-
-### Marvel's Spider-Man Remastered - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
-- **Stability:** Not Stable
-- **Frame Rate:** Bad
-- **Resolution:** 1680x1050
-- **Settings:** Low
-- **Method & Source:** Crossover 23.6 (x64), Steam
-- **Notes:**
-  - Unplayable
-  - 5 fps with stutters constantly
 
 ### The Witcher: Assassins of Kings Enhanced Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
@@ -622,16 +494,6 @@
 - **Notes:**
   - Runs perfectly
   - Hard Capped to 30fps currently 
-
-### Cyberpunk 2077 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
-- **Stability:** Not Stable
-- **Frame Rate:** Bad
-- **Resolution:** 800x600
-- **Settings:** Low
-- **Method & Source:** Crossover 23.6 (x64), Steam
-- **Notes:**
-  - Surprised this even ran
-  - Settings are as low as I could get and get like 10-15fps
 
 ### X-Plane 12 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
@@ -939,8 +801,9 @@
   - When you're near other players, fps drops as well
   - With D3DMetal, V-Sync doesn't work whether turned on or off in-game settings, broken
   - Cracked works a bit better, in terms of usability, No need to use Heroic if using the Epic Games Store for example
-  - Crossover 23.7 breaks the game
+  - Crossover 23.7.1 breaks the game
   - 2560X1600 works at around 45fps
+  - Crossover 24 Beta 2 brings a lot of performance; I'll change these results shortly
 
 ## Games That do not Work at all
 
@@ -1040,7 +903,7 @@
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A
-- **Method & Source:** Parallels (x64), Cracked
+- **Method & Source:** Parallels 19 (x64), Cracked
 - **Notes:**
   - Menu works and doesn't go past that
 
@@ -1058,7 +921,7 @@
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A
-- **Method & Source:** Crossover (x64), Cracked
+- **Method & Source:** Crossover 23.7 (x64), Cracked
 - **Notes:**
   - Game doesn't launch
 
@@ -1067,7 +930,7 @@
 - **Frame Rate:** N/A
 - **Resolution:** N/A
 - **Settings:** N/A
-- **Method & Source:** Parallels (x64), Cracked
+- **Method & Source:** Parallels 19 (x64), Cracked
 - **Notes:**
   - Game doesn't launch
  
@@ -1099,3 +962,145 @@
 - **Notes:**
   - Game doesn't launch
   - Stuck on black screen
+
+### Call of Duty - Modern Warfare 2 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 800x600
+- **Settings:** Low
+- **Method & Source:** Crossover 23.6 (x32), Cracked
+- **Notes:**
+  - Very bad fps with stutters
+ 
+### Call of Duty - Modern Warfare 2 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 800x600
+- **Settings:** Low
+- **Method & Source:** Parallels 19 (x32), Cracked
+- **Notes:**
+  - Very bad fps
+  - Less stutters than Crossover and still unplayable
+
+### Cyberpunk 2077 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 800x600
+- **Settings:** Low
+- **Method & Source:** Crossover 23.6 (x64), Steam
+- **Notes:**
+  - Surprised this even ran
+  - Settings are as low as I could get and get like 10-15fps
+
+### Grand Theft Auto V - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method & Source:** Parallels 19 (x64), Epic Games
+- **Notes:**
+  - Unplayable
+  - Stutters constantly
+
+### Marvel's Spider-Man Remastered - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 1920x1200
+- **Settings:** Low
+- **Method & Source:** Crossover 23.6 (x64), Steam
+- **Notes:**
+  - Unplayable 
+
+### Marvel's Spider-Man Remastered - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
+- **Stability:** Not Stable
+- **Frame Rate:** Bad
+- **Resolution:** 1680x1050
+- **Settings:** Low
+- **Method & Source:** Crossover 23.6 (x64), Steam
+- **Notes:**
+  - Unplayable
+  - 5 fps with stutters constantly
+
+## FAQ/Q&A
+
+**My Macbook is getting hot/warm to the touch?**
+- Don't worry at all, nothing will happen. When in use or under a bit of stress electronics tend to get hot. Macbooks will automatically throttle/reduce performance in order to meet correct temperatures or shut dowm themselves if the temperature it too high
+
+**What does having an Apple Silicon/M-Series chip mean?**
+- This is an apple designed chip based on the ARM64 architecture, commonly used in phones and less powerful budget laptops, it is *very* power efficient and can be powerful as well while being compared to some Intel chips There are advantages and sadly some disadvantages, listed below
+
+- **Pros:**
+   - Power Efficient which will result in more battery life
+   - Perfomance compared to Intel equivalents in the Macbook line are very great
+   - Quieter devices 
+   - Better integrated graphics performance and support
+   - Ability to run iPhone/iPad apps on your mac natively through apps like PlayCover
+   - Through the use of Rosetta 2 x64 apps are still supported, quite well I might add
+   - Unified Architecture
+
+ - **Cons:**
+    - No support for Windows or Bootcamp unless using software such as UTM and Parallels which will also have to be ARM64
+    - Needing apps such as Crossover and Parallels to game apps that are not supported on macOS
+    - No EGPU support
+    - Only one external display
+    - Bad/Obsolete x32 application support, this will likely not improve in the future
+    - Needing Rosetta 2 in order to run x64 apps which will have performance loss
+    - Applications might need updating, especially system extensions which will need to get updated from x64 to ARM64
+    - Cannot emulate Android
+
+**What does having an Intel chip mean?**
+- You will most likely have one with an integrated GPU which will result in very poor gaming ability
+- Intel Macs with a GPU can be good to game on
+- Unlike Apple Silicon macs you will have access to the cons listed above
+
+**What is Bootcamp?**
+- Bootcamp is an application created by Apple that allows Intel Macs to get Windows, This can help Intel Mac users in order to get Windows-Only applications or simply just having Windows on your Mac
+
+**Should I buy a Mac for gaming?**
+- If you're going to buy a Mac just for gaming you will get laughed at
+- If you're looking to buy a good reputable laptop with great build quality for school/work with the added benefit of gaming well for a laptop, yes you should
+
+**I bought an Apple Silicon Mac for gaming, How do I game on it?**
+ - First of all, there are 4 main ways in order to game
+
+  - **Crossover/Whisky:**
+    - Apps that both utilise WINE which translates Windows API calls to MacOS API calls allowing the game to run through Rosetta 2, the translation layer from x64 to ARM64
+    - This is a great option for gaming although x32 games will run horribly
+    - Some games may not even launch if they might require other resources that WINE cannot provide
+
+ - **Parallels:**
+    - Virtualisation which involves running the Windows 10/11 ARM64 version on your mac
+    - This method has way more compatability than Crossover and can also run x32 with higher performance
+    - Also great for Windows Store applications, Windows apps in general and running applications that don't work with WINE apps
+
+ - **Emulators**
+    - This is a great option for playing old games up to PS3 or even PS4 in some cases but it might not work well with newer consoles and titles
+    - I personally use RetroArch for older games such as (a good alternative is OpenEMU although RetroArch is easier on the eyes):
+      - Amstrad - Amstrad CPC
+      - Atari - 2600
+      - Atari - 5200
+      - Atari - 7800
+      - Bandai - WonderSwan Color
+      - Coleco - ColecoVision
+      - Hudson Soft - PC Engine/TurboGrafx-16
+      - Nintendo - Gameboy
+      - Nintendo - Gameboy Color
+      - Nintendo - Gameboy Advance
+      - Nintendo - Nintendo DS
+      - Nintendo - Nintendo Entertainment System
+      - Nintendo - Super Nintendo Entertainment System
+      - Sega - Game Gear
+      - Sega - Master System - Mark III
+      - Sega - Mega Drive - Genesis
+      - Sega - SG1000
+      - SNK - Neo Geo Pocket Color
+      - Sord - Sord M5
+  - For PS3 emulation you can use RPCS3, although it is very experimental and only some games are playable
+  - For Nintendo 3DS emulation you can use Citra which is also experimental but stable
+
+  - **Native Games**
+    - This is the easiest and least time consuming
+    - This method involves just finding games that either support x64 or ARM64 through vendors such as Playcover, Mac App Store, Steam or Epic Games
+    - Keep in mind that Windows games will not install at all
+    - These are just games made for macOS and macOS only!
+
