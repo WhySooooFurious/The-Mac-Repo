@@ -17,7 +17,7 @@
 
 ## Notes
 - We either use cracked games because they don't run properly with their launcher OR We don't like the game enough to buy it OR We don't have enough money to buy it
-- Cracked games have the same performance than non cracked games (some have drm protection like Denuvo which worsens the performance, cracked games hence perfrom better in these cases)
+- Cracked games have the same performance than non cracked games (some have drm protection like Denuvo which worsens the performance, cracked games hence perform better in these cases)
 - You can request games to be tested by messaging the contributors on reddit or by creating a pull request
 - Whisky is basically the same as Crossover but free and better and it is what We prefer because it doesn't break everything every update!
 - We will still put Crossover as what is being used to avoid confusion for the most part, Whisky and Crossover are basically the same
