@@ -481,6 +481,7 @@
 - **Notes:**
   - Looks pretty bad on lower resolutions like 1680x1050
   - 2560x1600 looks better but its still like 30-40fps on low settings
+  - Some stutters
 
 ### Dark Souls Remastered - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Very Stable
@@ -498,7 +499,7 @@
 - **Method & Source:** Parallels 19 (x64), Epic games
 - **Notes:**
   - Works very well
-  - Almost feels like native 
+  - Feels like a native game
  
 ### Rocket League - u/ParthGupta79 - M2, Macbook Air, 8 Core CPU, 8 Core GPU, 8GB RAM
 - **Stability:** Very Stable
@@ -600,7 +601,7 @@
 - **Method & Source:** Native (ARM64), Playcover
 - **Notes:**
   - Runs perfectly
-  - Capped to 30fps currently 
+  - Hard Capped to 30fps currently 
 
 ### GTA III: Definitive Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
@@ -610,7 +611,7 @@
 - **Method & Source:** Native (ARM64), Playcover
 - **Notes:**
   - Runs perfectly
-  - Capped to 30fps currently 
+  - Hard Capped to 30fps currently 
 
 ### GTA Vice City: Definitive Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
@@ -620,7 +621,7 @@
 - **Method & Source:** Native (ARM64), Playcover
 - **Notes:**
   - Runs perfectly
-  - Capped to 30fps currently 
+  - Hard Capped to 30fps currently 
 
 ### Cyberpunk 2077 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Not Stable
@@ -629,7 +630,7 @@
 - **Settings:** Low
 - **Method & Source:** Crossover 23.6 (x64), Steam
 - **Notes:**
-  - Surprised this ran
+  - Surprised this even ran
   - Settings are as low as I could get and get like 10-15fps
 
 ### X-Plane 12 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
@@ -643,20 +644,21 @@
   - Playable on lower resolutions which make the game look pretty bad
 
 ### X-Plane 11 - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
-- **Stability:** Stable
-- **Frame Rate:** Good/Perfect
+- **Stability:** Very Stable
+- **Frame Rate:** Good
 - **Resolution:** 1680x1050
 - **Settings:** Low
-- **Method & Source:** Native (x64), Cracked
+- **Method & Source:** Native (x64), Steam
 - **Notes:**
   - Works well
   - Not the best frame rate with high settings
+  - Script mods help the frame rate
 
 ### The Witcher: Enhanced Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
 - **Frame Rate:** Perfect
 - **Resolution:** 1680x1050
-- **Settings:** Low/Medium
+- **Settings:** Low
 - **Method & Source:** Native (ARM64), Mac App Store
 - **Notes:**
   - Neat game
@@ -713,7 +715,7 @@
 - **Notes:**
   - Great performance
   - Steam version didn't launch
-  - Crossover works better than native because of native using anoutdated OpenGL translation layer
+  - Crossover works better than native because of native using an outdated OpenGL translation layer
 
 ### Kerbal Space Program - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
@@ -722,9 +724,8 @@
 - **Settings:** Medium
 - **Method & Source:** Native (x64), Cracked
 - **Notes:**
-  - Hate this game
+  - Hate this game because I don't know how to play it!
   - In terms of performance, It isn't that great
-  - I haven't tried low settings yet
 
 ### GTA: Vice City - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
@@ -778,7 +779,7 @@
 - **Stability:** Very Stable
 - **Frame Rate:** Excellent
 - **Resolution:** 1680x1050
-- **Settings:** Medium
+- **Settings:** Maxed
 - **Method & Source:** Native (x64), Steam
 - **Notes:**
   - MXAA 2x and 4x cause an extreme drop in frames
@@ -832,7 +833,7 @@
 - **Method & Source:** Native (x64), Steam
 - **Notes:**
   - Ok, not bad
-  - The game really isn't fun at all
+  - The game really isn't fun at all, wouldn't recommend
 
 ### Absolute Drift - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
@@ -842,7 +843,7 @@
 - **Method & Source:** Native (x64), Steam
 - **Notes:**
   - Ok, not bad
-  - The game's not really fun at all
+  - The game's not really fun at all, wouldn't recommend
 
 ### Combat Master - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
@@ -862,12 +863,12 @@
 - **Method & Source:** Rosetta (x64), Mac App Store
 - **Benchmark:** https://www.youtube.com/watch?v=FUmYGdBokTw&t=3s
 - **Notes:**
-  - Perfect FPS with max res.
+  - Excellent FPS with max res.
   - Depends on the plane you choose and the amount of 'parts' it has
 
 ### Resident Evil: Village - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Very Stable
-- **Frame Rate:** Good/Perfect/Excellent
+- **Frame Rate:** Excellent
 - **Resolution:** 2560x1600 and MetalFX
 - **Settings:** Maxed
 - **Method & Source:** Native (ARM64), Steam
@@ -886,7 +887,7 @@
 - **Settings:** Maxed
 - **Method & Source:** Native (ARM64), Prism Launcher
 - **Notes:**
-  - Perfect fps with Fabulously Optimized modpack
+  - Excellent fps with Fabulously Optimized modpack
 
 ### Sleeping Dogs: Definitive Edition - u/WhySooooFurious - M1, Macbook Air, 8 Core CPU, 7 Core GPU, 8GB RAM
 - **Stability:** Stable
