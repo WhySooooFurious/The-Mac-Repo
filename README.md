@@ -1,6 +1,6 @@
 # *Readme - Updated 14/02/24*
 
-## Check out the [wiki](https://github.com/WhySooooFurious/The-Mac-Repo/wiki) to consult tests
+## Check out the [wiki](https://github.com/WhySooooFurious/The-Mac-Repo/wiki)
 
 ## Links/Contact
 - GitHub
@@ -11,7 +11,7 @@
 
 - Reddit Contributors
   - u/TheMacRepo
-  - u/WhySooooFurious
+  - u/Prize-Cow868
   - u/ParthGupta79
   - u/Adomorns
 
