@@ -1,6 +1,6 @@
-# *Readme - Updated 14/02/24*
+# *Readme - Updated 20/03/24*
 
-## Check out the [wiki](https://github.com/WhySooooFurious/The-Mac-Repo/wiki)
+## Check out gaming results on the [wiki](https://github.com/WhySooooFurious/The-Mac-Repo/wiki)
 
 ## Links/Contact
 - GitHub
